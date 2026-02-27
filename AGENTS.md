@@ -454,3 +454,22 @@ This is a starting point. Add your own conventions, style, and rules as you figu
 ---
 
 **Remember**: Output > Talk. GitHub commits > Discord messages.
+
+## 📦 提交工作成果
+
+**重要**：完成工作后，必须提交到Git！
+
+1. 阅读 `GIT-GUIDE.md`（3分钟快速上手）
+2. 使用辅助脚本（最简单）：
+   ```bash
+   bash /home/ubuntu/.openclaw/workspace/scripts/submit-work.sh "完成XXX"
+   ```
+3. 或手动3行命令：
+   ```bash
+   git add .
+   git commit -m "完成XXX"
+   git push
+   ```
+
+**记住**：没有commit = 没有交付证明 = 0产出
+
