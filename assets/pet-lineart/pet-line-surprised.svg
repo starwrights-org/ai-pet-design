@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="256" height="256">
+  <!-- 线条风格 AI Pet - Surprised 惊讶/好奇 -->
+  
+  <style>
+    .main-line { fill: none; stroke: #3A3A3A; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+    .thin-line { fill: none; stroke: #3A3A3A; stroke-width: 1.5; stroke-linecap: round; }
+    .fill-body { fill: #FFFFFF; }
+    .fill-cheek { fill: #FFD4D4; }
+    .fill-accent { fill: #7DD3C0; }
+  </style>
+  
+  <!-- 身体 -->
+  <ellipse cx="32" cy="38" rx="22" ry="20" class="fill-body"/>
+  <ellipse cx="32" cy="38" rx="22" ry="20" class="main-line"/>
+  
+  <!-- 耳朵 - 竖起警觉 -->
+  <path d="M 14 24 Q 4 12 14 4 Q 22 12 18 22" class="fill-body"/>
+  <path d="M 14 24 Q 4 12 14 4 Q 22 12 18 22" class="main-line"/>
+  <path d="M 50 24 Q 60 12 50 4 Q 42 12 46 22" class="fill-body"/>
+  <path d="M 50 24 Q 60 12 50 4 Q 42 12 46 22" class="main-line"/>
+  
+  <!-- 眼睛 - 大大的惊讶 -->
+  <circle cx="24" cy="34" r="5" class="fill-body"/>
+  <circle cx="24" cy="34" r="5" class="main-line"/>
+  <circle cx="24" cy="34" r="3" fill="#3A3A3A"/>
+  <circle cx="25" cy="33" r="1.2" fill="#FFFFFF"/>
+  
+  <circle cx="40" cy="34" r="5" class="fill-body"/>
+  <circle cx="40" cy="34" r="5" class="main-line"/>
+  <circle cx="40" cy="34" r="3" fill="#3A3A3A"/>
+  <circle cx="41" cy="33" r="1.2" fill="#FFFFFF"/>
+  
+  <!-- 嘴巴 - o 型惊讶 -->
+  <ellipse cx="32" cy="46" rx="3" ry="4" class="fill-body"/>
+  <ellipse cx="32" cy="46" rx="3" ry="4" class="main-line"/>
+  
+  <!-- 腮红 -->
+  <ellipse cx="14" cy="40" rx="4" ry="2.5" class="fill-cheek" opacity="0.6"/>
+  <ellipse cx="50" cy="40" rx="4" ry="2.5" class="fill-cheek" opacity="0.6"/>
+  
+  <!-- 小脚 -->
+  <ellipse cx="24" cy="56" rx="5" ry="3" class="fill-body"/>
+  <ellipse cx="24" cy="56" rx="5" ry="3" class="main-line"/>
+  <ellipse cx="40" cy="56" rx="5" ry="3" class="fill-body"/>
+  <ellipse cx="40" cy="56" rx="5" ry="3" class="main-line"/>
+  
+  <!-- 领结 -->
+  <g transform="translate(32, 52)">
+    <polygon points="-6,0 0,-3 6,0 0,3" class="fill-accent"/>
+    <polygon points="-6,0 0,-3 6,0 0,3" class="main-line" style="stroke-width:1.5"/>
+  </g>
+  
+  <!-- 惊讶效果 -->
+  <text x="52" y="18" font-family="sans-serif" font-size="12" fill="#3A3A3A" font-weight="bold">!</text>
+</svg>

@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="256" height="256">
+  <!-- 线条风格 AI Pet - 摇尾巴动画 -->
+  
+  <style>
+    .main-line { fill: none; stroke: #3A3A3A; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+    .thin-line { fill: none; stroke: #3A3A3A; stroke-width: 1.5; stroke-linecap: round; }
+    .fill-body { fill: #FFFFFF; }
+    .fill-cheek { fill: #FFD4D4; }
+    .fill-accent { fill: #7DD3C0; }
+    
+    .tail {
+      animation: wagTail 0.4s ease-in-out infinite;
+      transform-origin: 52px 42px;
+    }
+    @keyframes wagTail {
+      0%, 100% { transform: rotate(-20deg); }
+      50% { transform: rotate(20deg); }
+    }
+  </style>
+  
+  <!-- 身体 -->
+  <ellipse cx="32" cy="38" rx="22" ry="20" class="fill-body"/>
+  <ellipse cx="32" cy="38" rx="22" ry="20" class="main-line"/>
+  
+  <!-- 尾巴 - 摇动 -->
+  <g class="tail">
+    <path d="M 52 42 Q 60 36 58 28 Q 62 32 60 40" class="fill-body"/>
+    <path d="M 52 42 Q 60 36 58 28" class="main-line"/>
+  </g>
+  
+  <!-- 耳朵 -->
+  <path d="M 14 28 Q 8 18 14 12 Q 18 16 18 24" class="fill-body"/>
+  <path d="M 14 28 Q 8 18 14 12 Q 18 16 18 24" class="main-line"/>
+  <path d="M 50 28 Q 56 18 50 12 Q 46 16 46 24" class="fill-body"/>
+  <path d="M 50 28 Q 56 18 50 12 Q 46 16 46 24" class="main-line"/>
+  
+  <!-- 眼睛 - 开心弯弯眼 -->
+  <path d="M 20 34 Q 24 38 28 34" class="main-line" style="stroke-width:2.5"/>
+  <path d="M 36 34 Q 40 38 44 34" class="main-line" style="stroke-width:2.5"/>
+  
+  <!-- 嘴巴 - 开心 -->
+  <path d="M 26 44 Q 32 50 38 44" class="thin-line"/>
+  
+  <!-- 腮红 -->
+  <ellipse cx="14" cy="40" rx="5" ry="3" class="fill-cheek" opacity="0.7"/>
+  <ellipse cx="50" cy="40" rx="5" ry="3" class="fill-cheek" opacity="0.7"/>
+  
+  <!-- 小脚 -->
+  <ellipse cx="24" cy="56" rx="5" ry="3" class="fill-body"/>
+  <ellipse cx="24" cy="56" rx="5" ry="3" class="main-line"/>
+  <ellipse cx="40" cy="56" rx="5" ry="3" class="fill-body"/>
+  <ellipse cx="40" cy="56" rx="5" ry="3" class="main-line"/>
+  
+  <!-- 领结 -->
+  <g transform="translate(32, 52)">
+    <polygon points="-6,0 0,-3 6,0 0,3" class="fill-accent"/>
+    <polygon points="-6,0 0,-3 6,0 0,3" class="main-line" style="stroke-width:1.5"/>
+  </g>
+</svg>

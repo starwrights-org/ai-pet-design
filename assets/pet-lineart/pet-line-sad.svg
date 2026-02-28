@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="256" height="256">
+  <!-- 线条风格 AI Pet - Sad 难过 -->
+  
+  <style>
+    .main-line { fill: none; stroke: #3A3A3A; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+    .thin-line { fill: none; stroke: #3A3A3A; stroke-width: 1.5; stroke-linecap: round; }
+    .fill-body { fill: #FFFFFF; }
+    .fill-cheek { fill: #FFD4D4; }
+    .fill-accent { fill: #7DD3C0; }
+    .fill-tear { fill: #B8E4F0; }
+  </style>
+  
+  <!-- 身体 -->
+  <ellipse cx="32" cy="40" rx="22" ry="18" class="fill-body"/>
+  <ellipse cx="32" cy="40" rx="22" ry="18" class="main-line"/>
+  
+  <!-- 耳朵 - 耷拉下来 -->
+  <path d="M 12 32 Q 4 28 8 20 Q 16 24 16 30" class="fill-body"/>
+  <path d="M 12 32 Q 4 28 8 20 Q 16 24 16 30" class="main-line"/>
+  <path d="M 52 32 Q 60 28 56 20 Q 48 24 48 30" class="fill-body"/>
+  <path d="M 52 32 Q 60 28 56 20 Q 48 24 48 30" class="main-line"/>
+  
+  <!-- 眼睛 - 难过的眼睛 -->
+  <circle cx="24" cy="36" r="3" fill="#3A3A3A"/>
+  <circle cx="40" cy="36" r="3" fill="#3A3A3A"/>
+  <circle cx="25" cy="35" r="1" fill="#FFFFFF"/>
+  <circle cx="41" cy="35" r="1" fill="#FFFFFF"/>
+  <!-- 眉毛下垂 -->
+  <path d="M 18 30 Q 24 32 28 31" class="thin-line"/>
+  <path d="M 46 30 Q 40 32 36 31" class="thin-line"/>
+  
+  <!-- 眼泪 -->
+  <ellipse cx="18" cy="42" rx="2" ry="3" class="fill-tear"/>
+  
+  <!-- 嘴巴 - 难过的弧 -->
+  <path d="M 28 48 Q 32 44 36 48" class="thin-line"/>
+  
+  <!-- 腮红 - 淡淡的 -->
+  <ellipse cx="14" cy="42" rx="4" ry="2.5" class="fill-cheek" opacity="0.4"/>
+  <ellipse cx="50" cy="42" rx="4" ry="2.5" class="fill-cheek" opacity="0.4"/>
+  
+  <!-- 小脚 -->
+  <ellipse cx="24" cy="56" rx="5" ry="3" class="fill-body"/>
+  <ellipse cx="24" cy="56" rx="5" ry="3" class="main-line"/>
+  <ellipse cx="40" cy="56" rx="5" ry="3" class="fill-body"/>
+  <ellipse cx="40" cy="56" rx="5" ry="3" class="main-line"/>
+  
+  <!-- 领结 - 歪了 -->
+  <g transform="translate(34, 52) rotate(10)">
+    <polygon points="-5,0 0,-2.5 5,0 0,2.5" class="fill-accent" opacity="0.8"/>
+    <polygon points="-5,0 0,-2.5 5,0 0,2.5" class="main-line" style="stroke-width:1.5"/>
+  </g>
+</svg>

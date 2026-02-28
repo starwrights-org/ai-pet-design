@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="256" height="256">
+  <!-- 线条风格 AI Pet - Idle 状态 -->
+  <!-- 风格: 极简线条、流畅曲线、治愈可爱 -->
+  
+  <style>
+    .main-line {
+      fill: none;
+      stroke: #3A3A3A;
+      stroke-width: 2;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+    }
+    .thin-line {
+      fill: none;
+      stroke: #3A3A3A;
+      stroke-width: 1.5;
+      stroke-linecap: round;
+    }
+    .fill-body {
+      fill: #FFFFFF;
+    }
+    .fill-cheek {
+      fill: #FFD4D4;
+    }
+    .fill-accent {
+      fill: #7DD3C0;
+    }
+  </style>
+  
+  <!-- 身体轮廓 - 简洁圆润 -->
+  <ellipse cx="32" cy="38" rx="22" ry="20" class="fill-body"/>
+  <ellipse cx="32" cy="38" rx="22" ry="20" class="main-line"/>
+  
+  <!-- 耳朵 - 简单弧线 -->
+  <!-- 左耳 -->
+  <path d="M 14 28 Q 8 18 14 12 Q 18 16 18 24" class="fill-body"/>
+  <path d="M 14 28 Q 8 18 14 12 Q 18 16 18 24" class="main-line"/>
+  <!-- 右耳 -->
+  <path d="M 50 28 Q 56 18 50 12 Q 46 16 46 24" class="fill-body"/>
+  <path d="M 50 28 Q 56 18 50 12 Q 46 16 46 24" class="main-line"/>
+  
+  <!-- 眼睛 - 简单圆点 -->
+  <circle cx="24" cy="34" r="3" fill="#3A3A3A"/>
+  <circle cx="40" cy="34" r="3" fill="#3A3A3A"/>
+  <!-- 眼睛高光 -->
+  <circle cx="25" cy="33" r="1" fill="#FFFFFF"/>
+  <circle cx="41" cy="33" r="1" fill="#FFFFFF"/>
+  
+  <!-- 鼻子 - 小三角 -->
+  <ellipse cx="32" cy="40" rx="2" ry="1.5" fill="#3A3A3A"/>
+  
+  <!-- 嘴巴 - 简单曲线 -->
+  <path d="M 28 44 Q 32 48 36 44" class="thin-line"/>
+  
+  <!-- 腮红 - 淡淡的 -->
+  <ellipse cx="16" cy="40" rx="4" ry="2.5" class="fill-cheek" opacity="0.6"/>
+  <ellipse cx="48" cy="40" rx="4" ry="2.5" class="fill-cheek" opacity="0.6"/>
+  
+  <!-- 小脚 - 简单椭圆 -->
+  <ellipse cx="24" cy="56" rx="5" ry="3" class="fill-body"/>
+  <ellipse cx="24" cy="56" rx="5" ry="3" class="main-line"/>
+  <ellipse cx="40" cy="56" rx="5" ry="3" class="fill-body"/>
+  <ellipse cx="40" cy="56" rx="5" ry="3" class="main-line"/>
+  
+  <!-- 装饰 - 简约领结 -->
+  <g transform="translate(32, 50)">
+    <polygon points="-6,0 0,-3 6,0 0,3" class="fill-accent"/>
+    <polygon points="-6,0 0,-3 6,0 0,3" class="main-line" style="stroke-width:1.5"/>
+  </g>
+</svg>
