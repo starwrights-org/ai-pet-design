@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 240" width="640" height="480" style="image-rendering: pixelated;">
+  <!-- PixelVerse Pod - 私人胶囊空间 -->
+  <!-- 科技感个人房间 -->
+  
+  <defs>
+    <linearGradient id="podWall" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#1A1A2E"/>
+      <stop offset="100%" style="stop-color:#16213E"/>
+    </linearGradient>
+    <linearGradient id="podFloor" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#16213E"/>
+      <stop offset="100%" style="stop-color:#0F3460"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- 墙壁 -->
+  <rect x="0" y="0" width="320" height="150" fill="url(#podWall)"/>
+  
+  <!-- 地板 -->
+  <rect x="0" y="150" width="320" height="90" fill="url(#podFloor)"/>
+  
+  <!-- 地板网格线 -->
+  <g stroke="#0F3460" stroke-width="1" opacity="0.5">
+    <line x1="0" y1="170" x2="320" y2="170"/>
+    <line x1="0" y1="190" x2="320" y2="190"/>
+    <line x1="0" y1="210" x2="320" y2="210"/>
+    <line x1="80" y1="150" x2="80" y2="240"/>
+    <line x1="160" y1="150" x2="160" y2="240"/>
+    <line x1="240" y1="150" x2="240" y2="240"/>
+  </g>
+  
+  <!-- 大型全息窗户 -->
+  <rect x="100" y="20" width="120" height="90" fill="#0D0221"/>
+  <rect x="100" y="20" width="120" height="90" fill="none" stroke="#00F5D4" stroke-width="3"/>
+  <!-- 窗户内的宇宙景象 -->
+  <rect x="105" y="25" width="110" height="80" fill="#050510"/>
+  <circle cx="130" cy="45" r="2" fill="#FFFFFF" opacity="0.8"/>
+  <circle cx="170" cy="55" r="1.5" fill="#00F5D4" opacity="0.6"/>
+  <circle cx="150" cy="70" r="1" fill="#FF006E" opacity="0.5"/>
+  <circle cx="190" cy="40" r="1" fill="#FFFFFF" opacity="0.6"/>
+  <circle cx="200" cy="65" r="2" fill="#8338EC" opacity="0.7"/>
+  <!-- 远处星云 -->
+  <ellipse cx="160" cy="80" rx="30" ry="10" fill="#8338EC" opacity="0.2"/>
+  
+  <!-- 悬浮床/休息舱 -->
+  <ellipse cx="70" cy="180" rx="50" ry="25" fill="#1A1A2E"/>
+  <ellipse cx="70" cy="178" rx="45" ry="22" fill="#16213E"/>
+  <ellipse cx="70" cy="175" rx="40" ry="18" fill="#0F3460"/>
+  <!-- 床垫发光边缘 -->
+  <ellipse cx="70" cy="175" rx="40" ry="18" fill="none" stroke="#8338EC" stroke-width="1" opacity="0.6"/>
+  <!-- 枕头区域 -->
+  <ellipse cx="45" cy="172" rx="15" ry="8" fill="#1A1A2E" stroke="#00F5D4" stroke-width="1" opacity="0.5"/>
+  <!-- 悬浮效果 -->
+  <ellipse cx="70" cy="200" rx="35" ry="8" fill="#8338EC" opacity="0.15"/>
+  
+  <!-- 全息控制台/桌子 -->
+  <rect x="240" y="130" width="60" height="50" fill="#16213E"/>
+  <rect x="240" y="130" width="60" height="50" fill="none" stroke="#00F5D4" stroke-width="2"/>
+  <!-- 控制台屏幕 -->
+  <rect x="245" y="135" width="50" height="25" fill="#0D0221"/>
+  <rect x="248" y="138" width="44" height="19" fill="#050510"/>
+  <!-- 屏幕内容 -->
+  <rect x="250" y="140" width="20" height="3" fill="#00F5D4" opacity="0.8"/>
+  <rect x="250" y="145" width="15" height="2" fill="#FF006E" opacity="0.6"/>
+  <rect x="250" y="149" width="25" height="2" fill="#8338EC" opacity="0.5"/>
+  <rect x="280" y="140" width="10" height="15" fill="#00F5D4" opacity="0.3"/>
+  <!-- 按钮 -->
+  <circle cx="255" cy="155" r="3" fill="#FF006E"/>
+  <circle cx="265" cy="155" r="3" fill="#00F5D4"/>
+  <circle cx="275" cy="155" r="3" fill="#8338EC"/>
+  
+  <!-- 食物合成器 -->
+  <rect x="250" y="190" width="40" height="35" fill="#1A1A2E"/>
+  <rect x="250" y="190" width="40" height="35" fill="none" stroke="#FF006E" stroke-width="1"/>
+  <rect x="255" y="195" width="30" height="15" fill="#0D0221"/>
+  <!-- 发光指示 -->
+  <circle cx="260" cy="218" r="2" fill="#00F5D4"/>
+  <circle cx="280" cy="218" r="2" fill="#FF006E">
+    <animate attributeName="opacity" values="1;0.3;1" dur="1s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- 玩具/娱乐球 -->
+  <circle cx="180" cy="210" r="12" fill="#FF006E" opacity="0.8"/>
+  <circle cx="180" cy="207" r="4" fill="#FFFFFF" opacity="0.4"/>
+  <ellipse cx="180" cy="225" rx="8" ry="3" fill="#FF006E" opacity="0.2"/>
+  
+  <!-- 墙面装饰灯条 -->
+  <rect x="0" y="50" width="4" height="80" fill="#00F5D4" opacity="0.4"/>
+  <rect x="316" y="50" width="4" height="80" fill="#FF006E" opacity="0.4"/>
+  <rect x="0" y="148" width="320" height="2" fill="#8338EC" opacity="0.5"/>
+  
+  <!-- 天花板灯 -->
+  <ellipse cx="160" cy="10" rx="40" ry="8" fill="#00F5D4" opacity="0.3"/>
+  <ellipse cx="160" cy="10" rx="30" ry="5" fill="#00F5D4" opacity="0.5"/>
+  
+  <!-- 全息宠物状态显示 -->
+  <g transform="translate(20, 30)">
+    <rect x="0" y="0" width="60" height="50" fill="#0D0221" opacity="0.8"/>
+    <rect x="0" y="0" width="60" height="50" fill="none" stroke="#00F5D4" stroke-width="1" opacity="0.6"/>
+    <text x="5" y="15" font-size="8" fill="#00F5D4" font-family="monospace">STATUS</text>
+    <rect x="5" y="20" width="40" height="4" fill="#1A1A2E"/>
+    <rect x="5" y="20" width="32" height="4" fill="#FF006E"/>
+    <rect x="5" y="28" width="40" height="4" fill="#1A1A2E"/>
+    <rect x="5" y="28" width="28" height="4" fill="#00F5D4"/>
+    <rect x="5" y="36" width="40" height="4" fill="#1A1A2E"/>
+    <rect x="5" y="36" width="35" height="4" fill="#8338EC"/>
+  </g>
+</svg>

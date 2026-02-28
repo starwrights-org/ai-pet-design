@@ -1,0 +1,153 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320" width="960" height="640" style="image-rendering: pixelated;">
+  <!-- PixelVerse Hub - 霓虹广场 (夜景版) -->
+  <!-- 赛博朋克风格 -->
+  
+  <defs>
+    <!-- 霓虹地砖图案 -->
+    <pattern id="neonTile" x="0" y="0" width="24" height="24" patternUnits="userSpaceOnUse">
+      <rect width="24" height="24" fill="#1A1A2E"/>
+      <rect x="0" y="0" width="11" height="11" fill="#16213E" stroke="#0F3460" stroke-width="1"/>
+      <rect x="12" y="12" width="11" height="11" fill="#16213E" stroke="#0F3460" stroke-width="1"/>
+      <rect x="12" y="0" width="11" height="11" fill="#1A1A2E" stroke="#0F3460" stroke-width="1"/>
+      <rect x="0" y="12" width="11" height="11" fill="#1A1A2E" stroke="#0F3460" stroke-width="1"/>
+    </pattern>
+    
+    <!-- 霓虹渐变 -->
+    <linearGradient id="neonPink" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#FF006E"/>
+      <stop offset="100%" style="stop-color:#FB5607"/>
+    </linearGradient>
+    <linearGradient id="neonCyan" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00F5D4"/>
+      <stop offset="100%" style="stop-color:#00BBF9"/>
+    </linearGradient>
+    <linearGradient id="neonPurple" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#8338EC"/>
+      <stop offset="100%" style="stop-color:#3A0CA3"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- 深夜天空 -->
+  <rect x="0" y="0" width="480" height="160" fill="#0D0221"/>
+  
+  <!-- 远处城市轮廓 -->
+  <g fill="#1A0533">
+    <rect x="0" y="80" width="40" height="80"/>
+    <rect x="45" y="60" width="30" height="100"/>
+    <rect x="80" y="90" width="25" height="70"/>
+    <rect x="380" y="70" width="35" height="90"/>
+    <rect x="420" y="50" width="30" height="110"/>
+    <rect x="455" y="85" width="25" height="75"/>
+  </g>
+  
+  <!-- 建筑霓虹灯 -->
+  <rect x="0" y="78" width="40" height="2" fill="#FF006E"/>
+  <rect x="45" y="58" width="30" height="2" fill="#00F5D4"/>
+  <rect x="380" y="68" width="35" height="2" fill="#8338EC"/>
+  <rect x="420" y="48" width="30" height="2" fill="#FF006E"/>
+  
+  <!-- 星星和数据流 -->
+  <g fill="#FFFFFF" opacity="0.6">
+    <circle cx="50" cy="30" r="1"/>
+    <circle cx="120" cy="45" r="1.5"/>
+    <circle cx="200" cy="25" r="1"/>
+    <circle cx="280" cy="40" r="1.5"/>
+    <circle cx="350" cy="20" r="1"/>
+    <circle cx="430" cy="35" r="1"/>
+  </g>
+  
+  <!-- 数据流粒子动画 -->
+  <g fill="#00F5D4" opacity="0.4">
+    <circle cx="150" cy="50" r="2">
+      <animate attributeName="cy" values="50;10;50" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.4;0.8;0.4" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="300" cy="30" r="1.5">
+      <animate attributeName="cy" values="30;70;30" dur="4s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  
+  <!-- 地面 -->
+  <rect x="0" y="160" width="480" height="160" fill="url(#neonTile)"/>
+  
+  <!-- 中央全息喷泉平台 -->
+  <ellipse cx="240" cy="240" rx="80" ry="40" fill="#16213E"/>
+  <ellipse cx="240" cy="240" rx="80" ry="40" fill="none" stroke="#00F5D4" stroke-width="2" opacity="0.8"/>
+  <ellipse cx="240" cy="238" rx="70" ry="35" fill="none" stroke="#8338EC" stroke-width="1" opacity="0.5"/>
+  
+  <!-- 全息喷泉核心 -->
+  <ellipse cx="240" cy="235" rx="30" ry="15" fill="#00F5D4" opacity="0.3"/>
+  <rect x="235" y="200" width="10" height="35" fill="#00F5D4" opacity="0.2"/>
+  
+  <!-- 全息投影效果 -->
+  <ellipse cx="240" cy="190" rx="25" ry="12" fill="none" stroke="#FF006E" stroke-width="2" opacity="0.6">
+    <animate attributeName="ry" values="12;18;12" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.6;0.3;0.6" dur="2s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse cx="240" cy="175" rx="18" ry="8" fill="none" stroke="#8338EC" stroke-width="1.5" opacity="0.5">
+    <animate attributeName="ry" values="8;14;8" dur="2.5s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse cx="240" cy="162" rx="12" ry="5" fill="none" stroke="#00F5D4" stroke-width="1" opacity="0.4">
+    <animate attributeName="ry" values="5;10;5" dur="3s" repeatCount="indefinite"/>
+  </ellipse>
+  
+  <!-- 左侧霓虹招牌建筑 -->
+  <rect x="20" y="140" width="70" height="60" fill="#16213E"/>
+  <rect x="20" y="140" width="70" height="60" fill="none" stroke="#FF006E" stroke-width="2"/>
+  <!-- 招牌 -->
+  <rect x="25" y="145" width="60" height="20" fill="#0D0221"/>
+  <text x="35" y="160" font-size="10" fill="#FF006E" font-family="monospace">HUB</text>
+  <!-- 窗户发光 -->
+  <rect x="28" y="170" width="15" height="12" fill="#00F5D4" opacity="0.5"/>
+  <rect x="48" y="170" width="15" height="12" fill="#8338EC" opacity="0.5"/>
+  <rect x="68" y="170" width="15" height="12" fill="#FF006E" opacity="0.5"/>
+  
+  <!-- 右侧霓虹招牌建筑 -->
+  <rect x="390" y="145" width="70" height="55" fill="#16213E"/>
+  <rect x="390" y="145" width="70" height="55" fill="none" stroke="#00F5D4" stroke-width="2"/>
+  <!-- 招牌 -->
+  <rect x="395" y="150" width="60" height="18" fill="#0D0221"/>
+  <text x="400" y="163" font-size="8" fill="#00F5D4" font-family="monospace">CAFE</text>
+  <!-- 窗户发光 -->
+  <rect x="398" y="175" width="12" height="10" fill="#FF006E" opacity="0.5"/>
+  <rect x="415" y="175" width="12" height="10" fill="#00F5D4" opacity="0.5"/>
+  <rect x="432" y="175" width="12" height="10" fill="#8338EC" opacity="0.5"/>
+  
+  <!-- 霓虹灯柱左 -->
+  <rect x="100" y="170" width="6" height="50" fill="#1A1A2E"/>
+  <circle cx="103" cy="165" r="10" fill="#FF006E" opacity="0.3"/>
+  <circle cx="103" cy="165" r="6" fill="#FF006E" opacity="0.6"/>
+  <ellipse cx="103" cy="200" rx="20" ry="30" fill="#FF006E" opacity="0.1"/>
+  
+  <!-- 霓虹灯柱右 -->
+  <rect x="375" y="170" width="6" height="50" fill="#1A1A2E"/>
+  <circle cx="378" cy="165" r="10" fill="#00F5D4" opacity="0.3"/>
+  <circle cx="378" cy="165" r="6" fill="#00F5D4" opacity="0.6"/>
+  <ellipse cx="378" cy="200" rx="20" ry="30" fill="#00F5D4" opacity="0.1"/>
+  
+  <!-- 霓虹长椅左 -->
+  <rect x="130" y="200" width="50" height="6" fill="#16213E"/>
+  <rect x="130" y="200" width="50" height="6" fill="none" stroke="#8338EC" stroke-width="1"/>
+  <rect x="130" y="206" width="50" height="12" fill="#1A1A2E"/>
+  
+  <!-- 霓虹长椅右 -->
+  <rect x="300" y="200" width="50" height="6" fill="#16213E"/>
+  <rect x="300" y="200" width="50" height="6" fill="none" stroke="#FF006E" stroke-width="1"/>
+  <rect x="300" y="206" width="50" height="12" fill="#1A1A2E"/>
+  
+  <!-- 地面霓虹线条 -->
+  <line x1="0" y1="280" x2="200" y2="280" stroke="#FF006E" stroke-width="2" opacity="0.4"/>
+  <line x1="280" y1="280" x2="480" y2="280" stroke="#00F5D4" stroke-width="2" opacity="0.4"/>
+  <line x1="120" y1="300" x2="360" y2="300" stroke="#8338EC" stroke-width="1" opacity="0.3"/>
+  
+  <!-- 漂浮数据颗粒 -->
+  <circle cx="60" cy="220" r="3" fill="#FF006E" opacity="0.6">
+    <animate attributeName="cy" values="220;210;220" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="420" cy="230" r="2" fill="#00F5D4" opacity="0.5">
+    <animate attributeName="cy" values="230;220;230" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="200" cy="270" r="2" fill="#8338EC" opacity="0.4">
+    <animate attributeName="cy" values="270;260;270" dur="3s" repeatCount="indefinite"/>
+  </circle>
+</svg>
