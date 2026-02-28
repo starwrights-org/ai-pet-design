@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="128" height="128">
+  <!-- 清新日系AI Pet - 温柔型性格 (Gentle) -->
+  <!-- 配色: 淡紫+薰衣草 -->
+  
+  <!-- 身体 - 淡紫色系 -->
+  <ellipse cx="32" cy="36" rx="24" ry="22" fill="#E8DFF5" />
+  
+  <!-- 耳朵 - 圆润柔和 -->
+  <ellipse cx="14" cy="18" rx="7" ry="9" fill="#E8DFF5" transform="rotate(-10 14 18)" />
+  <ellipse cx="14" cy="18" rx="5" ry="6" fill="#D4C4E8" transform="rotate(-10 14 18)" />
+  <ellipse cx="50" cy="18" rx="7" ry="9" fill="#E8DFF5" transform="rotate(10 50 18)" />
+  <ellipse cx="50" cy="18" rx="5" ry="6" fill="#D4C4E8" transform="rotate(10 50 18)" />
+  
+  <!-- 脸部高光 -->
+  <ellipse cx="32" cy="32" rx="18" ry="16" fill="#F5F0FA" opacity="0.5" />
+  
+  <!-- 眼睛 - 温柔下垂眼 -->
+  <ellipse cx="24" cy="32" rx="5" ry="5.5" fill="#5D4E6D" />
+  <ellipse cx="40" cy="32" rx="5" ry="5.5" fill="#5D4E6D" />
+  <!-- 眼睛高光 -->
+  <circle cx="26" cy="30" r="2" fill="white" />
+  <circle cx="42" cy="30" r="2" fill="white" />
+  <!-- 温柔的眉毛 -->
+  <path d="M 19 27 Q 24 26 28 28" stroke="#9B8AAC" stroke-width="1.2" fill="none" stroke-linecap="round" />
+  <path d="M 45 27 Q 40 26 36 28" stroke="#9B8AAC" stroke-width="1.2" fill="none" stroke-linecap="round" />
+  
+  <!-- 脸红 - 淡淡粉色 -->
+  <ellipse cx="14" cy="38" rx="5" ry="3" fill="#E8B4D4" opacity="0.5" />
+  <ellipse cx="50" cy="38" rx="5" ry="3" fill="#E8B4D4" opacity="0.5" />
+  
+  <!-- 嘴巴 - 温柔微笑 -->
+  <path d="M 28 44 Q 32 47 36 44" stroke="#B89AC8" stroke-width="2" fill="none" stroke-linecap="round" />
+  
+  <!-- 小脚 -->
+  <ellipse cx="22" cy="54" rx="6" ry="4" fill="#DDD0EB" />
+  <ellipse cx="42" cy="54" rx="6" ry="4" fill="#DDD0EB" />
+  
+  <!-- 装饰 - 小花 -->
+  <g transform="translate(32, 10)">
+    <circle cx="0" cy="0" r="3" fill="#F0E0F8" />
+    <circle cx="-4" cy="0" r="2.5" fill="#E8D0F0" />
+    <circle cx="4" cy="0" r="2.5" fill="#E8D0F0" />
+    <circle cx="0" cy="-4" r="2.5" fill="#E8D0F0" />
+    <circle cx="0" cy="4" r="2.5" fill="#E8D0F0" />
+    <circle cx="0" cy="0" r="1.5" fill="#FFE4B5" />
+  </g>
+</svg>

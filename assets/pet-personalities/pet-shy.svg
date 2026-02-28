@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="128" height="128">
+  <!-- 清新日系AI Pet - 害羞型性格 (Shy) -->
+  <!-- 配色: 桃粉+奶油白 -->
+  
+  <!-- 身体 - 柔粉色系 -->
+  <ellipse cx="32" cy="38" rx="23" ry="20" fill="#FFE8E8" />
+  
+  <!-- 耳朵 - 有点耷拉 -->
+  <ellipse cx="12" cy="22" rx="6" ry="8" fill="#FFE8E8" transform="rotate(-20 12 22)" />
+  <ellipse cx="12" cy="22" rx="4" ry="5" fill="#FFCCD5" transform="rotate(-20 12 22)" />
+  <ellipse cx="52" cy="22" rx="6" ry="8" fill="#FFE8E8" transform="rotate(20 52 22)" />
+  <ellipse cx="52" cy="22" rx="4" ry="5" fill="#FFCCD5" transform="rotate(20 52 22)" />
+  
+  <!-- 脸部高光 -->
+  <ellipse cx="32" cy="34" rx="17" ry="14" fill="#FFF5F5" opacity="0.5" />
+  
+  <!-- 眼睛 - 害羞地看向一边 -->
+  <ellipse cx="26" cy="32" rx="5" ry="6" fill="#5A4A4A" />
+  <ellipse cx="42" cy="32" rx="5" ry="6" fill="#5A4A4A" />
+  <!-- 瞳孔偏向一边 -->
+  <circle cx="24" cy="33" r="3" fill="#3A2A2A" />
+  <circle cx="40" cy="33" r="3" fill="#3A2A2A" />
+  <!-- 眼睛高光 -->
+  <circle cx="25" cy="31" r="2" fill="white" />
+  <circle cx="41" cy="31" r="2" fill="white" />
+  
+  <!-- 脸红 - 明显的害羞红 -->
+  <ellipse cx="14" cy="40" rx="6" ry="4" fill="#FFB8C8" opacity="0.7" />
+  <ellipse cx="50" cy="40" rx="6" ry="4" fill="#FFB8C8" opacity="0.7" />
+  
+  <!-- 嘴巴 - 小小的紧张 -->
+  <ellipse cx="32" cy="46" rx="2" ry="1.5" fill="#E8A0A0" />
+  
+  <!-- 小手遮脸动作 -->
+  <ellipse cx="18" cy="42" rx="5" ry="4" fill="#FFD8D8" />
+  
+  <!-- 小脚 -->
+  <ellipse cx="24" cy="54" rx="5" ry="3.5" fill="#FFD5D5" />
+  <ellipse cx="40" cy="54" rx="5" ry="3.5" fill="#FFD5D5" />
+  
+  <!-- 装饰 - 小蝴蝶结（歪歪的更可爱） -->
+  <g transform="translate(35, 15) rotate(15)">
+    <ellipse cx="-5" cy="0" rx="4" ry="2.5" fill="#FFB0C0" />
+    <ellipse cx="5" cy="0" rx="4" ry="2.5" fill="#FFB0C0" />
+    <circle cx="0" cy="0" r="2" fill="#FF90A0" />
+  </g>
+</svg>

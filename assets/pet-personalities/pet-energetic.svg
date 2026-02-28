@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="128" height="128">
+  <!-- 清新日系AI Pet - 活泼型性格 (Energetic) -->
+  <!-- 配色: 明亮橙+阳光黄 -->
+  
+  <!-- 身体 - 橙色系 -->
+  <ellipse cx="32" cy="36" rx="24" ry="22" fill="#FFD4A3" />
+  
+  <!-- 耳朵 - 尖尖的活力感 -->
+  <polygon points="10,25 18,8 22,28" fill="#FFD4A3" />
+  <polygon points="12,23 18,12 20,26" fill="#FFAA66" />
+  <polygon points="54,25 46,8 42,28" fill="#FFD4A3" />
+  <polygon points="52,23 46,12 44,26" fill="#FFAA66" />
+  
+  <!-- 脸部高光 -->
+  <ellipse cx="32" cy="32" rx="18" ry="16" fill="#FFF0DD" opacity="0.4" />
+  
+  <!-- 眼睛 - 大而有神 -->
+  <ellipse cx="24" cy="30" rx="6" ry="7" fill="#4A3728" />
+  <ellipse cx="40" cy="30" rx="6" ry="7" fill="#4A3728" />
+  <!-- 眼睛高光 - 超大活力 -->
+  <circle cx="27" cy="28" r="3" fill="white" />
+  <circle cx="43" cy="28" r="3" fill="white" />
+  <circle cx="22" cy="32" r="1.5" fill="white" opacity="0.6" />
+  <circle cx="38" cy="32" r="1.5" fill="white" opacity="0.6" />
+  
+  <!-- 脸红 - 活力红 -->
+  <ellipse cx="12" cy="38" rx="5" ry="3" fill="#FF9966" opacity="0.6" />
+  <ellipse cx="52" cy="38" rx="5" ry="3" fill="#FF9966" opacity="0.6" />
+  
+  <!-- 嘴巴 - 大大的笑 -->
+  <path d="M 23 42 Q 32 52 41 42" stroke="#D87A4A" stroke-width="2.5" fill="#FFB088" stroke-linecap="round" />
+  
+  <!-- 小脚 -->
+  <ellipse cx="22" cy="54" rx="6" ry="4" fill="#FFBF80" />
+  <ellipse cx="42" cy="54" rx="6" ry="4" fill="#FFBF80" />
+  
+  <!-- 装饰 - 星星发夹 -->
+  <polygon points="32,6 34,12 40,12 35,16 37,22 32,18 27,22 29,16 24,12 30,12" fill="#FFD700" />
+  
+  <!-- 活力光效 -->
+  <circle cx="6" cy="18" r="2" fill="#FFD700" opacity="0.6" />
+  <circle cx="58" cy="18" r="2" fill="#FFD700" opacity="0.6" />
+  <circle cx="8" cy="48" r="1.5" fill="#FFD700" opacity="0.4" />
+  <circle cx="56" cy="48" r="1.5" fill="#FFD700" opacity="0.4" />
+</svg>

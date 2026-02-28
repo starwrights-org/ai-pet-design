@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="128" height="128">
+  <!-- 清新日系AI Pet - 贪吃型性格 (Foodie) -->
+  <!-- 配色: 奶油黄+焦糖棕 -->
+  
+  <!-- 身体 - 圆润（吃得好） -->
+  <ellipse cx="32" cy="36" rx="25" ry="24" fill="#FFF2DC" />
+  
+  <!-- 耳朵 - 圆圆的 -->
+  <ellipse cx="12" cy="18" rx="7" ry="8" fill="#FFF2DC" transform="rotate(-5 12 18)" />
+  <ellipse cx="12" cy="18" rx="5" ry="5" fill="#FFE4C4" transform="rotate(-5 12 18)" />
+  <ellipse cx="52" cy="18" rx="7" ry="8" fill="#FFF2DC" transform="rotate(5 52 18)" />
+  <ellipse cx="52" cy="18" rx="5" ry="5" fill="#FFE4C4" transform="rotate(5 52 18)" />
+  
+  <!-- 脸部高光 -->
+  <ellipse cx="32" cy="32" rx="19" ry="18" fill="#FFFAF0" opacity="0.4" />
+  
+  <!-- 眼睛 - 期待食物的闪亮眼睛 -->
+  <ellipse cx="24" cy="30" rx="6" ry="7" fill="#5A4030" />
+  <ellipse cx="40" cy="30" rx="6" ry="7" fill="#5A4030" />
+  <!-- 眼睛高光 - 超大（看到食物） -->
+  <circle cx="27" cy="28" r="3" fill="white" />
+  <circle cx="43" cy="28" r="3" fill="white" />
+  <circle cx="22" cy="32" r="1.5" fill="white" opacity="0.5" />
+  <circle cx="38" cy="32" r="1.5" fill="white" opacity="0.5" />
+  
+  <!-- 脸红 - 满足的红润 -->
+  <ellipse cx="12" cy="40" rx="5" ry="3" fill="#FFCBA4" opacity="0.6" />
+  <ellipse cx="52" cy="40" rx="5" ry="3" fill="#FFCBA4" opacity="0.6" />
+  
+  <!-- 嘴巴 - 开心地舔嘴 -->
+  <path d="M 24 44 Q 32 52 40 44" stroke="#C08060" stroke-width="2" fill="#FFD4B8" stroke-linecap="round" />
+  <!-- 舌头 -->
+  <ellipse cx="32" cy="48" rx="4" ry="3" fill="#FFB0A0" />
+  
+  <!-- 小脚 -->
+  <ellipse cx="22" cy="56" rx="6" ry="4" fill="#FFE8D0" />
+  <ellipse cx="42" cy="56" rx="6" ry="4" fill="#FFE8D0" />
+  
+  <!-- 装饰 - 小厨师帽 -->
+  <rect x="22" y="4" width="20" height="6" rx="2" fill="#FFFFFF" />
+  <ellipse cx="32" cy="4" rx="12" ry="4" fill="#FFFFFF" />
+  <rect x="26" y="0" width="12" height="6" rx="2" fill="#FFFFFF" />
+</svg>

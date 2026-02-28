@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="128" height="128">
+  <!-- 清新日系AI Pet - 冷静型性格 (Cool) -->
+  <!-- 配色: 冰蓝+银灰 -->
+  
+  <!-- 身体 - 冰蓝色系 -->
+  <ellipse cx="32" cy="36" rx="24" ry="22" fill="#D4E8F2" />
+  
+  <!-- 耳朵 - 尖锐有型 -->
+  <polygon points="12,24 16,6 24,26" fill="#D4E8F2" />
+  <polygon points="14,22 16,10 22,24" fill="#B8D4E8" />
+  <polygon points="52,24 48,6 40,26" fill="#D4E8F2" />
+  <polygon points="50,22 48,10 42,24" fill="#B8D4E8" />
+  
+  <!-- 脸部高光 -->
+  <ellipse cx="32" cy="32" rx="18" ry="16" fill="#E8F4FA" opacity="0.4" />
+  
+  <!-- 眼睛 - 锐利但不凶 -->
+  <ellipse cx="24" cy="31" rx="5" ry="5" fill="#3A5068" />
+  <ellipse cx="40" cy="31" rx="5" ry="5" fill="#3A5068" />
+  <!-- 眼睛高光 - 小而精致 -->
+  <circle cx="26" cy="29" r="1.8" fill="white" />
+  <circle cx="42" cy="29" r="1.8" fill="white" />
+  <!-- 冷静的眉毛 -->
+  <path d="M 18 26 L 28 27" stroke="#6A8898" stroke-width="1.5" fill="none" stroke-linecap="round" />
+  <path d="M 46 26 L 36 27" stroke="#6A8898" stroke-width="1.5" fill="none" stroke-linecap="round" />
+  
+  <!-- 脸红 - 淡淡的蓝粉 -->
+  <ellipse cx="14" cy="38" rx="4" ry="2.5" fill="#C8D8E8" opacity="0.6" />
+  <ellipse cx="50" cy="38" rx="4" ry="2.5" fill="#C8D8E8" opacity="0.6" />
+  
+  <!-- 嘴巴 - 淡然微笑 -->
+  <path d="M 28 44 Q 32 46 36 44" stroke="#7A9AB0" stroke-width="1.8" fill="none" stroke-linecap="round" />
+  
+  <!-- 小脚 -->
+  <ellipse cx="22" cy="54" rx="6" ry="4" fill="#C4DCE8" />
+  <ellipse cx="42" cy="54" rx="6" ry="4" fill="#C4DCE8" />
+  
+  <!-- 装饰 - 雪花/冰晶 -->
+  <g transform="translate(32, 8)">
+    <line x1="0" y1="-5" x2="0" y2="5" stroke="#A8C8D8" stroke-width="1.5" />
+    <line x1="-5" y1="0" x2="5" y2="0" stroke="#A8C8D8" stroke-width="1.5" />
+    <line x1="-3.5" y1="-3.5" x2="3.5" y2="3.5" stroke="#A8C8D8" stroke-width="1" />
+    <line x1="3.5" y1="-3.5" x2="-3.5" y2="3.5" stroke="#A8C8D8" stroke-width="1" />
+    <circle cx="0" cy="0" r="2" fill="#E0F0F8" />
+  </g>
+</svg>
