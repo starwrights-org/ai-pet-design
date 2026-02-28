@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320" width="960" height="640" style="image-rendering: pixelated;">
+  <!-- 露天大广场 - 夜晚版 -->
+  
+  <defs>
+    <pattern id="grassNight" x="0" y="0" width="16" height="16" patternUnits="userSpaceOnUse">
+      <rect width="16" height="16" fill="#2A4A2A"/>
+      <rect x="2" y="4" width="2" height="4" fill="#1A3A1A"/>
+      <rect x="8" y="8" width="2" height="4" fill="#1A3A1A"/>
+    </pattern>
+    
+    <pattern id="stonePathNight" x="0" y="0" width="24" height="24" patternUnits="userSpaceOnUse">
+      <rect width="24" height="24" fill="#505050"/>
+      <rect x="0" y="0" width="11" height="11" fill="#606060" stroke="#404040" stroke-width="1"/>
+      <rect x="12" y="12" width="11" height="11" fill="#606060" stroke="#404040" stroke-width="1"/>
+    </pattern>
+  </defs>
+  
+  <!-- 夜空 -->
+  <rect x="0" y="0" width="480" height="140" fill="#0A0A2A"/>
+  
+  <!-- 星星 -->
+  <g fill="#FFFFFF">
+    <circle cx="50" cy="30" r="1.5"/>
+    <circle cx="100" cy="50" r="1"/>
+    <circle cx="150" cy="25" r="2"/>
+    <circle cx="180" cy="60" r="1"/>
+    <circle cx="220" cy="35" r="1.5"/>
+    <circle cx="270" cy="20" r="1"/>
+    <circle cx="310" cy="55" r="2"/>
+    <circle cx="350" cy="30" r="1"/>
+    <circle cx="390" cy="45" r="1.5"/>
+    <circle cx="430" cy="25" r="1"/>
+    <circle cx="460" cy="50" r="1.5"/>
+    <circle cx="80" cy="80" r="1"/>
+    <circle cx="200" cy="75" r="1.5"/>
+    <circle cx="320" cy="70" r="1"/>
+    <circle cx="400" cy="85" r="1"/>
+  </g>
+  
+  <!-- 闪烁的星星 -->
+  <circle cx="250" cy="40" r="2" fill="#FFFACD">
+    <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="380" cy="60" r="2" fill="#FFFACD">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- 月亮 -->
+  <circle cx="400" cy="50" r="30" fill="#FFFACD"/>
+  <circle cx="410" cy="45" r="25" fill="#0A0A2A"/>
+  
+  <!-- 远处丘陵 -->
+  <path d="M 0 140 Q 80 120 160 140 Q 240 110 320 140 Q 400 125 480 140 L 480 160 L 0 160 Z" fill="#1A2A1A"/>
+  
+  <!-- 草地 -->
+  <rect x="0" y="140" width="480" height="180" fill="url(#grassNight)"/>
+  
+  <!-- 中央广场 -->
+  <ellipse cx="240" cy="240" rx="140" ry="60" fill="url(#stonePathNight)"/>
+  
+  <!-- 树木剪影 -->
+  <rect x="30" y="150" width="20" height="60" fill="#0A1A0A"/>
+  <ellipse cx="40" cy="120" rx="45" ry="40" fill="#0A1A0A"/>
+  <ellipse cx="25" cy="130" rx="30" ry="25" fill="#0A1A0A"/>
+  <ellipse cx="55" cy="125" rx="25" ry="22" fill="#0A1A0A"/>
+  
+  <rect x="420" y="155" width="18" height="55" fill="#0A1A0A"/>
+  <ellipse cx="430" cy="130" rx="40" ry="35" fill="#0A1A0A"/>
+  <ellipse cx="415" cy="138" rx="28" ry="22" fill="#0A1A0A"/>
+  
+  <!-- 长椅剪影 -->
+  <rect x="100" y="185" width="50" height="20" fill="#1A1A1A"/>
+  <rect x="330" y="185" width="50" height="20" fill="#1A1A1A"/>
+  
+  <!-- 喷泉 -->
+  <ellipse cx="240" cy="250" rx="35" ry="18" fill="#2A3A5A"/>
+  <rect x="225" y="250" width="30" height="20" fill="#3A3A3A"/>
+  <rect x="220" y="268" width="40" height="8" fill="#2A2A2A"/>
+  
+  <!-- 路灯亮起 - 更亮 -->
+  <rect x="90" y="155" width="6" height="50" fill="#1A1A1A"/>
+  <ellipse cx="93" cy="150" rx="14" ry="10" fill="#FFE87C"/>
+  <ellipse cx="93" cy="180" rx="40" ry="50" fill="#FFE87C" opacity="0.2"/>
+  <ellipse cx="93" cy="170" rx="25" ry="30" fill="#FFE87C" opacity="0.15"/>
+  
+  <rect x="385" y="155" width="6" height="50" fill="#1A1A1A"/>
+  <ellipse cx="388" cy="150" rx="14" ry="10" fill="#FFE87C"/>
+  <ellipse cx="388" cy="180" rx="40" ry="50" fill="#FFE87C" opacity="0.2"/>
+  <ellipse cx="388" cy="170" rx="25" ry="30" fill="#FFE87C" opacity="0.15"/>
+  
+  <!-- 中央喷泉灯光 -->
+  <ellipse cx="240" cy="240" rx="50" ry="25" fill="#87CEEB" opacity="0.15"/>
+  
+  <!-- 萤火虫效果 -->
+  <circle cx="150" cy="200" r="2" fill="#ADFF2F" opacity="0.8">
+    <animate attributeName="opacity" values="0.3;0.9;0.3" dur="1.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="320" cy="180" r="2" fill="#ADFF2F" opacity="0.6">
+    <animate attributeName="opacity" values="0.9;0.3;0.9" dur="1.8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="200" cy="220" r="1.5" fill="#ADFF2F" opacity="0.7">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="280" cy="190" r="1.5" fill="#ADFF2F" opacity="0.5">
+    <animate attributeName="opacity" values="1;0.4;1" dur="1.2s" repeatCount="indefinite"/>
+  </circle>
+</svg>
