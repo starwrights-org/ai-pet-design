@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 240" width="640" height="480" style="image-rendering: pixelated;">
+  <!-- 像素风格房间场景 - 基础版 -->
+  <!-- 320x240 像素，16:12 比例 -->
+  
+  <defs>
+    <!-- 木地板图案 -->
+    <pattern id="woodFloor" x="0" y="0" width="32" height="16" patternUnits="userSpaceOnUse">
+      <rect width="32" height="16" fill="#8B6914"/>
+      <rect x="0" y="0" width="16" height="8" fill="#9B7924"/>
+      <rect x="16" y="8" width="16" height="8" fill="#9B7924"/>
+      <rect x="0" y="0" width="32" height="1" fill="#7B5904"/>
+      <rect x="0" y="8" width="32" height="1" fill="#7B5904"/>
+      <rect x="16" y="0" width="1" height="8" fill="#7B5904"/>
+      <rect x="0" y="8" width="1" height="8" fill="#7B5904"/>
+    </pattern>
+    
+    <!-- 墙纸图案 -->
+    <pattern id="wallpaper" x="0" y="0" width="16" height="16" patternUnits="userSpaceOnUse">
+      <rect width="16" height="16" fill="#E8D8C8"/>
+      <circle cx="8" cy="8" r="2" fill="#DEC8B8" opacity="0.5"/>
+    </pattern>
+  </defs>
+  
+  <!-- 墙壁 -->
+  <rect x="0" y="0" width="320" height="160" fill="url(#wallpaper)"/>
+  
+  <!-- 地板 -->
+  <rect x="0" y="160" width="320" height="80" fill="url(#woodFloor)"/>
+  
+  <!-- 窗户 -->
+  <rect x="120" y="20" width="80" height="100" fill="#87CEEB"/>
+  <rect x="120" y="20" width="80" height="100" fill="none" stroke="#8B6914" stroke-width="8"/>
+  <!-- 窗框十字 -->
+  <rect x="156" y="20" width="8" height="100" fill="#8B6914"/>
+  <rect x="120" y="66" width="80" height="8" fill="#8B6914"/>
+  <!-- 窗帘左 -->
+  <rect x="108" y="12" width="20" height="108" fill="#FFB6C1"/>
+  <rect x="108" y="12" width="20" height="8" fill="#FF9AAA"/>
+  <!-- 窗帘右 -->
+  <rect x="192" y="12" width="20" height="108" fill="#FFB6C1"/>
+  <rect x="192" y="12" width="20" height="8" fill="#FF9AAA"/>
+  <!-- 阳光 -->
+  <rect x="128" y="28" width="24" height="32" fill="#FFFACD" opacity="0.3"/>
+  <rect x="168" y="28" width="24" height="32" fill="#FFFACD" opacity="0.3"/>
+  
+  <!-- 小床 -->
+  <rect x="20" y="130" width="80" height="50" fill="#DEB887"/>
+  <rect x="20" y="130" width="80" height="50" fill="none" stroke="#8B4513" stroke-width="4"/>
+  <!-- 床垫 -->
+  <rect x="24" y="134" width="72" height="42" fill="#FFFAF0"/>
+  <!-- 枕头 -->
+  <rect x="28" y="138" width="24" height="16" fill="#FFF0F5"/>
+  <rect x="28" y="138" width="24" height="16" fill="none" stroke="#FFB6C1" stroke-width="2"/>
+  <!-- 被子 -->
+  <rect x="28" y="154" width="64" height="18" fill="#FFE4E1"/>
+  <rect x="28" y="154" width="64" height="4" fill="#FFB6C1"/>
+  
+  <!-- 地毯 -->
+  <ellipse cx="200" cy="200" rx="60" ry="30" fill="#98D8C8"/>
+  <ellipse cx="200" cy="200" rx="50" ry="24" fill="#7BC8B8"/>
+  <ellipse cx="200" cy="200" rx="40" ry="18" fill="#98D8C8"/>
+  
+  <!-- 小桌子 -->
+  <rect x="260" y="100" width="50" height="60" fill="#DEB887"/>
+  <rect x="260" y="100" width="50" height="60" fill="none" stroke="#8B4513" stroke-width="3"/>
+  <rect x="260" y="100" width="50" height="8" fill="#CD853F"/>
+  <!-- 桌上的物品 - 小植物 -->
+  <rect x="275" y="88" width="20" height="12" fill="#8B4513"/>
+  <ellipse cx="285" cy="80" rx="12" ry="10" fill="#228B22"/>
+  <ellipse cx="285" cy="76" rx="8" ry="6" fill="#32CD32"/>
+  
+  <!-- 墙上装饰 - 小画框 -->
+  <rect x="30" y="40" width="50" height="40" fill="#FFE4B5"/>
+  <rect x="30" y="40" width="50" height="40" fill="none" stroke="#8B4513" stroke-width="4"/>
+  <!-- 画的内容 - 小太阳 -->
+  <circle cx="55" cy="55" r="10" fill="#FFD700"/>
+  <rect x="45" y="70" width="20" height="6" fill="#87CEEB"/>
+  
+  <!-- 墙角装饰 - 小灯 -->
+  <rect x="240" y="60" width="8" height="40" fill="#3A3A3A"/>
+  <ellipse cx="244" cy="55" rx="12" ry="8" fill="#FFF8DC"/>
+  <ellipse cx="244" cy="55" rx="12" ry="8" fill="none" stroke="#DAA520" stroke-width="2"/>
+  
+  <!-- 地上的玩具 -->
+  <circle cx="280" cy="210" r="8" fill="#FF6B8A"/>
+  <circle cx="280" cy="210" r="4" fill="#FFB6C1"/>
+  
+  <!-- 食物碗 -->
+  <ellipse cx="60" cy="210" rx="20" ry="10" fill="#4169E1"/>
+  <ellipse cx="60" cy="206" rx="16" ry="7" fill="#6495ED"/>
+  <ellipse cx="60" cy="204" rx="12" ry="4" fill="#DEB887"/>
+  
+  <!-- 门（右侧） -->
+  <rect x="290" y="60" width="30" height="100" fill="#8B6914"/>
+  <rect x="290" y="60" width="30" height="100" fill="none" stroke="#6B4904" stroke-width="4"/>
+  <circle cx="298" cy="110" r="4" fill="#FFD700"/>
+</svg>
