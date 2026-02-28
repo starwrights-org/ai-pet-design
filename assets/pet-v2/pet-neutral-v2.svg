@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="128" height="128">
+  <!-- 清新日系AI Pet - Neutral/Idle State -->
+  <!-- 配色: 柔粉+米色+薄荷点缀 -->
+  
+  <!-- 身体 - 柔和圆润的形状 -->
+  <ellipse cx="32" cy="36" rx="24" ry="22" fill="#FFE4E1" />
+  
+  <!-- 耳朵 - 正常竖起 -->
+  <ellipse cx="14" cy="18" rx="6" ry="8" fill="#FFE4E1" transform="rotate(-10 14 18)" />
+  <ellipse cx="14" cy="18" rx="4" ry="5" fill="#FFB6C1" transform="rotate(-10 14 18)" />
+  <ellipse cx="50" cy="18" rx="6" ry="8" fill="#FFE4E1" transform="rotate(10 50 18)" />
+  <ellipse cx="50" cy="18" rx="4" ry="5" fill="#FFB6C1" transform="rotate(10 50 18)" />
+  
+  <!-- 脸部高光 -->
+  <ellipse cx="32" cy="32" rx="18" ry="16" fill="#FFF5EE" opacity="0.3" />
+  
+  <!-- 眼睛 - 正常大小 -->
+  <ellipse cx="24" cy="32" rx="5" ry="5.5" fill="#483D3F" />
+  <ellipse cx="40" cy="32" rx="5" ry="5.5" fill="#483D3F" />
+  <!-- 眼睛高光 -->
+  <circle cx="26" cy="30" r="1.8" fill="white" />
+  <circle cx="42" cy="30" r="1.8" fill="white" />
+  <circle cx="23" cy="33" r="0.8" fill="white" opacity="0.5" />
+  <circle cx="39" cy="33" r="0.8" fill="white" opacity="0.5" />
+  
+  <!-- 脸红 - 淡淡的腮红 -->
+  <ellipse cx="14" cy="38" rx="4.5" ry="2.5" fill="#FFB6C1" opacity="0.5" />
+  <ellipse cx="50" cy="38" rx="4.5" ry="2.5" fill="#FFB6C1" opacity="0.5" />
+  
+  <!-- 嘴巴 - 小小的微笑 -->
+  <ellipse cx="32" cy="44" rx="3" ry="1.5" fill="#E8967A" />
+  
+  <!-- 小脚 -->
+  <ellipse cx="22" cy="54" rx="6" ry="4" fill="#FFD5CD" />
+  <ellipse cx="42" cy="54" rx="6" ry="4" fill="#FFD5CD" />
+  
+  <!-- 装饰 - 薄荷色蝴蝶结 -->
+  <g transform="translate(32, 12)">
+    <ellipse cx="-6" cy="0" rx="4" ry="3" fill="#98D8C8" />
+    <ellipse cx="6" cy="0" rx="4" ry="3" fill="#98D8C8" />
+    <circle cx="0" cy="0" r="2" fill="#7FC8B8" />
+  </g>
+</svg>

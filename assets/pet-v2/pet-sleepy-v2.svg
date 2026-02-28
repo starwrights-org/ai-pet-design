@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="128" height="128">
+  <!-- 清新日系AI Pet - Sleepy State -->
+  <!-- 配色: 柔粉+米色+淡紫点缀 -->
+  
+  <!-- 身体 - 柔和圆润的形状，略微下沉 -->
+  <ellipse cx="32" cy="38" rx="24" ry="20" fill="#FFE4E1" />
+  
+  <!-- 耳朵 - 放松下垂 -->
+  <ellipse cx="12" cy="20" rx="6" ry="7" fill="#FFE4E1" transform="rotate(-25 12 20)" />
+  <ellipse cx="12" cy="20" rx="4" ry="4.5" fill="#FFB6C1" transform="rotate(-25 12 20)" />
+  <ellipse cx="52" cy="20" rx="6" ry="7" fill="#FFE4E1" transform="rotate(25 52 20)" />
+  <ellipse cx="52" cy="20" rx="4" ry="4.5" fill="#FFB6C1" transform="rotate(25 52 20)" />
+  
+  <!-- 脸部高光 -->
+  <ellipse cx="32" cy="34" rx="18" ry="14" fill="#FFF5EE" opacity="0.3" />
+  
+  <!-- 眼睛 - 闭着的弯弯眼睛 -->
+  <path d="M 19 32 Q 24 35 29 32" stroke="#483D3F" stroke-width="2" fill="none" stroke-linecap="round" />
+  <path d="M 35 32 Q 40 35 45 32" stroke="#483D3F" stroke-width="2" fill="none" stroke-linecap="round" />
+  
+  <!-- 脸红 - 更明显的睡红 -->
+  <ellipse cx="14" cy="38" rx="5" ry="3" fill="#FFB6C1" opacity="0.6" />
+  <ellipse cx="50" cy="38" rx="5" ry="3" fill="#FFB6C1" opacity="0.6" />
+  
+  <!-- 嘴巴 - 小小的 o 型 -->
+  <ellipse cx="32" cy="44" rx="2.5" ry="2" fill="#E8967A" />
+  
+  <!-- 睡眠气泡 Zzz -->
+  <text x="50" y="16" font-family="Comic Sans MS, sans-serif" font-size="8" fill="#B0C4DE" opacity="0.8">z</text>
+  <text x="54" y="12" font-family="Comic Sans MS, sans-serif" font-size="6" fill="#B0C4DE" opacity="0.6">z</text>
+  <text x="57" y="9" font-family="Comic Sans MS, sans-serif" font-size="4" fill="#B0C4DE" opacity="0.4">z</text>
+  
+  <!-- 小脚 - 收起来 -->
+  <ellipse cx="24" cy="54" rx="5" ry="3" fill="#FFD5CD" />
+  <ellipse cx="40" cy="54" rx="5" ry="3" fill="#FFD5CD" />
+  
+  <!-- 装饰 - 薄荷色蝴蝶结（歪歪的） -->
+  <g transform="translate(33, 14) rotate(-5)">
+    <ellipse cx="-5" cy="0" rx="3.5" ry="2.5" fill="#98D8C8" opacity="0.9" />
+    <ellipse cx="5" cy="0" rx="3.5" ry="2.5" fill="#98D8C8" opacity="0.9" />
+    <circle cx="0" cy="0" r="1.8" fill="#7FC8B8" />
+  </g>
+</svg>

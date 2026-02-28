@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="128" height="128">
+  <!-- 清新日系AI Pet - Sad State -->
+  <!-- 配色: 柔粉+米色+淡蓝点缀 -->
+  
+  <!-- 身体 - 柔和圆润的形状 -->
+  <ellipse cx="32" cy="36" rx="24" ry="22" fill="#FFE4E1" />
+  
+  <!-- 耳朵 - 耷拉下来表示难过 -->
+  <ellipse cx="12" cy="22" rx="6" ry="8" fill="#FFE4E1" transform="rotate(-30 12 22)" />
+  <ellipse cx="12" cy="22" rx="4" ry="5" fill="#FFB6C1" transform="rotate(-30 12 22)" />
+  <ellipse cx="52" cy="22" rx="6" ry="8" fill="#FFE4E1" transform="rotate(30 52 22)" />
+  <ellipse cx="52" cy="22" rx="4" ry="5" fill="#FFB6C1" transform="rotate(30 52 22)" />
+  
+  <!-- 脸部高光 -->
+  <ellipse cx="32" cy="32" rx="18" ry="16" fill="#FFF5EE" opacity="0.3" />
+  
+  <!-- 眼睛 - 下垂的眼睛 -->
+  <ellipse cx="24" cy="32" rx="5" ry="5" fill="#483D3F" />
+  <ellipse cx="40" cy="32" rx="5" ry="5" fill="#483D3F" />
+  <!-- 眼睛高光 - 更小表示黯淡 -->
+  <circle cx="26" cy="31" r="1.5" fill="white" />
+  <circle cx="42" cy="31" r="1.5" fill="white" />
+  <!-- 眉毛 - 下垂 -->
+  <path d="M 19 26 Q 24 28 28 27" stroke="#8B7D7B" stroke-width="1.5" fill="none" stroke-linecap="round" />
+  <path d="M 45 26 Q 40 28 36 27" stroke="#8B7D7B" stroke-width="1.5" fill="none" stroke-linecap="round" />
+  
+  <!-- 脸红 - 淡淡的 -->
+  <ellipse cx="14" cy="38" rx="4" ry="2.5" fill="#FFB6C1" opacity="0.4" />
+  <ellipse cx="50" cy="38" rx="4" ry="2.5" fill="#FFB6C1" opacity="0.4" />
+  
+  <!-- 嘴巴 - 难过的弧形 -->
+  <path d="M 26 46 Q 32 42 38 46" stroke="#CD9B9B" stroke-width="2" fill="none" stroke-linecap="round" />
+  
+  <!-- 眼泪 -->
+  <ellipse cx="18" cy="40" rx="2" ry="3" fill="#B0E0E6" opacity="0.7" />
+  
+  <!-- 小脚 -->
+  <ellipse cx="22" cy="54" rx="6" ry="4" fill="#FFD5CD" />
+  <ellipse cx="42" cy="54" rx="6" ry="4" fill="#FFD5CD" />
+  
+  <!-- 装饰 - 薄荷色蝴蝶结（歪了一点） -->
+  <g transform="translate(34, 13) rotate(10)">
+    <ellipse cx="-6" cy="0" rx="4" ry="3" fill="#98D8C8" opacity="0.8" />
+    <ellipse cx="6" cy="0" rx="4" ry="3" fill="#98D8C8" opacity="0.8" />
+    <circle cx="0" cy="0" r="2" fill="#7FC8B8" />
+  </g>
+</svg>
