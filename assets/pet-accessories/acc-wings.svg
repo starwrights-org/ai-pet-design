@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="256" height="256" style="image-rendering: pixelated;">
+  <!-- 配件：天使翅膀 Angel Wings -->
+  
+  <!-- 左翅膀 -->
+  <rect x="0" y="7" width="2" height="4" fill="#E8E8FF"/>
+  <rect x="-1" y="8" width="1" height="2" fill="#F0F0FF"/>
+  
+  <!-- 右翅膀 -->
+  <rect x="14" y="7" width="2" height="4" fill="#E8E8FF"/>
+  <rect x="16" y="8" width="1" height="2" fill="#F0F0FF"/>
+</svg>

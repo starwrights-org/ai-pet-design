@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="256" height="256" style="image-rendering: pixelated;">
+  <!-- 配件：恶魔角 Devil Horns -->
+  
+  <!-- 左角 -->
+  <rect x="2" y="1" width="2" height="2" fill="#AA3333"/>
+  <rect x="3" y="0" width="1" height="1" fill="#AA3333"/>
+  
+  <!-- 右角 -->
+  <rect x="12" y="1" width="2" height="2" fill="#AA3333"/>
+  <rect x="12" y="0" width="1" height="1" fill="#AA3333"/>
+</svg>
