@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="256" height="256">
+  <!-- 扁平插画风格 AI Pet -->
+  <!-- 参考: Duolingo、Slack emoji -->
+  <!-- 特点: 纯色填充、几何形状、科技感、活泼 -->
+  
+  <!-- 身体 - 干净的绿色（Duolingo风） -->
+  <ellipse cx="32" cy="38" rx="24" ry="22" fill="#58CC02"/>
+  
+  <!-- 身体高光区域 -->
+  <ellipse cx="26" cy="30" rx="14" ry="10" fill="#78E018" opacity="0.6"/>
+  
+  <!-- 肚子 - 浅色区域 -->
+  <ellipse cx="32" cy="44" rx="16" ry="12" fill="#89E219"/>
+  
+  <!-- 耳朵 - 几何三角形 -->
+  <polygon points="12,28 6,12 20,22" fill="#58CC02"/>
+  <polygon points="14,26 10,16 18,22" fill="#78E018"/>
+  
+  <polygon points="52,28 58,12 44,22" fill="#58CC02"/>
+  <polygon points="50,26 54,16 46,22" fill="#78E018"/>
+  
+  <!-- 眼睛 - 大而简单 -->
+  <ellipse cx="24" cy="32" rx="6" ry="7" fill="#FFFFFF"/>
+  <circle cx="26" cy="33" r="4" fill="#1A1A1A"/>
+  <circle cx="27" cy="32" r="1.5" fill="#FFFFFF"/>
+  
+  <ellipse cx="40" cy="32" rx="6" ry="7" fill="#FFFFFF"/>
+  <circle cx="42" cy="33" r="4" fill="#1A1A1A"/>
+  <circle cx="43" cy="32" r="1.5" fill="#FFFFFF"/>
+  
+  <!-- 眉毛 - 简单弧线 -->
+  <path d="M 18 26 Q 24 24 30 26" fill="none" stroke="#3DA101" stroke-width="2" stroke-linecap="round"/>
+  <path d="M 46 26 Q 40 24 34 26" fill="none" stroke="#3DA101" stroke-width="2" stroke-linecap="round"/>
+  
+  <!-- 嘴巴 - 开心的大嘴 -->
+  <path d="M 24 44 Q 32 54 40 44" fill="#FF6B6B" stroke="#E85555" stroke-width="1"/>
+  <path d="M 26 44 Q 32 48 38 44" fill="#FFFFFF" stroke="none"/>
+  
+  <!-- 腮红 - 圆形 -->
+  <circle cx="12" cy="40" r="4" fill="#FF9999" opacity="0.5"/>
+  <circle cx="52" cy="40" r="4" fill="#FF9999" opacity="0.5"/>
+  
+  <!-- 脚 - 简单椭圆 -->
+  <ellipse cx="22" cy="56" rx="6" ry="4" fill="#3DA101"/>
+  <ellipse cx="42" cy="56" rx="6" ry="4" fill="#3DA101"/>
+  
+  <!-- 手臂（挥手姿势） -->
+  <ellipse cx="54" cy="36" rx="5" ry="7" fill="#58CC02" transform="rotate(20 54 36)"/>
+  <ellipse cx="58" cy="30" rx="4" ry="5" fill="#58CC02"/>
+  
+  <!-- 动态效果线 -->
+  <line x1="60" y1="24" x2="63" y2="20" stroke="#FFD93D" stroke-width="2" stroke-linecap="round"/>
+  <line x1="62" y1="28" x2="64" y2="26" stroke="#FFD93D" stroke-width="2" stroke-linecap="round"/>
+</svg>

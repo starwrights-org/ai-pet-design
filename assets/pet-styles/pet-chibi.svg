@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="256" height="256">
+  <!-- Chibi Q版风格 AI Pet -->
+  <!-- 参考: Pokemon、粘土人 -->
+  <!-- 特点: 1:1头身比、大头小身、可爱夸张 -->
+  
+  <defs>
+    <!-- 头部渐变 -->
+    <radialGradient id="headGrad" cx="40%" cy="30%" r="60%">
+      <stop offset="0%" style="stop-color:#FFFAF5"/>
+      <stop offset="100%" style="stop-color:#FFE8D8"/>
+    </radialGradient>
+  </defs>
+  
+  <!-- 超大的头 - Q版核心 -->
+  <ellipse cx="32" cy="30" rx="28" ry="26" fill="url(#headGrad)"/>
+  <ellipse cx="32" cy="30" rx="28" ry="26" fill="none" stroke="#E8C8B8" stroke-width="1.5"/>
+  
+  <!-- 头部高光 -->
+  <ellipse cx="22" cy="20" rx="12" ry="8" fill="#FFFFFF" opacity="0.4"/>
+  
+  <!-- 耳朵 - 大而圆 -->
+  <ellipse cx="8" cy="18" rx="8" ry="10" fill="#FFE8D8" transform="rotate(-15 8 18)"/>
+  <ellipse cx="8" cy="18" rx="8" ry="10" fill="none" stroke="#E8C8B8" stroke-width="1.5" transform="rotate(-15 8 18)"/>
+  <ellipse cx="8" cy="18" rx="5" ry="6" fill="#FFB8A8" transform="rotate(-15 8 18)"/>
+  
+  <ellipse cx="56" cy="18" rx="8" ry="10" fill="#FFE8D8" transform="rotate(15 56 18)"/>
+  <ellipse cx="56" cy="18" rx="8" ry="10" fill="none" stroke="#E8C8B8" stroke-width="1.5" transform="rotate(15 56 18)"/>
+  <ellipse cx="56" cy="18" rx="5" ry="6" fill="#FFB8A8" transform="rotate(15 56 18)"/>
+  
+  <!-- 超大眼睛 - Q版特色 -->
+  <!-- 左眼 -->
+  <ellipse cx="20" cy="30" rx="9" ry="10" fill="#FFFFFF"/>
+  <ellipse cx="20" cy="30" rx="9" ry="10" fill="none" stroke="#C8A898" stroke-width="1"/>
+  <ellipse cx="22" cy="31" rx="6" ry="7" fill="#4A3828"/>
+  <circle cx="24" cy="29" r="3" fill="#FFFFFF"/>
+  <circle cx="19" cy="33" r="1.5" fill="#FFFFFF" opacity="0.6"/>
+  
+  <!-- 右眼 -->
+  <ellipse cx="44" cy="30" rx="9" ry="10" fill="#FFFFFF"/>
+  <ellipse cx="44" cy="30" rx="9" ry="10" fill="none" stroke="#C8A898" stroke-width="1"/>
+  <ellipse cx="46" cy="31" rx="6" ry="7" fill="#4A3828"/>
+  <circle cx="48" cy="29" r="3" fill="#FFFFFF"/>
+  <circle cx="43" cy="33" r="1.5" fill="#FFFFFF" opacity="0.6"/>
+  
+  <!-- 大大的腮红 -->
+  <ellipse cx="6" cy="38" rx="6" ry="4" fill="#FFB0A0" opacity="0.7"/>
+  <ellipse cx="58" cy="38" rx="6" ry="4" fill="#FFB0A0" opacity="0.7"/>
+  
+  <!-- 小鼻子 -->
+  <ellipse cx="32" cy="38" rx="2" ry="1.5" fill="#E8A090"/>
+  
+  <!-- 嘴巴 - 小猫嘴 -->
+  <path d="M 28 42 Q 32 40 32 42 Q 32 40 36 42" fill="none" stroke="#D89080" stroke-width="1.5" stroke-linecap="round"/>
+  
+  <!-- 超小的身体 - Q版比例 -->
+  <ellipse cx="32" cy="54" rx="12" ry="8" fill="#FFE8D8"/>
+  <ellipse cx="32" cy="54" rx="12" ry="8" fill="none" stroke="#E8C8B8" stroke-width="1"/>
+  
+  <!-- 小小的脚 -->
+  <ellipse cx="26" cy="60" rx="4" ry="2.5" fill="#FFD8C8"/>
+  <ellipse cx="38" cy="60" rx="4" ry="2.5" fill="#FFD8C8"/>
+  
+  <!-- 装饰 - 头顶小星星 -->
+  <polygon points="32,2 33.5,6 38,6 34.5,9 36,13 32,10 28,13 29.5,9 26,6 30.5,6" fill="#FFD93D"/>
+</svg>
