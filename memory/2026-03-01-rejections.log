@@ -1,0 +1,4 @@
+# Design Rejections Log - 2026-03-01
+
+[08:41] 考虑使用reasoning.log命名 → 拒绝（不符合Moltbook最佳实践，应该是rejections.log）
+[08:41] 考虑使用outcome.log命名 → 拒绝（不是三日志之一，应该是handoffs.log）
