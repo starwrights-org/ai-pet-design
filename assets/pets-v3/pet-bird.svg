@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" style="image-rendering: pixelated;">
+  <!-- Pet Bird - 16-bit Pixel Art Style -->
+  <!-- 蓝色小鸟，轻盈自由 -->
+  
+  <!-- 圆形阴影 -->
+  <ellipse cx="32" cy="58" rx="12" ry="3" fill="#2A2A40" opacity="0.4"/>
+  
+  <!-- 尾羽 -->
+  <rect x="12" y="36" width="6" height="4" fill="#5A9BD4"/>
+  <rect x="8" y="38" width="6" height="4" fill="#4A8BC4"/>
+  <rect x="4" y="40" width="6" height="4" fill="#5A9BD4"/>
+  <rect x="6" y="44" width="4" height="2" fill="#4A8BC4"/>
+  
+  <!-- 身体 -->
+  <ellipse cx="32" cy="42" rx="14" ry="12" fill="#6AB4E8"/>
+  
+  <!-- 身体高光 -->
+  <ellipse cx="28" cy="38" rx="6" ry="4" fill="#8ACAF8" opacity="0.6"/>
+  
+  <!-- 胸部白色 -->
+  <ellipse cx="34" cy="46" rx="8" ry="8" fill="#FFFFFF"/>
+  <ellipse cx="34" cy="46" rx="6" ry="6" fill="#F8F8FF"/>
+  
+  <!-- 翅膀（收起状态） -->
+  <rect x="18" y="34" width="4" height="14" fill="#5A9BD4"/>
+  <rect x="14" y="36" width="4" height="10" fill="#4A8BC4"/>
+  
+  <rect x="42" y="34" width="4" height="14" fill="#5A9BD4"/>
+  <rect x="46" y="36" width="4" height="10" fill="#4A8BC4"/>
+  
+  <!-- 翅膀纹理 -->
+  <rect x="18" y="38" width="4" height="2" fill="#4A8BC4"/>
+  <rect x="18" y="42" width="4" height="2" fill="#4A8BC4"/>
+  <rect x="42" y="38" width="4" height="2" fill="#4A8BC4"/>
+  <rect x="42" y="42" width="4" height="2" fill="#4A8BC4"/>
+  
+  <!-- 腿 -->
+  <rect x="28" y="52" width="2" height="6" fill="#E8A060"/>
+  <rect x="34" y="52" width="2" height="6" fill="#E8A060"/>
+  
+  <!-- 脚爪 -->
+  <rect x="26" y="56" width="6" height="2" fill="#E8A060"/>
+  <rect x="32" y="56" width="6" height="2" fill="#E8A060"/>
+  
+  <!-- 头部 -->
+  <ellipse cx="32" cy="22" rx="12" ry="12" fill="#6AB4E8"/>
+  
+  <!-- 头顶羽冠 -->
+  <rect x="30" y="8" width="4" height="6" fill="#5A9BD4"/>
+  <rect x="28" y="10" width="2" height="4" fill="#4A8BC4"/>
+  <rect x="34" y="10" width="2" height="4" fill="#4A8BC4"/>
+  
+  <!-- 头部高光 -->
+  <ellipse cx="28" cy="18" rx="4" ry="4" fill="#8ACAF8" opacity="0.5"/>
+  
+  <!-- 眼睛 -->
+  <ellipse cx="26" cy="20" rx="4" ry="4" fill="#FFFFFF"/>
+  <ellipse cx="38" cy="20" rx="4" ry="4" fill="#FFFFFF"/>
+  
+  <!-- 瞳孔 -->
+  <ellipse cx="27" cy="20" rx="2" ry="3" fill="#2A2A40"/>
+  <ellipse cx="39" cy="20" rx="2" ry="3" fill="#2A2A40"/>
+  
+  <!-- 高光 -->
+  <rect x="25" y="18" width="2" height="2" fill="#FFFFFF"/>
+  <rect x="37" y="18" width="2" height="2" fill="#FFFFFF"/>
+  
+  <!-- 喙 -->
+  <polygon points="32,24 28,28 32,32 36,28" fill="#F8B060"/>
+  <polygon points="32,24 30,28 32,30 34,28" fill="#FFCC80"/>
+  
+  <!-- 腮红 -->
+  <ellipse cx="22" cy="24" rx="3" ry="2" fill="#FFB0B0" opacity="0.5"/>
+  <ellipse cx="42" cy="24" rx="3" ry="2" fill="#FFB0B0" opacity="0.5"/>
+</svg>

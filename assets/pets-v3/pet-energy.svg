@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" style="image-rendering: pixelated;">
+  <!-- Pet Energy - 16-bit Pixel Art Style -->
+  <!-- 能量体，神秘梦幻 -->
+  
+  <defs>
+    <linearGradient id="energyGlow" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#00F5D4"/>
+      <stop offset="50%" style="stop-color:#8338EC"/>
+      <stop offset="100%" style="stop-color:#FF006E"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- 圆形阴影 -->
+  <ellipse cx="32" cy="58" rx="14" ry="4" fill="#8338EC" opacity="0.3"/>
+  
+  <!-- 外层光晕 -->
+  <ellipse cx="32" cy="32" rx="28" ry="28" fill="#8338EC" opacity="0.1"/>
+  <ellipse cx="32" cy="32" rx="24" ry="24" fill="#8338EC" opacity="0.15"/>
+  
+  <!-- 能量核心外层 -->
+  <ellipse cx="32" cy="32" rx="20" ry="22" fill="#3A0CA3" opacity="0.6"/>
+  
+  <!-- 能量核心 -->
+  <ellipse cx="32" cy="32" rx="16" ry="18" fill="#8338EC"/>
+  
+  <!-- 核心高光 -->
+  <ellipse cx="28" cy="26" rx="8" ry="6" fill="#A855F7" opacity="0.6"/>
+  <ellipse cx="26" cy="24" rx="4" ry="3" fill="#C084FC" opacity="0.8"/>
+  
+  <!-- 内层发光 -->
+  <ellipse cx="32" cy="34" rx="10" ry="12" fill="#00F5D4" opacity="0.3"/>
+  <ellipse cx="32" cy="34" rx="6" ry="8" fill="#00F5D4" opacity="0.5"/>
+  
+  <!-- 眼睛区域 -->
+  <ellipse cx="26" cy="28" rx="5" ry="5" fill="#0D0221"/>
+  <ellipse cx="38" cy="28" rx="5" ry="5" fill="#0D0221"/>
+  
+  <!-- 发光眼睛 -->
+  <ellipse cx="26" cy="28" rx="3" ry="3" fill="#00F5D4"/>
+  <ellipse cx="38" cy="28" rx="3" ry="3" fill="#00F5D4"/>
+  
+  <!-- 眼睛高光 -->
+  <rect x="25" y="26" width="2" height="2" fill="#FFFFFF"/>
+  <rect x="37" y="26" width="2" height="2" fill="#FFFFFF"/>
+  
+  <!-- 微笑弧线 -->
+  <rect x="28" y="38" width="2" height="2" fill="#00F5D4" opacity="0.8"/>
+  <rect x="30" y="40" width="4" height="2" fill="#00F5D4" opacity="0.8"/>
+  <rect x="34" y="38" width="2" height="2" fill="#00F5D4" opacity="0.8"/>
+  
+  <!-- 漂浮粒子 -->
+  <ellipse cx="14" cy="20" rx="2" ry="2" fill="#00F5D4" opacity="0.6">
+    <animate attributeName="cy" values="20;16;20" dur="2s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse cx="50" cy="24" rx="2" ry="2" fill="#FF006E" opacity="0.6">
+    <animate attributeName="cy" values="24;20;24" dur="2.5s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse cx="18" cy="46" rx="1.5" ry="1.5" fill="#8338EC" opacity="0.5">
+    <animate attributeName="cy" values="46;42;46" dur="3s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse cx="46" cy="44" rx="1.5" ry="1.5" fill="#00F5D4" opacity="0.5">
+    <animate attributeName="cy" values="44;40;44" dur="2.2s" repeatCount="indefinite"/>
+  </ellipse>
+  
+  <!-- 能量波动 -->
+  <ellipse cx="32" cy="32" rx="22" ry="24" fill="none" stroke="#00F5D4" stroke-width="1" opacity="0.3">
+    <animate attributeName="rx" values="22;26;22" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="ry" values="24;28;24" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.3;0.1;0.3" dur="2s" repeatCount="indefinite"/>
+  </ellipse>
+</svg>

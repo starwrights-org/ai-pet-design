@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" style="image-rendering: pixelated;">
+  <!-- Pet Slime - 16-bit Pixel Art Style -->
+  <!-- 史莱姆，Q弹可爱 -->
+  
+  <!-- 圆形阴影 -->
+  <ellipse cx="32" cy="56" rx="18" ry="5" fill="#2A6060" opacity="0.4"/>
+  
+  <!-- 史莱姆身体主体 -->
+  <ellipse cx="32" cy="40" rx="22" ry="18" fill="#5EEAD4"/>
+  
+  <!-- 身体底部（更扁平） -->
+  <ellipse cx="32" cy="50" rx="20" ry="8" fill="#4DD8C4"/>
+  
+  <!-- 顶部凸起 -->
+  <ellipse cx="32" cy="24" rx="14" ry="10" fill="#5EEAD4"/>
+  <ellipse cx="32" cy="20" rx="10" ry="6" fill="#6EF5DE"/>
+  
+  <!-- 高光层 -->
+  <ellipse cx="24" cy="30" rx="8" ry="6" fill="#8FFFEF" opacity="0.7"/>
+  <ellipse cx="22" cy="28" rx="4" ry="3" fill="#FFFFFF" opacity="0.8"/>
+  <ellipse cx="40" cy="36" rx="4" ry="3" fill="#8FFFEF" opacity="0.5"/>
+  
+  <!-- 次高光 -->
+  <ellipse cx="28" cy="24" rx="3" ry="2" fill="#FFFFFF" opacity="0.6"/>
+  
+  <!-- 眼睛 -->
+  <ellipse cx="24" cy="38" rx="6" ry="7" fill="#FFFFFF"/>
+  <ellipse cx="40" cy="38" rx="6" ry="7" fill="#FFFFFF"/>
+  
+  <!-- 瞳孔 -->
+  <ellipse cx="26" cy="40" rx="3" ry="4" fill="#1A1A2E"/>
+  <ellipse cx="42" cy="40" rx="3" ry="4" fill="#1A1A2E"/>
+  
+  <!-- 高光 -->
+  <ellipse cx="24" cy="36" rx="2" ry="2" fill="#FFFFFF"/>
+  <ellipse cx="40" cy="36" rx="2" ry="2" fill="#FFFFFF"/>
+  
+  <!-- 腮红 -->
+  <ellipse cx="16" cy="44" rx="4" ry="2" fill="#FF9EC4" opacity="0.5"/>
+  <ellipse cx="48" cy="44" rx="4" ry="2" fill="#FF9EC4" opacity="0.5"/>
+  
+  <!-- 微笑嘴巴 -->
+  <rect x="28" y="48" width="2" height="2" fill="#2A8A7A"/>
+  <rect x="30" y="50" width="4" height="2" fill="#2A8A7A"/>
+  <rect x="34" y="48" width="2" height="2" fill="#2A8A7A"/>
+  
+  <!-- 弹跳液滴 -->
+  <ellipse cx="52" cy="48" rx="3" ry="4" fill="#5EEAD4" opacity="0.6"/>
+  <ellipse cx="12" cy="46" rx="2" ry="3" fill="#5EEAD4" opacity="0.5"/>
+  
+  <!-- Q弹光泽线 -->
+  <rect x="18" y="34" width="6" height="1" fill="#FFFFFF" opacity="0.4"/>
+  <rect x="42" y="32" width="4" height="1" fill="#FFFFFF" opacity="0.3"/>
+  
+  <!-- 波动效果 -->
+  <ellipse cx="32" cy="52" rx="18" ry="4" fill="#4DD8C4" opacity="0.5">
+    <animate attributeName="rx" values="18;20;18" dur="1.5s" repeatCount="indefinite"/>
+  </ellipse>
+</svg>
