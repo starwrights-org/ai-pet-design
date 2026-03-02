@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" style="image-rendering: pixelated;">
+  <!-- Pet Energy Q版 - 超萌发光能量球 -->
+  
+  <!-- 外层光晕 -->
+  <ellipse cx="32" cy="32" rx="30" ry="30" fill="#8338EC" opacity="0.08"/>
+  <ellipse cx="32" cy="32" rx="26" ry="26" fill="#8338EC" opacity="0.12"/>
+  
+  <!-- 圆形阴影 -->
+  <ellipse cx="32" cy="58" rx="14" ry="4" fill="#8338EC" opacity="0.25"/>
+  
+  <!-- 能量核心外层 -->
+  <ellipse cx="32" cy="32" rx="22" ry="24" fill="#5B21B6" opacity="0.5"/>
+  
+  <!-- 能量核心 -->
+  <ellipse cx="32" cy="32" rx="18" ry="20" fill="#8338EC"/>
+  
+  <!-- 核心高光 -->
+  <ellipse cx="24" cy="22" rx="10" ry="8" fill="#A855F7" opacity="0.6"/>
+  <ellipse cx="20" cy="18" rx="5" ry="4" fill="#C084FC" opacity="0.7"/>
+  <ellipse cx="18" cy="16" rx="2" ry="2" fill="#FFFFFF" opacity="0.6"/>
+  
+  <!-- 内发光 -->
+  <ellipse cx="32" cy="36" rx="12" ry="14" fill="#00F5D4" opacity="0.2"/>
+  <ellipse cx="32" cy="36" rx="8" ry="10" fill="#00F5D4" opacity="0.3"/>
+  
+  <!-- 超大眼睛 -->
+  <ellipse cx="24" cy="30" rx="7" ry="8" fill="#FFFFFF"/>
+  <ellipse cx="40" cy="30" rx="7" ry="8" fill="#FFFFFF"/>
+  
+  <!-- 大瞳孔（星星眼） -->
+  <ellipse cx="25" cy="32" rx="4" ry="5" fill="#0D0221"/>
+  <ellipse cx="41" cy="32" rx="4" ry="5" fill="#0D0221"/>
+  
+  <!-- 超大高光 -->
+  <ellipse cx="22" cy="28" rx="3" ry="3" fill="#FFFFFF"/>
+  <ellipse cx="38" cy="28" rx="3" ry="3" fill="#FFFFFF"/>
+  <ellipse cx="27" cy="34" rx="1.5" ry="1.5" fill="#FFFFFF" opacity="0.8"/>
+  <ellipse cx="43" cy="34" rx="1.5" ry="1.5" fill="#FFFFFF" opacity="0.8"/>
+  
+  <!-- 可爱嘴巴（发光） -->
+  <path d="M28,42 Q32,48 36,42" fill="none" stroke="#00F5D4" stroke-width="2" stroke-linecap="round" opacity="0.8"/>
+  
+  <!-- 腮红（发光） -->
+  <ellipse cx="14" cy="36" rx="5" ry="3" fill="#FF006E" opacity="0.4"/>
+  <ellipse cx="50" cy="36" rx="5" ry="3" fill="#FF006E" opacity="0.4"/>
+  
+  <!-- 漂浮粒子（更多更Q） -->
+  <ellipse cx="10" cy="18" rx="3" ry="3" fill="#00F5D4" opacity="0.7">
+    <animate attributeName="cy" values="18;12;18" dur="2s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse cx="54" cy="22" rx="3" ry="3" fill="#FF006E" opacity="0.6">
+    <animate attributeName="cy" values="22;16;22" dur="2.5s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse cx="14" cy="48" rx="2" ry="2" fill="#8338EC" opacity="0.5">
+    <animate attributeName="cy" values="48;42;48" dur="3s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse cx="50" cy="46" rx="2" ry="2" fill="#00F5D4" opacity="0.5">
+    <animate attributeName="cy" values="46;40;46" dur="2.2s" repeatCount="indefinite"/>
+  </ellipse>
+  
+  <!-- 能量波动 -->
+  <ellipse cx="32" cy="32" rx="24" ry="26" fill="none" stroke="#00F5D4" stroke-width="1.5" opacity="0.25">
+    <animate attributeName="rx" values="24;28;24" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="ry" values="26;30;26" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.25;0.1;0.25" dur="2s" repeatCount="indefinite"/>
+  </ellipse>
+  
+  <!-- 星星装饰 -->
+  <polygon points="8,8 10,14 4,14" fill="#FFE080" opacity="0.7"/>
+  <polygon points="56,10 58,14 54,14" fill="#FFE080" opacity="0.6"/>
+</svg>

@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" style="image-rendering: pixelated;">
+  <!-- Pet Slime Q版 - 超萌弹弹史莱姆 -->
+  
+  <!-- 圆形阴影 -->
+  <ellipse cx="32" cy="58" rx="18" ry="4" fill="#2A8080" opacity="0.3"/>
+  
+  <!-- 史莱姆身体（超级圆） -->
+  <ellipse cx="32" cy="38" rx="24" ry="20" fill="#5EEAD4"/>
+  
+  <!-- 底部更扁 -->
+  <ellipse cx="32" cy="52" rx="20" ry="8" fill="#4DD8C4"/>
+  
+  <!-- 顶部凸起（更Q） -->
+  <ellipse cx="32" cy="20" rx="16" ry="14" fill="#5EEAD4"/>
+  <ellipse cx="32" cy="14" rx="10" ry="8" fill="#6EF5DE"/>
+  <ellipse cx="32" cy="10" rx="6" ry="4" fill="#7FFFEF"/>
+  
+  <!-- 高光层（闪闪发亮） -->
+  <ellipse cx="20" cy="28" rx="10" ry="8" fill="#8FFFEF" opacity="0.7"/>
+  <ellipse cx="16" cy="24" rx="5" ry="4" fill="#FFFFFF" opacity="0.8"/>
+  <ellipse cx="14" cy="22" rx="2" ry="2" fill="#FFFFFF"/>
+  
+  <!-- 次高光 -->
+  <ellipse cx="44" cy="36" rx="6" ry="4" fill="#8FFFEF" opacity="0.5"/>
+  <ellipse cx="26" cy="18" rx="4" ry="3" fill="#FFFFFF" opacity="0.6"/>
+  
+  <!-- 超级大眼睛 -->
+  <ellipse cx="24" cy="36" rx="9" ry="10" fill="#FFFFFF"/>
+  <ellipse cx="42" cy="36" rx="9" ry="10" fill="#FFFFFF"/>
+  
+  <!-- 大瞳孔 -->
+  <ellipse cx="26" cy="38" rx="5" ry="6" fill="#1A1A2E"/>
+  <ellipse cx="44" cy="38" rx="5" ry="6" fill="#1A1A2E"/>
+  
+  <!-- 超大高光（星星眼） -->
+  <ellipse cx="22" cy="34" rx="3" ry="3" fill="#FFFFFF"/>
+  <ellipse cx="40" cy="34" rx="3" ry="3" fill="#FFFFFF"/>
+  <ellipse cx="28" cy="40" rx="2" ry="2" fill="#FFFFFF" opacity="0.7"/>
+  <ellipse cx="46" cy="40" rx="2" ry="2" fill="#FFFFFF" opacity="0.7"/>
+  
+  <!-- 粉嫩腮红 -->
+  <ellipse cx="12" cy="44" rx="5" ry="3" fill="#FF9EC4" opacity="0.6"/>
+  <ellipse cx="52" cy="44" rx="5" ry="3" fill="#FF9EC4" opacity="0.6"/>
+  
+  <!-- 超可爱嘴巴 -->
+  <ellipse cx="34" cy="50" rx="6" ry="4" fill="#2A8A7A"/>
+  <ellipse cx="34" cy="48" rx="4" ry="2" fill="#3ABAAA" opacity="0.5"/>
+  
+  <!-- 弹弹液滴 -->
+  <ellipse cx="56" cy="46" rx="4" ry="5" fill="#5EEAD4" opacity="0.7"/>
+  <ellipse cx="8" cy="44" rx="3" ry="4" fill="#5EEAD4" opacity="0.6"/>
+  <ellipse cx="58" cy="48" rx="2" ry="2" fill="#6EF5DE" opacity="0.5"/>
+  
+  <!-- Q弹波动 -->
+  <ellipse cx="32" cy="54" rx="18" ry="4" fill="#4DD8C4" opacity="0.5">
+    <animate attributeName="rx" values="18;22;18" dur="1.2s" repeatCount="indefinite"/>
+    <animate attributeName="ry" values="4;6;4" dur="1.2s" repeatCount="indefinite"/>
+  </ellipse>
+  
+  <!-- 闪闪星星 -->
+  <polygon points="52,16 54,20 50,20" fill="#FFE080" opacity="0.8"/>
+  <polygon points="10,12 11,14 9,14" fill="#FFE080" opacity="0.6"/>
+  <polygon points="48,8 49,10 47,10" fill="#FFF080" opacity="0.5"/>
+</svg>

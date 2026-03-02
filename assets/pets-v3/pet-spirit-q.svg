@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" style="image-rendering: pixelated;">
+  <!-- Pet Spirit Q版 - 超萌发光小精灵 -->
+  
+  <!-- 魔法光环 -->
+  <ellipse cx="32" cy="32" rx="30" ry="30" fill="#A7F3D0" opacity="0.1"/>
+  
+  <!-- 圆形阴影 -->
+  <ellipse cx="32" cy="58" rx="12" ry="3" fill="#2A6060" opacity="0.25"/>
+  
+  <!-- 大翅膀左 -->
+  <ellipse cx="10" cy="30" rx="10" ry="16" fill="#A7F3D0" opacity="0.5"/>
+  <ellipse cx="8" cy="30" rx="6" ry="12" fill="#6EE7B7" opacity="0.6"/>
+  <ellipse cx="6" cy="30" rx="3" ry="8" fill="#34D399" opacity="0.7"/>
+  
+  <!-- 大翅膀右 -->
+  <ellipse cx="54" cy="30" rx="10" ry="16" fill="#A7F3D0" opacity="0.5"/>
+  <ellipse cx="56" cy="30" rx="6" ry="12" fill="#6EE7B7" opacity="0.6"/>
+  <ellipse cx="58" cy="30" rx="3" ry="8" fill="#34D399" opacity="0.7"/>
+  
+  <!-- 翅膀亮线 -->
+  <rect x="8" y="22" width="1" height="16" fill="#FFFFFF" opacity="0.4"/>
+  <rect x="12" y="20" width="1" height="20" fill="#FFFFFF" opacity="0.3"/>
+  <rect x="52" y="22" width="1" height="16" fill="#FFFFFF" opacity="0.4"/>
+  <rect x="55" y="20" width="1" height="20" fill="#FFFFFF" opacity="0.3"/>
+  
+  <!-- 小身体 -->
+  <ellipse cx="32" cy="48" rx="10" ry="10" fill="#A7F3D0"/>
+  <ellipse cx="28" cy="46" rx="4" ry="4" fill="#D1FAE5" opacity="0.6"/>
+  
+  <!-- 超大头 -->
+  <ellipse cx="32" cy="26" rx="18" ry="18" fill="#A7F3D0"/>
+  
+  <!-- 头部高光 -->
+  <ellipse cx="24" cy="18" rx="8" ry="6" fill="#D1FAE5" opacity="0.6"/>
+  <ellipse cx="20" cy="14" rx="4" ry="3" fill="#FFFFFF" opacity="0.6"/>
+  <ellipse cx="18" cy="12" rx="2" ry="1.5" fill="#FFFFFF" opacity="0.8"/>
+  
+  <!-- 头顶宝石（更大更闪） -->
+  <ellipse cx="32" cy="6" rx="5" ry="5" fill="#34D399"/>
+  <ellipse cx="32" cy="6" rx="3.5" ry="3.5" fill="#6EE7B7"/>
+  <ellipse cx="30" cy="4" rx="1.5" ry="1.5" fill="#FFFFFF" opacity="0.9"/>
+  
+  <!-- 宝石发光 -->
+  <ellipse cx="32" cy="6" rx="7" ry="7" fill="#34D399" opacity="0.3">
+    <animate attributeName="opacity" values="0.3;0.1;0.3" dur="1.5s" repeatCount="indefinite"/>
+  </ellipse>
+  
+  <!-- 超大眼睛 -->
+  <ellipse cx="26" cy="26" rx="7" ry="8" fill="#FFFFFF"/>
+  <ellipse cx="40" cy="26" rx="7" ry="8" fill="#FFFFFF"/>
+  
+  <!-- 大瞳孔 -->
+  <ellipse cx="27" cy="28" rx="4" ry="5" fill="#065F46"/>
+  <ellipse cx="41" cy="28" rx="4" ry="5" fill="#065F46"/>
+  
+  <!-- 超大高光 -->
+  <ellipse cx="24" cy="24" rx="2.5" ry="2.5" fill="#FFFFFF"/>
+  <ellipse cx="38" cy="24" rx="2.5" ry="2.5" fill="#FFFFFF"/>
+  <ellipse cx="29" cy="30" rx="1.5" ry="1.5" fill="#FFFFFF" opacity="0.7"/>
+  <ellipse cx="43" cy="30" rx="1.5" ry="1.5" fill="#FFFFFF" opacity="0.7"/>
+  
+  <!-- 粉嫩腮红 -->
+  <ellipse cx="18" cy="32" rx="4" ry="2.5" fill="#FDA4AF" opacity="0.6"/>
+  <ellipse cx="46" cy="32" rx="4" ry="2.5" fill="#FDA4AF" opacity="0.6"/>
+  
+  <!-- 可爱嘴巴 -->
+  <path d="M29,36 Q32,40 35,36" fill="none" stroke="#059669" stroke-width="2" stroke-linecap="round" opacity="0.7"/>
+  
+  <!-- 小手手 -->
+  <ellipse cx="20" cy="42" rx="4" ry="5" fill="#A7F3D0"/>
+  <ellipse cx="44" cy="42" rx="4" ry="5" fill="#A7F3D0"/>
+  
+  <!-- 魔法星星（更多更闪） -->
+  <polygon points="6,10 8,16 2,16" fill="#FCD34D" opacity="0.9"/>
+  <polygon points="58,14 60,18 56,18" fill="#FCD34D" opacity="0.7"/>
+  <polygon points="16,52 17,54 15,54" fill="#FCD34D" opacity="0.8"/>
+  <polygon points="50,50 51,52 49,52" fill="#FCD34D" opacity="0.6"/>
+  <polygon points="4,40 5,42 3,42" fill="#FFE080" opacity="0.5"/>
+  <polygon points="60,38 61,40 59,40" fill="#FFE080" opacity="0.4"/>
+  
+  <!-- 魔法粒子 -->
+  <ellipse cx="14" cy="46" rx="2" ry="2" fill="#34D399" opacity="0.7">
+    <animate attributeName="cy" values="46;40;46" dur="2s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse cx="52" cy="44" rx="2" ry="2" fill="#6EE7B7" opacity="0.6">
+    <animate attributeName="cy" values="44;38;44" dur="2.5s" repeatCount="indefinite"/>
+  </ellipse>
+</svg>

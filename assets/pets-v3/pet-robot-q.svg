@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" style="image-rendering: pixelated;">
+  <!-- Pet Robot Q版 - 超萌圆头机器人 -->
+  
+  <!-- 圆形阴影 -->
+  <ellipse cx="32" cy="60" rx="14" ry="3" fill="#3A3A50" opacity="0.3"/>
+  
+  <!-- 天线 -->
+  <ellipse cx="32" cy="2" rx="4" ry="4" fill="#00F5D4"/>
+  <ellipse cx="32" cy="2" rx="2.5" ry="2.5" fill="#80FFEA"/>
+  <rect x="30" y="4" width="4" height="6" fill="#909098"/>
+  
+  <!-- 天线发光动画 -->
+  <ellipse cx="32" cy="2" rx="6" ry="6" fill="#00F5D4" opacity="0.3">
+    <animate attributeName="opacity" values="0.3;0.1;0.3" dur="1s" repeatCount="indefinite"/>
+  </ellipse>
+  
+  <!-- 小身体 -->
+  <ellipse cx="32" cy="52" rx="12" ry="10" fill="#C0C8D8"/>
+  
+  <!-- 胸口面板 -->
+  <ellipse cx="32" cy="52" rx="8" ry="6" fill="#2A2A40"/>
+  
+  <!-- 状态灯 -->
+  <ellipse cx="28" cy="50" rx="2" ry="2" fill="#FF006E">
+    <animate attributeName="fill" values="#FF006E;#FF80B0;#FF006E" dur="1.5s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse cx="36" cy="50" rx="2" ry="2" fill="#00F5D4"/>
+  <rect x="28" y="54" width="8" height="2" fill="#8338EC"/>
+  
+  <!-- 小短手 -->
+  <ellipse cx="14" cy="48" rx="6" ry="5" fill="#B0B8C8"/>
+  <ellipse cx="50" cy="48" rx="6" ry="5" fill="#B0B8C8"/>
+  
+  <!-- 手部关节 -->
+  <ellipse cx="14" cy="48" rx="3" ry="3" fill="#909098"/>
+  <ellipse cx="50" cy="48" rx="3" ry="3" fill="#909098"/>
+  
+  <!-- 小短腿 -->
+  <ellipse cx="26" cy="60" rx="4" ry="3" fill="#909098"/>
+  <ellipse cx="38" cy="60" rx="4" ry="3" fill="#909098"/>
+  
+  <!-- 超大圆头 -->
+  <ellipse cx="32" cy="26" rx="22" ry="20" fill="#C0C8D8"/>
+  
+  <!-- 头部高光 -->
+  <ellipse cx="22" cy="16" rx="10" ry="8" fill="#E0E8F8" opacity="0.5"/>
+  <ellipse cx="18" cy="12" rx="4" ry="3" fill="#FFFFFF" opacity="0.4"/>
+  
+  <!-- 头部边框 -->
+  <ellipse cx="32" cy="26" rx="22" ry="20" fill="none" stroke="#A0A8B8" stroke-width="2"/>
+  
+  <!-- 耳朵传感器 -->
+  <ellipse cx="8" cy="26" rx="4" ry="6" fill="#909098"/>
+  <ellipse cx="56" cy="26" rx="4" ry="6" fill="#909098"/>
+  <ellipse cx="8" cy="26" rx="2" ry="4" fill="#606068"/>
+  <ellipse cx="56" cy="26" rx="2" ry="4" fill="#606068"/>
+  
+  <!-- 超大LED眼睛 -->
+  <ellipse cx="22" cy="26" rx="9" ry="10" fill="#1A1A2E"/>
+  <ellipse cx="42" cy="26" rx="9" ry="10" fill="#1A1A2E"/>
+  
+  <!-- 发光眼睛 -->
+  <ellipse cx="22" cy="26" rx="6" ry="7" fill="#00F5D4"/>
+  <ellipse cx="42" cy="26" rx="6" ry="7" fill="#00F5D4"/>
+  
+  <!-- 眼睛高光 -->
+  <ellipse cx="19" cy="23" rx="2.5" ry="2.5" fill="#FFFFFF"/>
+  <ellipse cx="39" cy="23" rx="2.5" ry="2.5" fill="#FFFFFF"/>
+  <ellipse cx="24" cy="28" rx="1.5" ry="1.5" fill="#FFFFFF" opacity="0.6"/>
+  <ellipse cx="44" cy="28" rx="1.5" ry="1.5" fill="#FFFFFF" opacity="0.6"/>
+  
+  <!-- 嘴巴（开心弧线） -->
+  <path d="M26,38 Q32,44 38,38" fill="none" stroke="#00F5D4" stroke-width="2" stroke-linecap="round"/>
+  
+  <!-- 腮红（机器人也要腮红！） -->
+  <ellipse cx="12" cy="32" rx="4" ry="2.5" fill="#FF80B0" opacity="0.4"/>
+  <ellipse cx="52" cy="32" rx="4" ry="2.5" fill="#FF80B0" opacity="0.4"/>
+  
+  <!-- 数据流 -->
+  <text x="4" y="10" font-size="8" fill="#00F5D4" opacity="0.5">01</text>
+  <text x="54" y="14" font-size="6" fill="#8338EC" opacity="0.4">10</text>
+</svg>

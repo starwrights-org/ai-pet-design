@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" style="image-rendering: pixelated;">
+  <!-- Pet Cat Q版 - 超萌大头猫 -->
+  
+  <!-- 圆形阴影 -->
+  <ellipse cx="32" cy="60" rx="14" ry="3" fill="#4A4A60" opacity="0.3"/>
+  
+  <!-- 小身体 -->
+  <ellipse cx="32" cy="54" rx="12" ry="8" fill="#A8B0C0"/>
+  
+  <!-- 身体高光 -->
+  <ellipse cx="28" cy="52" rx="4" ry="3" fill="#C8D0E0" opacity="0.6"/>
+  
+  <!-- 小短腿 -->
+  <ellipse cx="24" cy="58" rx="4" ry="3" fill="#98A0B0"/>
+  <ellipse cx="40" cy="58" rx="4" ry="3" fill="#98A0B0"/>
+  
+  <!-- 肉垫 -->
+  <ellipse cx="24" cy="59" rx="2" ry="1.5" fill="#FFB8C8"/>
+  <ellipse cx="40" cy="59" rx="2" ry="1.5" fill="#FFB8C8"/>
+  
+  <!-- 尾巴（翘起来） -->
+  <ellipse cx="48" cy="48" rx="4" ry="6" fill="#98A0B0"/>
+  <ellipse cx="50" cy="44" rx="3" ry="4" fill="#A8B0C0"/>
+  
+  <!-- 超大头 -->
+  <ellipse cx="32" cy="28" rx="24" ry="22" fill="#A8B0C0"/>
+  
+  <!-- 头部高光 -->
+  <ellipse cx="24" cy="20" rx="10" ry="8" fill="#C8D0E0" opacity="0.5"/>
+  <ellipse cx="20" cy="16" rx="4" ry="3" fill="#FFFFFF" opacity="0.6"/>
+  
+  <!-- 大耳朵 -->
+  <ellipse cx="12" cy="12" rx="8" ry="10" fill="#A8B0C0"/>
+  <ellipse cx="52" cy="12" rx="8" ry="10" fill="#A8B0C0"/>
+  
+  <!-- 耳内粉色 -->
+  <ellipse cx="12" cy="14" rx="4" ry="6" fill="#FFB8C8"/>
+  <ellipse cx="52" cy="14" rx="4" ry="6" fill="#FFB8C8"/>
+  
+  <!-- 超大眼睛 -->
+  <ellipse cx="22" cy="28" rx="9" ry="10" fill="#FFFFFF"/>
+  <ellipse cx="42" cy="28" rx="9" ry="10" fill="#FFFFFF"/>
+  
+  <!-- 大瞳孔 -->
+  <ellipse cx="24" cy="30" rx="5" ry="7" fill="#4A7AB8"/>
+  <ellipse cx="44" cy="30" rx="5" ry="7" fill="#4A7AB8"/>
+  
+  <!-- 瞳孔深色 -->
+  <ellipse cx="25" cy="32" rx="3" ry="4" fill="#2A4A78"/>
+  <ellipse cx="45" cy="32" rx="3" ry="4" fill="#2A4A78"/>
+  
+  <!-- 大高光（星星眼） -->
+  <ellipse cx="20" cy="26" rx="3" ry="3" fill="#FFFFFF"/>
+  <ellipse cx="40" cy="26" rx="3" ry="3" fill="#FFFFFF"/>
+  <ellipse cx="26" cy="32" rx="1.5" ry="1.5" fill="#FFFFFF" opacity="0.8"/>
+  <ellipse cx="46" cy="32" rx="1.5" ry="1.5" fill="#FFFFFF" opacity="0.8"/>
+  
+  <!-- 粉嫩鼻子 -->
+  <ellipse cx="32" cy="38" rx="3" ry="2.5" fill="#FF9CB0"/>
+  <ellipse cx="31" cy="37" rx="1" ry="1" fill="#FFFFFF" opacity="0.5"/>
+  
+  <!-- ω嘴巴 -->
+  <path d="M28,42 Q30,46 32,42 Q34,46 36,42" fill="none" stroke="#6A6A7A" stroke-width="2" stroke-linecap="round"/>
+  
+  <!-- 腮红 -->
+  <ellipse cx="12" cy="36" rx="5" ry="3" fill="#FFB0C0" opacity="0.6"/>
+  <ellipse cx="52" cy="36" rx="5" ry="3" fill="#FFB0C0" opacity="0.6"/>
+  
+  <!-- 胡须 -->
+  <line x1="2" y1="34" x2="14" y2="36" stroke="#D0D0E0" stroke-width="1"/>
+  <line x1="2" y1="40" x2="14" y2="40" stroke="#D0D0E0" stroke-width="1"/>
+  <line x1="50" y1="36" x2="62" y2="34" stroke="#D0D0E0" stroke-width="1"/>
+  <line x1="50" y1="40" x2="62" y2="40" stroke="#D0D0E0" stroke-width="1"/>
+  
+  <!-- 闪闪发光 -->
+  <polygon points="56,8 58,12 54,12" fill="#FFE080" opacity="0.8"/>
+  <polygon points="8,6 9,8 7,8" fill="#FFE080" opacity="0.6"/>
+</svg>
