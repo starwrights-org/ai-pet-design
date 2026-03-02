@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="128" height="128" style="image-rendering: pixelated;">
+  <!-- Pet Cat - 真像素艺术 32x32 -->
+  <!-- 灰白猫咪，Q版比例约1.5:1 -->
+  <!-- 调色板：灰色系+粉色+白色+黑色，共8色 -->
+  
+  <!-- 背景透明 -->
+  
+  <!-- 左耳 -->
+  <rect x="6" y="3" width="1" height="1" fill="#9DA3AF"/>
+  <rect x="5" y="4" width="1" height="1" fill="#9DA3AF"/>
+  <rect x="6" y="4" width="1" height="1" fill="#9DA3AF"/>
+  <rect x="7" y="4" width="1" height="1" fill="#9DA3AF"/>
+  <rect x="5" y="5" width="1" height="1" fill="#9DA3AF"/>
+  <rect x="6" y="5" width="1" height="1" fill="#FFB8C8"/>
+  <rect x="7" y="5" width="1" height="1" fill="#9DA3AF"/>
+  <rect x="6" y="6" width="1" height="1" fill="#9DA3AF"/>
+  <rect x="7" y="6" width="1" height="1" fill="#9DA3AF"/>
+  
+  <!-- 右耳 -->
+  <rect x="25" y="3" width="1" height="1" fill="#9DA3AF"/>
+  <rect x="24" y="4" width="1" height="1" fill="#9DA3AF"/>
+  <rect x="25" y="4" width="1" height="1" fill="#9DA3AF"/>
+  <rect x="26" y="4" width="1" height="1" fill="#9DA3AF"/>
+  <rect x="24" y="5" width="1" height="1" fill="#9DA3AF"/>
+  <rect x="25" y="5" width="1" height="1" fill="#FFB8C8"/>
+  <rect x="26" y="5" width="1" height="1" fill="#9DA3AF"/>
+  <rect x="24" y="6" width="1" height="1" fill="#9DA3AF"/>
+  <rect x="25" y="6" width="1" height="1" fill="#9DA3AF"/>
+  
+  <!-- 头部主体 -->
+  <rect x="8" y="5" width="16" height="1" fill="#9DA3AF"/>
+  <rect x="7" y="6" width="18" height="1" fill="#9DA3AF"/>
+  <rect x="6" y="7" width="20" height="1" fill="#9DA3AF"/>
+  <rect x="6" y="8" width="20" height="1" fill="#9DA3AF"/>
+  <rect x="6" y="9" width="20" height="1" fill="#9DA3AF"/>
+  <rect x="6" y="10" width="20" height="1" fill="#9DA3AF"/>
+  <rect x="6" y="11" width="20" height="1" fill="#9DA3AF"/>
+  <rect x="6" y="12" width="20" height="1" fill="#9DA3AF"/>
+  <rect x="6" y="13" width="20" height="1" fill="#9DA3AF"/>
+  <rect x="7" y="14" width="18" height="1" fill="#9DA3AF"/>
+  <rect x="8" y="15" width="16" height="1" fill="#9DA3AF"/>
+  <rect x="9" y="16" width="14" height="1" fill="#9DA3AF"/>
+  
+  <!-- 头部高光 -->
+  <rect x="9" y="6" width="4" height="1" fill="#C8D0E0"/>
+  <rect x="8" y="7" width="5" height="1" fill="#C8D0E0"/>
+  <rect x="8" y="8" width="4" height="1" fill="#C8D0E0"/>
+  
+  <!-- 左眼 -->
+  <rect x="9" y="9" width="4" height="1" fill="#FFFFFF"/>
+  <rect x="8" y="10" width="6" height="1" fill="#FFFFFF"/>
+  <rect x="8" y="11" width="6" height="1" fill="#FFFFFF"/>
+  <rect x="9" y="12" width="4" height="1" fill="#FFFFFF"/>
+  <!-- 左眼瞳孔 -->
+  <rect x="10" y="10" width="2" height="1" fill="#4A7AB8"/>
+  <rect x="10" y="11" width="2" height="1" fill="#4A7AB8"/>
+  <rect x="11" y="11" width="1" height="1" fill="#2A4A78"/>
+  <!-- 左眼高光 -->
+  <rect x="9" y="9" width="1" height="1" fill="#FFFFFF"/>
+  
+  <!-- 右眼 -->
+  <rect x="19" y="9" width="4" height="1" fill="#FFFFFF"/>
+  <rect x="18" y="10" width="6" height="1" fill="#FFFFFF"/>
+  <rect x="18" y="11" width="6" height="1" fill="#FFFFFF"/>
+  <rect x="19" y="12" width="4" height="1" fill="#FFFFFF"/>
+  <!-- 右眼瞳孔 -->
+  <rect x="20" y="10" width="2" height="1" fill="#4A7AB8"/>
+  <rect x="20" y="11" width="2" height="1" fill="#4A7AB8"/>
+  <rect x="21" y="11" width="1" height="1" fill="#2A4A78"/>
+  <!-- 右眼高光 -->
+  <rect x="19" y="9" width="1" height="1" fill="#FFFFFF"/>
+  
+  <!-- 鼻子 -->
+  <rect x="15" y="12" width="2" height="1" fill="#FF9CB0"/>
+  <rect x="15" y="13" width="2" height="1" fill="#FF9CB0"/>
+  
+  <!-- 嘴巴 -->
+  <rect x="14" y="14" width="1" height="1" fill="#6A6A7A"/>
+  <rect x="15" y="15" width="2" height="1" fill="#6A6A7A"/>
+  <rect x="17" y="14" width="1" height="1" fill="#6A6A7A"/>
+  
+  <!-- 左腮红 -->
+  <rect x="7" y="12" width="2" height="1" fill="#FFB0C0"/>
+  
+  <!-- 右腮红 -->
+  <rect x="23" y="12" width="2" height="1" fill="#FFB0C0"/>
+  
+  <!-- 左胡须 -->
+  <rect x="3" y="11" width="4" height="1" fill="#C8D0E0"/>
+  <rect x="4" y="13" width="3" height="1" fill="#C8D0E0"/>
+  
+  <!-- 右胡须 -->
+  <rect x="25" y="11" width="4" height="1" fill="#C8D0E0"/>
+  <rect x="25" y="13" width="3" height="1" fill="#C8D0E0"/>
+  
+  <!-- 身体 -->
+  <rect x="10" y="17" width="12" height="1" fill="#9DA3AF"/>
+  <rect x="9" y="18" width="14" height="1" fill="#9DA3AF"/>
+  <rect x="9" y="19" width="14" height="1" fill="#9DA3AF"/>
+  <rect x="9" y="20" width="14" height="1" fill="#9DA3AF"/>
+  <rect x="9" y="21" width="14" height="1" fill="#9DA3AF"/>
+  <rect x="10" y="22" width="12" height="1" fill="#9DA3AF"/>
+  
+  <!-- 身体高光 -->
+  <rect x="10" y="18" width="3" height="1" fill="#C8D0E0"/>
+  <rect x="10" y="19" width="2" height="1" fill="#C8D0E0"/>
+  
+  <!-- 左前腿 -->
+  <rect x="10" y="23" width="3" height="1" fill="#8A909B"/>
+  <rect x="10" y="24" width="3" height="1" fill="#8A909B"/>
+  <rect x="10" y="25" width="3" height="1" fill="#FFB8C8"/>
+  
+  <!-- 右前腿 -->
+  <rect x="19" y="23" width="3" height="1" fill="#8A909B"/>
+  <rect x="19" y="24" width="3" height="1" fill="#8A909B"/>
+  <rect x="19" y="25" width="3" height="1" fill="#FFB8C8"/>
+  
+  <!-- 尾巴 -->
+  <rect x="23" y="19" width="2" height="1" fill="#8A909B"/>
+  <rect x="24" y="18" width="2" height="1" fill="#8A909B"/>
+  <rect x="25" y="17" width="2" height="1" fill="#9DA3AF"/>
+  <rect x="26" y="16" width="2" height="1" fill="#9DA3AF"/>
+  
+  <!-- 阴影 -->
+  <rect x="9" y="26" width="14" height="1" fill="#4A4A60" fill-opacity="0.3"/>
+  <rect x="10" y="27" width="12" height="1" fill="#4A4A60" fill-opacity="0.2"/>
+</svg>
