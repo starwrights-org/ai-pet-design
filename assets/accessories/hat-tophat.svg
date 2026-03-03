@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="128" height="128" style="image-rendering: pixelated;">
+  <!-- 配件：黑色礼帽 -->
+  <!-- 位置：头顶，适配猫型v4 -->
+  <!-- 透明背景，只画帽子 -->
+  
+  <!-- 帽顶 -->
+  <rect x="11" y="0" width="1" height="1" fill="#2A2A2A"/>
+  <rect x="12" y="0" width="1" height="1" fill="#3A3A3A"/>
+  <rect x="13" y="0" width="1" height="1" fill="#3A3A3A"/>
+  <rect x="14" y="0" width="1" height="1" fill="#3A3A3A"/>
+  <rect x="15" y="0" width="1" height="1" fill="#3A3A3A"/>
+  <rect x="16" y="0" width="1" height="1" fill="#3A3A3A"/>
+  <rect x="17" y="0" width="1" height="1" fill="#3A3A3A"/>
+  <rect x="18" y="0" width="1" height="1" fill="#3A3A3A"/>
+  <rect x="19" y="0" width="1" height="1" fill="#3A3A3A"/>
+  <rect x="20" y="0" width="1" height="1" fill="#2A2A2A"/>
+  
+  <!-- 帽身 row1-3 -->
+  <rect x="10" y="1" width="1" height="1" fill="#2A2A2A"/>
+  <rect x="11" y="1" width="1" height="1" fill="#4A4A4A"/>
+  <rect x="12" y="1" width="1" height="1" fill="#5A5A5A"/>
+  <rect x="13" y="1" width="1" height="1" fill="#5A5A5A"/>
+  <rect x="14" y="1" width="1" height="1" fill="#5A5A5A"/>
+  <rect x="15" y="1" width="1" height="1" fill="#5A5A5A"/>
+  <rect x="16" y="1" width="1" height="1" fill="#5A5A5A"/>
+  <rect x="17" y="1" width="1" height="1" fill="#5A5A5A"/>
+  <rect x="18" y="1" width="1" height="1" fill="#5A5A5A"/>
+  <rect x="19" y="1" width="1" height="1" fill="#4A4A4A"/>
+  <rect x="20" y="1" width="1" height="1" fill="#3A3A3A"/>
+  <rect x="21" y="1" width="1" height="1" fill="#2A2A2A"/>
+  
+  <rect x="10" y="2" width="1" height="1" fill="#2A2A2A"/>
+  <rect x="11" y="2" width="1" height="1" fill="#4A4A4A"/>
+  <rect x="12" y="2" width="1" height="1" fill="#5A5A5A"/>
+  <rect x="13" y="2" width="1" height="1" fill="#5A5A5A"/>
+  <rect x="14" y="2" width="1" height="1" fill="#5A5A5A"/>
+  <rect x="15" y="2" width="1" height="1" fill="#5A5A5A"/>
+  <rect x="16" y="2" width="1" height="1" fill="#5A5A5A"/>
+  <rect x="17" y="2" width="1" height="1" fill="#5A5A5A"/>
+  <rect x="18" y="2" width="1" height="1" fill="#5A5A5A"/>
+  <rect x="19" y="2" width="1" height="1" fill="#4A4A4A"/>
+  <rect x="20" y="2" width="1" height="1" fill="#3A3A3A"/>
+  <rect x="21" y="2" width="1" height="1" fill="#2A2A2A"/>
+  
+  <rect x="10" y="3" width="1" height="1" fill="#2A2A2A"/>
+  <rect x="11" y="3" width="1" height="1" fill="#4A4A4A"/>
+  <rect x="12" y="3" width="1" height="1" fill="#5A5A5A"/>
+  <rect x="13" y="3" width="1" height="1" fill="#5A5A5A"/>
+  <rect x="14" y="3" width="1" height="1" fill="#5A5A5A"/>
+  <rect x="15" y="3" width="1" height="1" fill="#5A5A5A"/>
+  <rect x="16" y="3" width="1" height="1" fill="#5A5A5A"/>
+  <rect x="17" y="3" width="1" height="1" fill="#5A5A5A"/>
+  <rect x="18" y="3" width="1" height="1" fill="#5A5A5A"/>
+  <rect x="19" y="3" width="1" height="1" fill="#4A4A4A"/>
+  <rect x="20" y="3" width="1" height="1" fill="#3A3A3A"/>
+  <rect x="21" y="3" width="1" height="1" fill="#2A2A2A"/>
+  
+  <!-- 帽带（红色装饰） -->
+  <rect x="10" y="4" width="1" height="1" fill="#2A2A2A"/>
+  <rect x="11" y="4" width="1" height="1" fill="#AA3030"/>
+  <rect x="12" y="4" width="1" height="1" fill="#CC4040"/>
+  <rect x="13" y="4" width="1" height="1" fill="#CC4040"/>
+  <rect x="14" y="4" width="1" height="1" fill="#CC4040"/>
+  <rect x="15" y="4" width="1" height="1" fill="#CC4040"/>
+  <rect x="16" y="4" width="1" height="1" fill="#CC4040"/>
+  <rect x="17" y="4" width="1" height="1" fill="#CC4040"/>
+  <rect x="18" y="4" width="1" height="1" fill="#CC4040"/>
+  <rect x="19" y="4" width="1" height="1" fill="#AA3030"/>
+  <rect x="20" y="4" width="1" height="1" fill="#AA3030"/>
+  <rect x="21" y="4" width="1" height="1" fill="#2A2A2A"/>
+  
+  <!-- 帽檐 -->
+  <rect x="7" y="5" width="1" height="1" fill="#2A2A2A"/>
+  <rect x="8" y="5" width="1" height="1" fill="#3A3A3A"/>
+  <rect x="9" y="5" width="1" height="1" fill="#4A4A4A"/>
+  <rect x="10" y="5" width="1" height="1" fill="#4A4A4A"/>
+  <rect x="11" y="5" width="1" height="1" fill="#4A4A4A"/>
+  <rect x="12" y="5" width="1" height="1" fill="#4A4A4A"/>
+  <rect x="13" y="5" width="1" height="1" fill="#4A4A4A"/>
+  <rect x="14" y="5" width="1" height="1" fill="#4A4A4A"/>
+  <rect x="15" y="5" width="1" height="1" fill="#4A4A4A"/>
+  <rect x="16" y="5" width="1" height="1" fill="#4A4A4A"/>
+  <rect x="17" y="5" width="1" height="1" fill="#4A4A4A"/>
+  <rect x="18" y="5" width="1" height="1" fill="#4A4A4A"/>
+  <rect x="19" y="5" width="1" height="1" fill="#4A4A4A"/>
+  <rect x="20" y="5" width="1" height="1" fill="#4A4A4A"/>
+  <rect x="21" y="5" width="1" height="1" fill="#4A4A4A"/>
+  <rect x="22" y="5" width="1" height="1" fill="#3A3A3A"/>
+  <rect x="23" y="5" width="1" height="1" fill="#3A3A3A"/>
+  <rect x="24" y="5" width="1" height="1" fill="#2A2A2A"/>
+  
+  <!-- 帽檐阴影 -->
+  <rect x="8" y="6" width="1" height="1" fill="#1A1A1A"/>
+  <rect x="9" y="6" width="1" height="1" fill="#2A2A2A"/>
+  <rect x="10" y="6" width="1" height="1" fill="#2A2A2A"/>
+  <rect x="11" y="6" width="1" height="1" fill="#2A2A2A"/>
+  <rect x="12" y="6" width="1" height="1" fill="#2A2A2A"/>
+  <rect x="13" y="6" width="1" height="1" fill="#2A2A2A"/>
+  <rect x="14" y="6" width="1" height="1" fill="#2A2A2A"/>
+  <rect x="15" y="6" width="1" height="1" fill="#2A2A2A"/>
+  <rect x="16" y="6" width="1" height="1" fill="#2A2A2A"/>
+  <rect x="17" y="6" width="1" height="1" fill="#2A2A2A"/>
+  <rect x="18" y="6" width="1" height="1" fill="#2A2A2A"/>
+  <rect x="19" y="6" width="1" height="1" fill="#2A2A2A"/>
+  <rect x="20" y="6" width="1" height="1" fill="#2A2A2A"/>
+  <rect x="21" y="6" width="1" height="1" fill="#2A2A2A"/>
+  <rect x="22" y="6" width="1" height="1" fill="#2A2A2A"/>
+  <rect x="23" y="6" width="1" height="1" fill="#1A1A1A"/>
+</svg>
