@@ -1,0 +1,234 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="128" height="128" style="image-rendering: pixelated;">
+  <!-- Pet Spirit - 魔法精灵 32x32 -->
+  <!-- 极简眼睛（1x2竖点），头身比约1.5:1 -->
+  <!-- 调色板：粉蓝色+白色+星星点缀，12色 -->
+  
+  <!-- 头顶星星装饰 -->
+  <rect x="15" y="1" width="1" height="1" fill="#FFE040"/>
+  <rect x="16" y="1" width="1" height="1" fill="#FFE040"/>
+  <rect x="14" y="2" width="1" height="1" fill="#FFD030"/>
+  <rect x="15" y="2" width="1" height="1" fill="#FFF080"/>
+  <rect x="16" y="2" width="1" height="1" fill="#FFF080"/>
+  <rect x="17" y="2" width="1" height="1" fill="#FFD030"/>
+  <rect x="15" y="3" width="1" height="1" fill="#FFE040"/>
+  <rect x="16" y="3" width="1" height="1" fill="#FFE040"/>
+  
+  <!-- 头部 row4-6 -->
+  <rect x="11" y="4" width="1" height="1" fill="#8090D0"/>
+  <rect x="12" y="4" width="1" height="1" fill="#90A0E0"/>
+  <rect x="13" y="4" width="1" height="1" fill="#A0B0F0"/>
+  <rect x="14" y="4" width="1" height="1" fill="#B0C0FF"/>
+  <rect x="15" y="4" width="1" height="1" fill="#C0D0FF"/>
+  <rect x="16" y="4" width="1" height="1" fill="#C0D0FF"/>
+  <rect x="17" y="4" width="1" height="1" fill="#B0C0FF"/>
+  <rect x="18" y="4" width="1" height="1" fill="#A0B0F0"/>
+  <rect x="19" y="4" width="1" height="1" fill="#90A0E0"/>
+  <rect x="20" y="4" width="1" height="1" fill="#8090D0"/>
+  
+  <rect x="9" y="5" width="1" height="1" fill="#7080C0"/>
+  <rect x="10" y="5" width="1" height="1" fill="#8090D0"/>
+  <rect x="11" y="5" width="1" height="1" fill="#90A0E0"/>
+  <rect x="12" y="5" width="1" height="1" fill="#A0B0F0"/>
+  <rect x="13" y="5" width="1" height="1" fill="#B0C0FF"/>
+  <rect x="14" y="5" width="1" height="1" fill="#C0D0FF"/>
+  <rect x="15" y="5" width="1" height="1" fill="#FFFFFF"/>
+  <rect x="16" y="5" width="1" height="1" fill="#FFFFFF"/>
+  <rect x="17" y="5" width="1" height="1" fill="#C0D0FF"/>
+  <rect x="18" y="5" width="1" height="1" fill="#B0C0FF"/>
+  <rect x="19" y="5" width="1" height="1" fill="#A0B0F0"/>
+  <rect x="20" y="5" width="1" height="1" fill="#90A0E0"/>
+  <rect x="21" y="5" width="1" height="1" fill="#8090D0"/>
+  <rect x="22" y="5" width="1" height="1" fill="#7080C0"/>
+  
+  <rect x="8" y="6" width="1" height="1" fill="#6070B0"/>
+  <rect x="9" y="6" width="1" height="1" fill="#7080C0"/>
+  <rect x="10" y="6" width="1" height="1" fill="#8090D0"/>
+  <rect x="11" y="6" width="1" height="1" fill="#90A0E0"/>
+  <rect x="12" y="6" width="1" height="1" fill="#A0B0F0"/>
+  <rect x="13" y="6" width="1" height="1" fill="#B0C0FF"/>
+  <rect x="14" y="6" width="1" height="1" fill="#D0E0FF"/>
+  <rect x="15" y="6" width="1" height="1" fill="#FFFFFF"/>
+  <rect x="16" y="6" width="1" height="1" fill="#FFFFFF"/>
+  <rect x="17" y="6" width="1" height="1" fill="#D0E0FF"/>
+  <rect x="18" y="6" width="1" height="1" fill="#B0C0FF"/>
+  <rect x="19" y="6" width="1" height="1" fill="#A0B0F0"/>
+  <rect x="20" y="6" width="1" height="1" fill="#90A0E0"/>
+  <rect x="21" y="6" width="1" height="1" fill="#8090D0"/>
+  <rect x="22" y="6" width="1" height="1" fill="#7080C0"/>
+  <rect x="23" y="6" width="1" height="1" fill="#6070B0"/>
+  
+  <!-- row7 眼睛上方 -->
+  <rect x="8" y="7" width="1" height="1" fill="#6070B0"/>
+  <rect x="9" y="7" width="1" height="1" fill="#7080C0"/>
+  <rect x="10" y="7" width="1" height="1" fill="#8090D0"/>
+  <rect x="11" y="7" width="1" height="1" fill="#90A0E0"/>
+  <rect x="12" y="7" width="1" height="1" fill="#A0B0F0"/>
+  <rect x="13" y="7" width="1" height="1" fill="#B0C0FF"/>
+  <rect x="14" y="7" width="1" height="1" fill="#C0D0FF"/>
+  <rect x="15" y="7" width="1" height="1" fill="#D0E0FF"/>
+  <rect x="16" y="7" width="1" height="1" fill="#D0E0FF"/>
+  <rect x="17" y="7" width="1" height="1" fill="#C0D0FF"/>
+  <rect x="18" y="7" width="1" height="1" fill="#B0C0FF"/>
+  <rect x="19" y="7" width="1" height="1" fill="#A0B0F0"/>
+  <rect x="20" y="7" width="1" height="1" fill="#90A0E0"/>
+  <rect x="21" y="7" width="1" height="1" fill="#8090D0"/>
+  <rect x="22" y="7" width="1" height="1" fill="#7080C0"/>
+  <rect x="23" y="7" width="1" height="1" fill="#6070B0"/>
+  
+  <!-- row8 眼睛（星星眼！） -->
+  <rect x="8" y="8" width="1" height="1" fill="#6070B0"/>
+  <rect x="9" y="8" width="1" height="1" fill="#7080C0"/>
+  <rect x="10" y="8" width="1" height="1" fill="#8090D0"/>
+  <rect x="11" y="8" width="1" height="1" fill="#90A0E0"/>
+  <rect x="12" y="8" width="1" height="1" fill="#FFE040"/>
+  <rect x="13" y="8" width="1" height="1" fill="#B0C0FF"/>
+  <rect x="14" y="8" width="1" height="1" fill="#C0D0FF"/>
+  <rect x="15" y="8" width="1" height="1" fill="#D0E0FF"/>
+  <rect x="16" y="8" width="1" height="1" fill="#D0E0FF"/>
+  <rect x="17" y="8" width="1" height="1" fill="#C0D0FF"/>
+  <rect x="18" y="8" width="1" height="1" fill="#B0C0FF"/>
+  <rect x="19" y="8" width="1" height="1" fill="#FFE040"/>
+  <rect x="20" y="8" width="1" height="1" fill="#90A0E0"/>
+  <rect x="21" y="8" width="1" height="1" fill="#8090D0"/>
+  <rect x="22" y="8" width="1" height="1" fill="#7080C0"/>
+  <rect x="23" y="8" width="1" height="1" fill="#6070B0"/>
+  
+  <!-- row9 眼睛下+腮红 -->
+  <rect x="8" y="9" width="1" height="1" fill="#6070B0"/>
+  <rect x="9" y="9" width="1" height="1" fill="#FFB0C0"/>
+  <rect x="10" y="9" width="1" height="1" fill="#8090D0"/>
+  <rect x="11" y="9" width="1" height="1" fill="#90A0E0"/>
+  <rect x="12" y="9" width="1" height="1" fill="#FFE040"/>
+  <rect x="13" y="9" width="1" height="1" fill="#B0C0FF"/>
+  <rect x="14" y="9" width="1" height="1" fill="#C0D0FF"/>
+  <rect x="15" y="9" width="1" height="1" fill="#D0E0FF"/>
+  <rect x="16" y="9" width="1" height="1" fill="#D0E0FF"/>
+  <rect x="17" y="9" width="1" height="1" fill="#C0D0FF"/>
+  <rect x="18" y="9" width="1" height="1" fill="#B0C0FF"/>
+  <rect x="19" y="9" width="1" height="1" fill="#FFE040"/>
+  <rect x="20" y="9" width="1" height="1" fill="#90A0E0"/>
+  <rect x="21" y="9" width="1" height="1" fill="#8090D0"/>
+  <rect x="22" y="9" width="1" height="1" fill="#FFB0C0"/>
+  <rect x="23" y="9" width="1" height="1" fill="#6070B0"/>
+  
+  <!-- row10 嘴巴 -->
+  <rect x="8" y="10" width="1" height="1" fill="#6070B0"/>
+  <rect x="9" y="10" width="1" height="1" fill="#7080C0"/>
+  <rect x="10" y="10" width="1" height="1" fill="#8090D0"/>
+  <rect x="11" y="10" width="1" height="1" fill="#90A0E0"/>
+  <rect x="12" y="10" width="1" height="1" fill="#A0B0F0"/>
+  <rect x="13" y="10" width="1" height="1" fill="#B0C0FF"/>
+  <rect x="14" y="10" width="1" height="1" fill="#C0D0FF"/>
+  <rect x="15" y="10" width="1" height="1" fill="#FF90B0"/>
+  <rect x="16" y="10" width="1" height="1" fill="#FF90B0"/>
+  <rect x="17" y="10" width="1" height="1" fill="#C0D0FF"/>
+  <rect x="18" y="10" width="1" height="1" fill="#B0C0FF"/>
+  <rect x="19" y="10" width="1" height="1" fill="#A0B0F0"/>
+  <rect x="20" y="10" width="1" height="1" fill="#90A0E0"/>
+  <rect x="21" y="10" width="1" height="1" fill="#8090D0"/>
+  <rect x="22" y="10" width="1" height="1" fill="#7080C0"/>
+  <rect x="23" y="10" width="1" height="1" fill="#6070B0"/>
+  
+  <!-- row11 -->
+  <rect x="9" y="11" width="1" height="1" fill="#6070B0"/>
+  <rect x="10" y="11" width="1" height="1" fill="#7080C0"/>
+  <rect x="11" y="11" width="1" height="1" fill="#8090D0"/>
+  <rect x="12" y="11" width="1" height="1" fill="#90A0E0"/>
+  <rect x="13" y="11" width="1" height="1" fill="#A0B0F0"/>
+  <rect x="14" y="11" width="1" height="1" fill="#B0C0FF"/>
+  <rect x="15" y="11" width="1" height="1" fill="#C0D0FF"/>
+  <rect x="16" y="11" width="1" height="1" fill="#C0D0FF"/>
+  <rect x="17" y="11" width="1" height="1" fill="#B0C0FF"/>
+  <rect x="18" y="11" width="1" height="1" fill="#A0B0F0"/>
+  <rect x="19" y="11" width="1" height="1" fill="#90A0E0"/>
+  <rect x="20" y="11" width="1" height="1" fill="#8090D0"/>
+  <rect x="21" y="11" width="1" height="1" fill="#7080C0"/>
+  <rect x="22" y="11" width="1" height="1" fill="#6070B0"/>
+  
+  <!-- 翅膀 -->
+  <rect x="5" y="9" width="1" height="1" fill="#D0E0FF"/>
+  <rect x="6" y="9" width="1" height="1" fill="#C0D0FF"/>
+  <rect x="7" y="9" width="1" height="1" fill="#B0C0FF"/>
+  <rect x="4" y="10" width="1" height="1" fill="#E0F0FF"/>
+  <rect x="5" y="10" width="1" height="1" fill="#D0E0FF"/>
+  <rect x="6" y="10" width="1" height="1" fill="#C0D0FF"/>
+  <rect x="7" y="10" width="1" height="1" fill="#A0B0F0"/>
+  <rect x="5" y="11" width="1" height="1" fill="#D0E0FF"/>
+  <rect x="6" y="11" width="1" height="1" fill="#C0D0FF"/>
+  <rect x="7" y="11" width="1" height="1" fill="#B0C0FF"/>
+  <rect x="6" y="12" width="1" height="1" fill="#C0D0FF"/>
+  <rect x="7" y="12" width="1" height="1" fill="#B0C0FF"/>
+  
+  <!-- 右翅膀 -->
+  <rect x="24" y="9" width="1" height="1" fill="#B0C0FF"/>
+  <rect x="25" y="9" width="1" height="1" fill="#C0D0FF"/>
+  <rect x="26" y="9" width="1" height="1" fill="#D0E0FF"/>
+  <rect x="24" y="10" width="1" height="1" fill="#A0B0F0"/>
+  <rect x="25" y="10" width="1" height="1" fill="#C0D0FF"/>
+  <rect x="26" y="10" width="1" height="1" fill="#D0E0FF"/>
+  <rect x="27" y="10" width="1" height="1" fill="#E0F0FF"/>
+  <rect x="24" y="11" width="1" height="1" fill="#B0C0FF"/>
+  <rect x="25" y="11" width="1" height="1" fill="#C0D0FF"/>
+  <rect x="26" y="11" width="1" height="1" fill="#D0E0FF"/>
+  <rect x="24" y="12" width="1" height="1" fill="#B0C0FF"/>
+  <rect x="25" y="12" width="1" height="1" fill="#C0D0FF"/>
+  
+  <!-- 身体 row12-15 -->
+  <rect x="10" y="12" width="1" height="1" fill="#6070B0"/>
+  <rect x="11" y="12" width="1" height="1" fill="#7080C0"/>
+  <rect x="12" y="12" width="1" height="1" fill="#8090D0"/>
+  <rect x="13" y="12" width="1" height="1" fill="#90A0E0"/>
+  <rect x="14" y="12" width="1" height="1" fill="#A0B0F0"/>
+  <rect x="15" y="12" width="1" height="1" fill="#B0C0FF"/>
+  <rect x="16" y="12" width="1" height="1" fill="#B0C0FF"/>
+  <rect x="17" y="12" width="1" height="1" fill="#A0B0F0"/>
+  <rect x="18" y="12" width="1" height="1" fill="#90A0E0"/>
+  <rect x="19" y="12" width="1" height="1" fill="#8090D0"/>
+  <rect x="20" y="12" width="1" height="1" fill="#7080C0"/>
+  <rect x="21" y="12" width="1" height="1" fill="#6070B0"/>
+  
+  <rect x="11" y="13" width="1" height="1" fill="#6070B0"/>
+  <rect x="12" y="13" width="1" height="1" fill="#7080C0"/>
+  <rect x="13" y="13" width="1" height="1" fill="#8090D0"/>
+  <rect x="14" y="13" width="1" height="1" fill="#90A0E0"/>
+  <rect x="15" y="13" width="1" height="1" fill="#A0B0F0"/>
+  <rect x="16" y="13" width="1" height="1" fill="#A0B0F0"/>
+  <rect x="17" y="13" width="1" height="1" fill="#90A0E0"/>
+  <rect x="18" y="13" width="1" height="1" fill="#8090D0"/>
+  <rect x="19" y="13" width="1" height="1" fill="#7080C0"/>
+  <rect x="20" y="13" width="1" height="1" fill="#6070B0"/>
+  
+  <rect x="12" y="14" width="1" height="1" fill="#6070B0"/>
+  <rect x="13" y="14" width="1" height="1" fill="#7080C0"/>
+  <rect x="14" y="14" width="1" height="1" fill="#8090D0"/>
+  <rect x="15" y="14" width="1" height="1" fill="#90A0E0"/>
+  <rect x="16" y="14" width="1" height="1" fill="#90A0E0"/>
+  <rect x="17" y="14" width="1" height="1" fill="#8090D0"/>
+  <rect x="18" y="14" width="1" height="1" fill="#7080C0"/>
+  <rect x="19" y="14" width="1" height="1" fill="#6070B0"/>
+  
+  <rect x="13" y="15" width="1" height="1" fill="#6070B0"/>
+  <rect x="14" y="15" width="1" height="1" fill="#7080C0"/>
+  <rect x="15" y="15" width="1" height="1" fill="#8090D0"/>
+  <rect x="16" y="15" width="1" height="1" fill="#8090D0"/>
+  <rect x="17" y="15" width="1" height="1" fill="#7080C0"/>
+  <rect x="18" y="15" width="1" height="1" fill="#6070B0"/>
+  
+  <!-- 魔法光点 -->
+  <rect x="6" y="5" width="1" height="1" fill="#FFE080"/>
+  <rect x="25" y="5" width="1" height="1" fill="#FFE080"/>
+  <rect x="4" y="12" width="1" height="1" fill="#FFD060"/>
+  <rect x="27" y="12" width="1" height="1" fill="#FFD060"/>
+  <rect x="7" y="15" width="1" height="1" fill="#FFE080"/>
+  <rect x="24" y="15" width="1" height="1" fill="#FFE080"/>
+  
+  <!-- 阴影 -->
+  <rect x="12" y="16" width="1" height="1" fill="#5060A0"/>
+  <rect x="13" y="16" width="1" height="1" fill="#5060A0"/>
+  <rect x="14" y="16" width="1" height="1" fill="#5060A0"/>
+  <rect x="15" y="16" width="1" height="1" fill="#5060A0"/>
+  <rect x="16" y="16" width="1" height="1" fill="#5060A0"/>
+  <rect x="17" y="16" width="1" height="1" fill="#5060A0"/>
+  <rect x="18" y="16" width="1" height="1" fill="#5060A0"/>
+  <rect x="19" y="16" width="1" height="1" fill="#5060A0"/>
+</svg>
