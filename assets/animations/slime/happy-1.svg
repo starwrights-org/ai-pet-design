@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="128" height="128" style="image-rendering: pixelated;">
+  <!-- Slime Happy Frame 1 - 开心弹跳 -->
+  
+  <!-- 顶部高光（更亮） -->
+  <rect x="13" y="2" width="6" height="1" fill="#FFFFFF"/>
+  <rect x="12" y="3" width="8" height="1" fill="#A0F0FF"/>
+  
+  <!-- 头部 -->
+  <rect x="10" y="4" width="12" height="1" fill="#90E0FF"/>
+  <rect x="9" y="5" width="14" height="1" fill="#80E0F0"/>
+  <rect x="15" y="5" width="2" height="1" fill="#FFFFFF"/>
+  <rect x="8" y="6" width="16" height="1" fill="#70D0F0"/>
+  
+  <!-- 眼睛（弯弯笑眼） -->
+  <rect x="8" y="7" width="16" height="2" fill="#60C0E0"/>
+  <rect x="10" y="7" width="4" height="1" fill="#2A2A2A"/>
+  <rect x="18" y="7" width="4" height="1" fill="#2A2A2A"/>
+  <rect x="11" y="8" width="2" height="1" fill="#2A2A2A"/>
+  <rect x="19" y="8" width="2" height="1" fill="#2A2A2A"/>
+  <rect x="9" y="8" width="1" height="1" fill="#FFB0C0"/>
+  <rect x="22" y="8" width="1" height="1" fill="#FFB0C0"/>
+  
+  <!-- 嘴（大笑） -->
+  <rect x="8" y="9" width="16" height="1" fill="#50B0D0"/>
+  <rect x="13" y="9" width="6" height="1" fill="#3090B0"/>
+  <rect x="14" y="10" width="4" height="1" fill="#2080A0"/>
+  
+  <!-- 身体（跳起） -->
+  <rect x="9" y="10" width="14" height="1" fill="#40A0C0"/>
+  <rect x="10" y="11" width="12" height="1" fill="#3090B0"/>
+  <rect x="11" y="12" width="10" height="1" fill="#2080A0"/>
+  <rect x="12" y="13" width="8" height="1" fill="#107090"/>
+  
+  <!-- 阴影（离地远） -->
+  <rect x="11" y="17" width="10" height="1" fill="#206080"/>
+</svg>

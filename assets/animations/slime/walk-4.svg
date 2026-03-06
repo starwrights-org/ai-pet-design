@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="128" height="128" style="image-rendering: pixelated;">
+  <!-- Slime Walk Frame 4 - 弹跳拉伸 -->
+  
+  <!-- 顶部高光 -->
+  <rect x="14" y="2" width="4" height="1" fill="#A0F0FF"/>
+  
+  <!-- 头部（拉长） -->
+  <rect x="12" y="3" width="8" height="1" fill="#80E0F0"/>
+  <rect x="11" y="4" width="10" height="1" fill="#70D0F0"/>
+  <rect x="15" y="4" width="2" height="1" fill="#FFFFFF"/>
+  <rect x="10" y="5" width="12" height="1" fill="#60C0E0"/>
+  
+  <!-- 眼睛 -->
+  <rect x="10" y="6" width="12" height="2" fill="#60C0E0"/>
+  <rect x="12" y="6" width="1" height="2" fill="#2A2A2A"/>
+  <rect x="19" y="6" width="1" height="2" fill="#2A2A2A"/>
+  <rect x="10" y="7" width="1" height="1" fill="#FFB0C0"/>
+  <rect x="21" y="7" width="1" height="1" fill="#FFB0C0"/>
+  
+  <!-- 嘴 -->
+  <rect x="10" y="8" width="12" height="1" fill="#50B0D0"/>
+  <rect x="15" y="8" width="2" height="1" fill="#3090B0"/>
+  
+  <!-- 身体（拉长） -->
+  <rect x="11" y="9" width="10" height="1" fill="#40A0C0"/>
+  <rect x="11" y="10" width="10" height="1" fill="#3090B0"/>
+  <rect x="12" y="11" width="8" height="1" fill="#2080A0"/>
+  <rect x="12" y="12" width="8" height="1" fill="#107090"/>
+  <rect x="13" y="13" width="6" height="1" fill="#106080"/>
+  
+  <!-- 阴影 -->
+  <rect x="12" y="15" width="8" height="1" fill="#206080"/>
+</svg>
