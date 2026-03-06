@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="128" height="128" style="image-rendering: pixelated;">
+  <!-- Energy Walk Frame 1 - 漂浮左移 -->
+  
+  <!-- 顶部光晕 -->
+  <rect x="13" y="3" width="6" height="1" fill="#D080FF"/>
+  <rect x="12" y="4" width="8" height="1" fill="#E0A0FF"/>
+  
+  <!-- 头部 -->
+  <rect x="10" y="5" width="12" height="1" fill="#C080FF"/>
+  <rect x="9" y="6" width="14" height="2" fill="#B080F0"/>
+  <rect x="15" y="6" width="2" height="1" fill="#FFFFFF"/>
+  
+  <!-- 眼睛 -->
+  <rect x="9" y="8" width="14" height="2" fill="#C090FF"/>
+  <rect x="12" y="8" width="1" height="2" fill="#FFFFFF"/>
+  <rect x="19" y="8" width="1" height="2" fill="#FFFFFF"/>
+  
+  <!-- 嘴 -->
+  <rect x="9" y="10" width="14" height="1" fill="#D0A0FF"/>
+  <rect x="15" y="10" width="2" height="1" fill="#FF80C0"/>
+  
+  <!-- 身体 -->
+  <rect x="10" y="11" width="12" height="1" fill="#C090FF"/>
+  <rect x="11" y="12" width="10" height="1" fill="#B080F0"/>
+  <rect x="14" y="12" width="1" height="1" fill="#FFFFFF"/>
+  <rect x="17" y="12" width="1" height="1" fill="#FFFFFF"/>
+  <rect x="11" y="13" width="10" height="1" fill="#9060D0"/>
+  <rect x="12" y="14" width="8" height="1" fill="#8050C0"/>
+  <rect x="12" y="15" width="8" height="1" fill="#7040B0"/>
+  
+  <!-- 底部波纹（向左偏移） -->
+  <rect x="9" y="16" width="12" height="1" fill="#6030A0"/>
+  <rect x="8" y="17" width="14" height="1" fill="#502080"/>
+  
+  <!-- 能量散射粒子 -->
+  <rect x="6" y="10" width="1" height="1" fill="#C080FF"/>
+  <rect x="24" y="11" width="1" height="1" fill="#C080FF"/>
+  <rect x="7" y="14" width="1" height="1" fill="#A060E0"/>
+</svg>

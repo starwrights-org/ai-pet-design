@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="128" height="128" style="image-rendering: pixelated;">
+  <!-- Energy Happy Frame 1 - 开心发光 -->
+  
+  <!-- 顶部光晕（超亮） -->
+  <rect x="11" y="1" width="10" height="1" fill="#F0C0FF"/>
+  <rect x="10" y="2" width="12" height="1" fill="#FFFFFF"/>
+  <rect x="11" y="3" width="10" height="1" fill="#F0B0FF"/>
+  
+  <!-- 头部 -->
+  <rect x="9" y="4" width="14" height="1" fill="#E0A0FF"/>
+  <rect x="8" y="5" width="16" height="2" fill="#D090FF"/>
+  <rect x="15" y="5" width="2" height="1" fill="#FFFFFF"/>
+  
+  <!-- 眼睛（弯弯笑眼） -->
+  <rect x="8" y="7" width="16" height="2" fill="#E0B0FF"/>
+  <rect x="10" y="7" width="4" height="1" fill="#FFFFFF"/>
+  <rect x="18" y="7" width="4" height="1" fill="#FFFFFF"/>
+  <rect x="11" y="8" width="2" height="1" fill="#FFFFFF"/>
+  <rect x="19" y="8" width="2" height="1" fill="#FFFFFF"/>
+  
+  <!-- 嘴（大笑） -->
+  <rect x="8" y="9" width="16" height="1" fill="#F0C0FF"/>
+  <rect x="13" y="9" width="6" height="1" fill="#FFC0E0"/>
+  
+  <!-- 身体 -->
+  <rect x="9" y="10" width="14" height="1" fill="#E0B0FF"/>
+  <rect x="10" y="11" width="12" height="1" fill="#D0A0FF"/>
+  <rect x="12" y="11" width="2" height="1" fill="#FFFFFF"/>
+  <rect x="18" y="11" width="2" height="1" fill="#FFFFFF"/>
+  <rect x="10" y="12" width="12" height="1" fill="#B080F0"/>
+  <rect x="11" y="13" width="10" height="1" fill="#A070E0"/>
+  <rect x="11" y="14" width="10" height="1" fill="#9060D0"/>
+  
+  <!-- 底部波纹 -->
+  <rect x="9" y="15" width="14" height="1" fill="#8050C0"/>
+  <rect x="8" y="16" width="16" height="1" fill="#7040B0"/>
+  
+  <!-- 能量散射粒子（爆发） -->
+  <rect x="4" y="5" width="1" height="1" fill="#F0C0FF"/>
+  <rect x="27" y="5" width="1" height="1" fill="#F0C0FF"/>
+  <rect x="3" y="9" width="1" height="1" fill="#E0A0FF"/>
+  <rect x="28" y="9" width="1" height="1" fill="#E0A0FF"/>
+  <rect x="5" y="13" width="1" height="1" fill="#D080FF"/>
+  <rect x="26" y="13" width="1" height="1" fill="#D080FF"/>
+</svg>
