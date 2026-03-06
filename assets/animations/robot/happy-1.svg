@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="128" height="128" style="image-rendering: pixelated;">
+  <!-- Robot Happy Frame 1 - 开心跳跃 -->
+  
+  <!-- 天线（超亮） -->
+  <rect x="14" y="0" width="1" height="1" fill="#60D0FF"/>
+  <rect x="17" y="0" width="1" height="1" fill="#60D0FF"/>
+  <rect x="15" y="0" width="2" height="1" fill="#A0E0FF"/>
+  <rect x="15" y="1" width="2" height="2" fill="#505060"/>
+  
+  <!-- 头部（上跳） -->
+  <rect x="10" y="3" width="12" height="1" fill="#606070"/>
+  <rect x="9" y="4" width="14" height="1" fill="#909090"/>
+  <rect x="8" y="5" width="16" height="2" fill="#B0B0B0"/>
+  
+  <!-- 眼睛（弯弯笑眼） -->
+  <rect x="8" y="7" width="16" height="2" fill="#B0B0B0"/>
+  <rect x="11" y="7" width="3" height="1" fill="#60D0FF"/>
+  <rect x="18" y="7" width="3" height="1" fill="#60D0FF"/>
+  <rect x="12" y="8" width="1" height="1" fill="#60D0FF"/>
+  <rect x="19" y="8" width="1" height="1" fill="#60D0FF"/>
+  
+  <!-- 嘴巴指示灯（笑脸） -->
+  <rect x="8" y="9" width="16" height="1" fill="#A0A0A0"/>
+  <rect x="13" y="9" width="6" height="1" fill="#80E0FF"/>
+  
+  <!-- 下巴 -->
+  <rect x="9" y="10" width="14" height="1" fill="#808090"/>
+  
+  <!-- 脖子 -->
+  <rect x="11" y="11" width="10" height="1" fill="#606070"/>
+  
+  <!-- 身体 -->
+  <rect x="10" y="12" width="12" height="1" fill="#808090"/>
+  <rect x="14" y="12" width="1" height="1" fill="#80E0FF"/>
+  <rect x="17" y="12" width="1" height="1" fill="#80E0FF"/>
+  <rect x="10" y="13" width="12" height="2" fill="#909090"/>
+  <rect x="10" y="15" width="12" height="1" fill="#707080"/>
+  
+  <!-- 腿（跳跃离地） -->
+  <rect x="11" y="16" width="4" height="1" fill="#606070"/>
+  <rect x="17" y="16" width="4" height="1" fill="#606070"/>
+  
+  <!-- 脚 -->
+  <rect x="10" y="17" width="5" height="1" fill="#707080"/>
+  <rect x="17" y="17" width="5" height="1" fill="#707080"/>
+</svg>

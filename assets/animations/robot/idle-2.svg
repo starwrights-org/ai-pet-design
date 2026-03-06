@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="128" height="128" style="image-rendering: pixelated;">
+  <!-- Robot Idle Frame 2 - 天线闪烁 -->
+  
+  <!-- 天线（闪烁亮色） -->
+  <rect x="15" y="0" width="2" height="1" fill="#A0E0FF"/>
+  <rect x="15" y="1" width="2" height="1" fill="#80D0FF"/>
+  <rect x="15" y="2" width="2" height="2" fill="#505060"/>
+  
+  <!-- 头部 -->
+  <rect x="10" y="4" width="12" height="1" fill="#606070"/>
+  <rect x="9" y="5" width="14" height="1" fill="#909090"/>
+  <rect x="8" y="6" width="16" height="2" fill="#B0B0B0"/>
+  
+  <!-- 眼睛（闪烁亮色） -->
+  <rect x="8" y="8" width="16" height="2" fill="#B0B0B0"/>
+  <rect x="12" y="8" width="1" height="2" fill="#60D0FF"/>
+  <rect x="19" y="8" width="1" height="2" fill="#60D0FF"/>
+  
+  <!-- 嘴巴指示灯（闪烁亮色） -->
+  <rect x="8" y="10" width="16" height="1" fill="#A0A0A0"/>
+  <rect x="14" y="10" width="4" height="1" fill="#80E0FF"/>
+  
+  <!-- 下巴 -->
+  <rect x="9" y="11" width="14" height="1" fill="#808090"/>
+  
+  <!-- 脖子 -->
+  <rect x="11" y="12" width="10" height="1" fill="#606070"/>
+  
+  <!-- 身体 -->
+  <rect x="10" y="13" width="12" height="1" fill="#808090"/>
+  <rect x="14" y="13" width="1" height="1" fill="#80E0FF"/>
+  <rect x="17" y="13" width="1" height="1" fill="#80E0FF"/>
+  <rect x="10" y="14" width="12" height="2" fill="#909090"/>
+  <rect x="10" y="16" width="12" height="1" fill="#707080"/>
+  
+  <!-- 腿 -->
+  <rect x="11" y="17" width="4" height="2" fill="#606070"/>
+  <rect x="17" y="17" width="4" height="2" fill="#606070"/>
+  
+  <!-- 脚 -->
+  <rect x="10" y="19" width="5" height="1" fill="#707080"/>
+  <rect x="17" y="19" width="5" height="1" fill="#707080"/>
+</svg>
