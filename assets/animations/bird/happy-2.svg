@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="128" height="128" style="image-rendering: pixelated;">
+  <!-- Bird Happy Frame 2 - 开心跳跃 -->
+  
+  <!-- 头顶羽毛 -->
+  <rect x="15" y="0" width="2" height="1" fill="#FFD040"/>
+  <rect x="14" y="1" width="4" height="1" fill="#FFE060"/>
+  
+  <!-- 头部（上跳） -->
+  <rect x="12" y="2" width="8" height="1" fill="#FFD040"/>
+  <rect x="11" y="3" width="10" height="1" fill="#FFE060"/>
+  <rect x="15" y="3" width="2" height="1" fill="#FFFFFF"/>
+  <rect x="10" y="4" width="12" height="1" fill="#FFE060"/>
+  <rect x="14" y="4" width="4" height="1" fill="#FFFFFF"/>
+  
+  <!-- 眼睛 -->
+  <rect x="10" y="5" width="12" height="1" fill="#FFE060"/>
+  <rect x="12" y="5" width="3" height="1" fill="#2A2A2A"/>
+  <rect x="17" y="5" width="3" height="1" fill="#2A2A2A"/>
+  <rect x="13" y="6" width="1" height="1" fill="#2A2A2A"/>
+  <rect x="18" y="6" width="1" height="1" fill="#2A2A2A"/>
+  
+  <!-- 腮红 -->
+  <rect x="10" y="6" width="12" height="1" fill="#FFE060"/>
+  <rect x="11" y="6" width="1" height="1" fill="#FFB0C0"/>
+  <rect x="20" y="6" width="1" height="1" fill="#FFB0C0"/>
+  
+  <!-- 嘴喙 -->
+  <rect x="11" y="7" width="10" height="1" fill="#FFE060"/>
+  <rect x="14" y="7" width="4" height="1" fill="#FF8030"/>
+  <rect x="12" y="8" width="8" height="1" fill="#FFE060"/>
+  <rect x="15" y="8" width="2" height="1" fill="#E06020"/>
+  
+  <!-- 身体 -->
+  <rect x="12" y="9" width="8" height="1" fill="#FFE060"/>
+  <rect x="14" y="9" width="4" height="1" fill="#FFFFFF"/>
+  <rect x="12" y="10" width="8" height="1" fill="#FFE060"/>
+  <rect x="15" y="10" width="2" height="1" fill="#FFFFFF"/>
+  <rect x="13" y="11" width="6" height="1" fill="#FFE060"/>
+  <rect x="14" y="12" width="4" height="1" fill="#FFD040"/>
+  
+  <!-- 翅膀（大展开） -->
+  <rect x="2" y="6" width="1" height="1" fill="#E0B030"/>
+  <rect x="3" y="6" width="2" height="1" fill="#FFD040"/>
+  <rect x="5" y="6" width="4" height="1" fill="#FFE060"/>
+  <rect x="2" y="7" width="2" height="1" fill="#FFD040"/>
+  <rect x="4" y="7" width="5" height="1" fill="#FFE060"/>
+  <rect x="3" y="8" width="7" height="1" fill="#FFE060"/>
+  
+  <rect x="23" y="6" width="4" height="1" fill="#FFE060"/>
+  <rect x="27" y="6" width="2" height="1" fill="#FFD040"/>
+  <rect x="29" y="6" width="1" height="1" fill="#E0B030"/>
+  <rect x="23" y="7" width="5" height="1" fill="#FFE060"/>
+  <rect x="28" y="7" width="2" height="1" fill="#FFD040"/>
+  <rect x="22" y="8" width="7" height="1" fill="#FFE060"/>
+  
+  <!-- 尾羽 -->
+  <rect x="14" y="13" width="4" height="1" fill="#E0B030"/>
+  <rect x="13" y="14" width="6" height="1" fill="#FFD040"/>
+  
+  <!-- 脚（离地） -->
+  <rect x="14" y="15" width="2" height="1" fill="#FF8030"/>
+  <rect x="16" y="15" width="2" height="1" fill="#FF8030"/>
+  <rect x="14" y="16" width="2" height="1" fill="#E06020"/>
+  <rect x="16" y="16" width="2" height="1" fill="#E06020"/>
+</svg>
