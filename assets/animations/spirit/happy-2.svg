@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="128" height="128" style="image-rendering: pixelated;">
+  <!-- Spirit Happy Frame 2 - 极度开心 -->
+  
+  <!-- 头顶星星（最亮+旋转） -->
+  <rect x="15" y="0" width="2" height="1" fill="#FFFFFF"/>
+  <rect x="13" y="1" width="2" height="1" fill="#FFFFFF"/>
+  <rect x="17" y="1" width="2" height="1" fill="#FFFFFF"/>
+  <rect x="12" y="2" width="8" height="1" fill="#FFFFFF"/>
+  <rect x="14" y="3" width="4" height="1" fill="#FFF080"/>
+  
+  <!-- 头部 -->
+  <rect x="9" y="4" width="14" height="1" fill="#E0F0FF"/>
+  <rect x="7" y="5" width="18" height="1" fill="#D0E0FF"/>
+  <rect x="13" y="5" width="6" height="1" fill="#FFFFFF"/>
+  <rect x="6" y="6" width="20" height="1" fill="#C0D0FF"/>
+  
+  <!-- 眼睛 -->
+  <rect x="6" y="7" width="20" height="2" fill="#B0C0FF"/>
+  <rect x="9" y="7" width="5" height="1" fill="#FFFFFF"/>
+  <rect x="18" y="7" width="5" height="1" fill="#FFFFFF"/>
+  <rect x="10" y="8" width="3" height="1" fill="#FFFFFF"/>
+  <rect x="19" y="8" width="3" height="1" fill="#FFFFFF"/>
+  <rect x="7" y="8" width="1" height="1" fill="#FFB0C0"/>
+  <rect x="24" y="8" width="1" height="1" fill="#FFB0C0"/>
+  
+  <!-- 嘴 -->
+  <rect x="6" y="9" width="20" height="1" fill="#A0B0F0"/>
+  <rect x="12" y="9" width="8" height="1" fill="#FFD0E0"/>
+  
+  <!-- 翅膀（最大展开） -->
+  <rect x="1" y="5" width="4" height="1" fill="#FFFFFF"/>
+  <rect x="0" y="6" width="5" height="1" fill="#FFFFFF"/>
+  <rect x="1" y="7" width="4" height="1" fill="#FFFFFF"/>
+  <rect x="2" y="8" width="3" height="1" fill="#E0F0FF"/>
+  
+  <rect x="27" y="5" width="4" height="1" fill="#FFFFFF"/>
+  <rect x="27" y="6" width="5" height="1" fill="#FFFFFF"/>
+  <rect x="27" y="7" width="4" height="1" fill="#FFFFFF"/>
+  <rect x="27" y="8" width="3" height="1" fill="#E0F0FF"/>
+  
+  <!-- 身体 -->
+  <rect x="7" y="10" width="18" height="1" fill="#90A0E0"/>
+  <rect x="9" y="11" width="14" height="1" fill="#8090D0"/>
+  <rect x="10" y="12" width="12" height="1" fill="#7080C0"/>
+  <rect x="11" y="13" width="10" height="1" fill="#6070B0"/>
+  
+  <!-- 魔法光点（大爆发） -->
+  <rect x="3" y="2" width="1" height="1" fill="#FFFFFF"/>
+  <rect x="28" y="2" width="1" height="1" fill="#FFFFFF"/>
+  <rect x="1" y="9" width="1" height="1" fill="#FFFFFF"/>
+  <rect x="30" y="9" width="1" height="1" fill="#FFFFFF"/>
+  <rect x="5" y="14" width="1" height="1" fill="#FFE080"/>
+  <rect x="26" y="14" width="1" height="1" fill="#FFE080"/>
+  <rect x="8" y="16" width="1" height="1" fill="#FFD060"/>
+  <rect x="23" y="16" width="1" height="1" fill="#FFD060"/>
+</svg>

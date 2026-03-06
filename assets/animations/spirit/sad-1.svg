@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="128" height="128" style="image-rendering: pixelated;">
+  <!-- Spirit Sad Frame 1 - 难过暗淡 -->
+  
+  <!-- 头顶星星（暗淡） -->
+  <rect x="15" y="4" width="2" height="1" fill="#C0A030"/>
+  <rect x="14" y="5" width="4" height="1" fill="#D0B040"/>
+  <rect x="15" y="6" width="2" height="1" fill="#C0A030"/>
+  
+  <!-- 头部 -->
+  <rect x="11" y="7" width="10" height="1" fill="#9090C0"/>
+  <rect x="9" y="8" width="14" height="1" fill="#8080B0"/>
+  <rect x="8" y="9" width="16" height="1" fill="#7070A0"/>
+  
+  <!-- 眼睛（悲伤下垂） -->
+  <rect x="8" y="10" width="16" height="2" fill="#6060A0"/>
+  <rect x="11" y="10" width="1" height="1" fill="#C0A030"/>
+  <rect x="12" y="11" width="1" height="1" fill="#C0A030"/>
+  <rect x="20" y="10" width="1" height="1" fill="#C0A030"/>
+  <rect x="19" y="11" width="1" height="1" fill="#C0A030"/>
+  
+  <!-- 眼泪（星光） -->
+  <rect x="10" y="12" width="1" height="1" fill="#A0B0F0"/>
+  <rect x="21" y="12" width="1" height="1" fill="#A0B0F0"/>
+  
+  <!-- 嘴（下弯） -->
+  <rect x="8" y="12" width="16" height="1" fill="#5060A0"/>
+  <rect x="14" y="12" width="1" height="1" fill="#405090"/>
+  <rect x="17" y="12" width="1" height="1" fill="#405090"/>
+  <rect x="15" y="13" width="2" height="1" fill="#405090"/>
+  
+  <!-- 翅膀（下垂） -->
+  <rect x="5" y="11" width="2" height="1" fill="#8090C0"/>
+  <rect x="5" y="12" width="2" height="1" fill="#7080B0"/>
+  <rect x="6" y="13" width="1" height="1" fill="#6070A0"/>
+  
+  <rect x="25" y="11" width="2" height="1" fill="#8090C0"/>
+  <rect x="25" y="12" width="2" height="1" fill="#7080B0"/>
+  <rect x="25" y="13" width="1" height="1" fill="#6070A0"/>
+  
+  <!-- 身体 -->
+  <rect x="9" y="13" width="14" height="1" fill="#5060A0"/>
+  <rect x="11" y="14" width="10" height="1" fill="#405090"/>
+  <rect x="12" y="15" width="8" height="1" fill="#304080"/>
+  <rect x="13" y="16" width="6" height="1" fill="#203070"/>
+  
+  <!-- 魔法光点（几乎没有） -->
+  <rect x="6" y="8" width="1" height="1" fill="#B0A050"/>
+</svg>

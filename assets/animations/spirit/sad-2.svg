@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="128" height="128" style="image-rendering: pixelated;">
+  <!-- Spirit Sad Frame 2 - 更暗淡 -->
+  
+  <!-- 头顶星星（几乎熄灭） -->
+  <rect x="15" y="5" width="2" height="1" fill="#908020"/>
+  <rect x="14" y="6" width="4" height="1" fill="#A09030"/>
+  <rect x="15" y="7" width="2" height="1" fill="#908020"/>
+  
+  <!-- 头部 -->
+  <rect x="12" y="8" width="8" height="1" fill="#7070A0"/>
+  <rect x="10" y="9" width="12" height="1" fill="#6060A0"/>
+  <rect x="9" y="10" width="14" height="1" fill="#5050A0"/>
+  
+  <!-- 眼睛（更悲伤） -->
+  <rect x="9" y="11" width="14" height="2" fill="#404090"/>
+  <rect x="11" y="11" width="1" height="1" fill="#908020"/>
+  <rect x="12" y="12" width="1" height="1" fill="#908020"/>
+  <rect x="20" y="11" width="1" height="1" fill="#908020"/>
+  <rect x="19" y="12" width="1" height="1" fill="#908020"/>
+  
+  <!-- 眼泪（更多） -->
+  <rect x="10" y="13" width="1" height="1" fill="#8090C0"/>
+  <rect x="10" y="14" width="1" height="1" fill="#7080B0"/>
+  <rect x="21" y="13" width="1" height="1" fill="#8090C0"/>
+  <rect x="21" y="14" width="1" height="1" fill="#7080B0"/>
+  
+  <!-- 嘴 -->
+  <rect x="9" y="13" width="14" height="1" fill="#304080"/>
+  <rect x="13" y="13" width="1" height="1" fill="#203070"/>
+  <rect x="18" y="13" width="1" height="1" fill="#203070"/>
+  <rect x="14" y="14" width="4" height="1" fill="#203070"/>
+  
+  <!-- 翅膀（完全下垂） -->
+  <rect x="6" y="13" width="2" height="1" fill="#5060A0"/>
+  <rect x="7" y="14" width="1" height="1" fill="#405090"/>
+  
+  <rect x="24" y="13" width="2" height="1" fill="#5060A0"/>
+  <rect x="24" y="14" width="1" height="1" fill="#405090"/>
+  
+  <!-- 身体 -->
+  <rect x="10" y="14" width="12" height="1" fill="#304080"/>
+  <rect x="12" y="15" width="8" height="1" fill="#203070"/>
+  <rect x="13" y="16" width="6" height="1" fill="#102060"/>
+  <rect x="14" y="17" width="4" height="1" fill="#001050"/>
+</svg>
