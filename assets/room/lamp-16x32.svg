@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 32" width="64" height="128" style="image-rendering: pixelated;">
+  <!-- 台灯/落地灯 - 暖光 16x32px -->
+  
+  <!-- 灯罩光晕（暖黄） -->
+  <rect x="2" y="2" width="12" height="10" fill="#FFFAE0" fill-opacity="0.4"/>
+  <rect x="0" y="4" width="16" height="6" fill="#FFFAE0" fill-opacity="0.3"/>
+  
+  <!-- 灯罩（米色布艺） -->
+  <rect x="2" y="4" width="12" height="8" fill="#F0E8D8"/>
+  <rect x="4" y="2" width="8" height="10" fill="#F0E8D8"/>
+  <rect x="3" y="3" width="10" height="9" fill="#E8E0D0"/>
+  
+  <!-- 灯罩顶部 -->
+  <rect x="5" y="2" width="6" height="1" fill="#D8D0C0"/>
+  
+  <!-- 灯罩底边 -->
+  <rect x="3" y="11" width="10" height="1" fill="#C8C0B0"/>
+  
+  <!-- 灯罩纹理 -->
+  <rect x="5" y="5" width="1" height="5" fill="#E0D8C8"/>
+  <rect x="7" y="5" width="1" height="5" fill="#E0D8C8"/>
+  <rect x="9" y="5" width="1" height="5" fill="#E0D8C8"/>
+  
+  <!-- 灯光效果 -->
+  <rect x="5" y="6" width="6" height="3" fill="#FFFFC0"/>
+  <rect x="6" y="5" width="4" height="5" fill="#FFFFD0"/>
+  
+  <!-- 灯杆 -->
+  <rect x="7" y="12" width="2" height="14" fill="#A08060"/>
+  <rect x="6" y="14" width="4" height="2" fill="#B09070"/>
+  
+  <!-- 灯座 -->
+  <rect x="4" y="26" width="8" height="4" fill="#806040"/>
+  <rect x="3" y="28" width="10" height="2" fill="#705030"/>
+  <rect x="2" y="30" width="12" height="2" fill="#604020"/>
+  
+  <!-- 灯座高光 -->
+  <rect x="5" y="26" width="6" height="1" fill="#907050"/>
+</svg>

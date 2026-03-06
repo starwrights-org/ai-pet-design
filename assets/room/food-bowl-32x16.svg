@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 16" width="128" height="64" style="image-rendering: pixelated;">
+  <!-- 食碗 - 带食物 32x16px -->
+  
+  <!-- 碗底阴影 -->
+  <rect x="4" y="14" width="24" height="2" fill="#2A2020"/>
+  
+  <!-- 碗身（粉色陶瓷） -->
+  <rect x="4" y="8" width="24" height="6" fill="#E090A0"/>
+  <rect x="2" y="10" width="28" height="4" fill="#E090A0"/>
+  <rect x="6" y="6" width="20" height="8" fill="#E090A0"/>
+  
+  <!-- 碗内部（深色） -->
+  <rect x="8" y="6" width="16" height="4" fill="#A06070"/>
+  <rect x="6" y="8" width="20" height="2" fill="#A06070"/>
+  
+  <!-- 食物（宠物粮） -->
+  <rect x="10" y="4" width="4" height="4" fill="#8B6914"/>
+  <rect x="14" y="5" width="4" height="3" fill="#9B7924"/>
+  <rect x="18" y="4" width="3" height="4" fill="#8B6914"/>
+  <rect x="12" y="3" width="3" height="3" fill="#AB8934"/>
+  <rect x="16" y="3" width="3" height="3" fill="#9B7924"/>
+  
+  <!-- 碗边高光 -->
+  <rect x="6" y="6" width="20" height="1" fill="#F0A0B0"/>
+  <rect x="8" y="5" width="16" height="1" fill="#F8B0C0"/>
+  
+  <!-- 碗身装饰（爱心） -->
+  <rect x="14" y="10" width="2" height="2" fill="#FFFFFF"/>
+  <rect x="16" y="10" width="2" height="2" fill="#FFFFFF"/>
+  <rect x="13" y="11" width="2" height="1" fill="#FFFFFF"/>
+  <rect x="17" y="11" width="2" height="1" fill="#FFFFFF"/>
+  <rect x="15" y="12" width="2" height="1" fill="#FFFFFF"/>
+</svg>
