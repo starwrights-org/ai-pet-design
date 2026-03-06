@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="128" height="128" style="image-rendering: pixelated;">
+  <!-- Dog Happy Frame 2 - 更开心弹跳 -->
+  
+  <!-- 左耳（竖起来） -->
+  <rect x="6" y="1" width="1" height="1" fill="#D4915A"/>
+  <rect x="5" y="2" width="2" height="1" fill="#C4814A"/>
+  <rect x="5" y="3" width="2" height="1" fill="#C4814A"/>
+  <rect x="5" y="4" width="2" height="1" fill="#C4814A"/>
+  
+  <!-- 右耳（竖起来） -->
+  <rect x="25" y="1" width="1" height="1" fill="#D4915A"/>
+  <rect x="25" y="2" width="2" height="1" fill="#C4814A"/>
+  <rect x="25" y="3" width="2" height="1" fill="#C4814A"/>
+  <rect x="25" y="4" width="2" height="1" fill="#C4814A"/>
+  
+  <!-- 头顶 -->
+  <rect x="10" y="2" width="12" height="1" fill="#D4915A"/>
+  <rect x="15" y="2" width="2" height="1" fill="#FFFFFF"/>
+  
+  <!-- 头部 -->
+  <rect x="8" y="3" width="16" height="1" fill="#D4915A"/>
+  <rect x="14" y="3" width="4" height="1" fill="#FFFFFF"/>
+  <rect x="7" y="4" width="18" height="1" fill="#D4915A"/>
+  <rect x="13" y="4" width="6" height="1" fill="#FFFFFF"/>
+  <rect x="7" y="5" width="18" height="1" fill="#D4915A"/>
+  <rect x="13" y="5" width="6" height="1" fill="#FFFFFF"/>
+  
+  <!-- 眼睛（弯弯笑眼） -->
+  <rect x="7" y="6" width="18" height="1" fill="#D4915A"/>
+  <rect x="13" y="6" width="6" height="1" fill="#FFFFFF"/>
+  <rect x="10" y="6" width="3" height="1" fill="#2A2A2A"/>
+  <rect x="19" y="6" width="3" height="1" fill="#2A2A2A"/>
+  <rect x="11" y="7" width="1" height="1" fill="#2A2A2A"/>
+  <rect x="20" y="7" width="1" height="1" fill="#2A2A2A"/>
+  
+  <!-- 腮红 -->
+  <rect x="7" y="7" width="18" height="1" fill="#D4915A"/>
+  <rect x="13" y="7" width="6" height="1" fill="#FFFFFF"/>
+  <rect x="8" y="7" width="1" height="1" fill="#FFB0C0"/>
+  <rect x="23" y="7" width="1" height="1" fill="#FFB0C0"/>
+  
+  <!-- 鼻子 -->
+  <rect x="7" y="8" width="18" height="1" fill="#D4915A"/>
+  <rect x="10" y="8" width="12" height="1" fill="#FFFFFF"/>
+  <rect x="15" y="8" width="2" height="1" fill="#2A2A2A"/>
+  
+  <!-- 嘴+大舌头 -->
+  <rect x="8" y="9" width="16" height="1" fill="#D4915A"/>
+  <rect x="10" y="9" width="12" height="1" fill="#FFFFFF"/>
+  <rect x="14" y="9" width="4" height="1" fill="#FF8090"/>
+  <rect x="15" y="10" width="2" height="1" fill="#FF6080"/>
+  
+  <!-- 项圈 -->
+  <rect x="11" y="10" width="10" height="1" fill="#4080FF"/>
+  <rect x="15" y="10" width="2" height="1" fill="#FFD700"/>
+  
+  <!-- 身体 -->
+  <rect x="11" y="11" width="10" height="1" fill="#D4915A"/>
+  <rect x="13" y="11" width="6" height="1" fill="#FFFFFF"/>
+  <rect x="11" y="12" width="10" height="1" fill="#D4915A"/>
+  <rect x="14" y="12" width="4" height="1" fill="#FFFFFF"/>
+  <rect x="11" y="13" width="10" height="1" fill="#D4915A"/>
+  
+  <!-- 腿 -->
+  <rect x="11" y="14" width="2" height="1" fill="#D4915A"/>
+  <rect x="19" y="14" width="2" height="1" fill="#D4915A"/>
+  <rect x="11" y="15" width="2" height="1" fill="#D4915A"/>
+  <rect x="19" y="15" width="2" height="1" fill="#D4915A"/>
+  
+  <!-- 脚 -->
+  <rect x="11" y="16" width="2" height="1" fill="#FFFFFF"/>
+  <rect x="19" y="16" width="2" height="1" fill="#FFFFFF"/>
+  
+  <!-- 尾巴（疯狂摇摆） -->
+  <rect x="22" y="11" width="1" height="1" fill="#D4915A"/>
+  <rect x="23" y="10" width="1" height="1" fill="#E4A16A"/>
+  <rect x="24" y="9" width="1" height="1" fill="#D4915A"/>
+  <rect x="25" y="8" width="1" height="1" fill="#FFFFFF"/>
+  <rect x="26" y="8" width="1" height="1" fill="#FFFFFF"/>
+</svg>

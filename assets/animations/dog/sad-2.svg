@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="128" height="128" style="image-rendering: pixelated;">
+  <!-- Dog Sad Frame 2 - 更加悲伤 -->
+  
+  <!-- 左耳（下垂更多） -->
+  <rect x="5" y="6" width="1" height="1" fill="#D4915A"/>
+  <rect x="4" y="7" width="2" height="1" fill="#C4814A"/>
+  <rect x="4" y="8" width="2" height="1" fill="#C4814A"/>
+  <rect x="4" y="9" width="2" height="1" fill="#C4814A"/>
+  <rect x="4" y="10" width="2" height="1" fill="#C4814A"/>
+  
+  <!-- 右耳（下垂更多） -->
+  <rect x="26" y="6" width="1" height="1" fill="#D4915A"/>
+  <rect x="26" y="7" width="2" height="1" fill="#C4814A"/>
+  <rect x="26" y="8" width="2" height="1" fill="#C4814A"/>
+  <rect x="26" y="9" width="2" height="1" fill="#C4814A"/>
+  <rect x="26" y="10" width="2" height="1" fill="#C4814A"/>
+  
+  <!-- 头顶（下沉） -->
+  <rect x="10" y="6" width="12" height="1" fill="#D4915A"/>
+  <rect x="15" y="6" width="2" height="1" fill="#FFFFFF"/>
+  
+  <!-- 头部 -->
+  <rect x="8" y="7" width="16" height="1" fill="#D4915A"/>
+  <rect x="14" y="7" width="4" height="1" fill="#FFFFFF"/>
+  <rect x="7" y="8" width="18" height="1" fill="#D4915A"/>
+  <rect x="13" y="8" width="6" height="1" fill="#FFFFFF"/>
+  <rect x="7" y="9" width="18" height="1" fill="#D4915A"/>
+  <rect x="13" y="9" width="6" height="1" fill="#FFFFFF"/>
+  
+  <!-- 眼睛（更悲伤） -->
+  <rect x="7" y="10" width="18" height="1" fill="#D4915A"/>
+  <rect x="13" y="10" width="6" height="1" fill="#FFFFFF"/>
+  <rect x="11" y="10" width="1" height="1" fill="#2A2A2A"/>
+  <rect x="20" y="10" width="1" height="1" fill="#2A2A2A"/>
+  <rect x="10" y="11" width="1" height="1" fill="#2A2A2A"/>
+  <rect x="21" y="11" width="1" height="1" fill="#2A2A2A"/>
+  
+  <!-- 眼泪（更多） -->
+  <rect x="9" y="11" width="1" height="1" fill="#87CEEB"/>
+  <rect x="9" y="12" width="1" height="1" fill="#87CEEB"/>
+  <rect x="22" y="11" width="1" height="1" fill="#87CEEB"/>
+  <rect x="22" y="12" width="1" height="1" fill="#87CEEB"/>
+  
+  <rect x="7" y="11" width="18" height="1" fill="#D4915A"/>
+  <rect x="13" y="11" width="6" height="1" fill="#FFFFFF"/>
+  
+  <!-- 鼻子 -->
+  <rect x="7" y="12" width="18" height="1" fill="#D4915A"/>
+  <rect x="10" y="12" width="12" height="1" fill="#FFFFFF"/>
+  <rect x="15" y="12" width="2" height="1" fill="#2A2A2A"/>
+  
+  <!-- 嘴（下弯） -->
+  <rect x="8" y="13" width="16" height="1" fill="#D4915A"/>
+  <rect x="10" y="13" width="12" height="1" fill="#FFFFFF"/>
+  <rect x="14" y="13" width="1" height="1" fill="#2A2A2A"/>
+  <rect x="17" y="13" width="1" height="1" fill="#2A2A2A"/>
+  <rect x="15" y="14" width="2" height="1" fill="#2A2A2A"/>
+  
+  <!-- 项圈 -->
+  <rect x="11" y="14" width="10" height="1" fill="#4080FF"/>
+  <rect x="15" y="14" width="2" height="1" fill="#FFD700"/>
+  
+  <!-- 身体 -->
+  <rect x="11" y="15" width="10" height="1" fill="#D4915A"/>
+  <rect x="13" y="15" width="6" height="1" fill="#FFFFFF"/>
+  <rect x="11" y="16" width="10" height="1" fill="#D4915A"/>
+  <rect x="14" y="16" width="4" height="1" fill="#FFFFFF"/>
+  <rect x="11" y="17" width="10" height="1" fill="#D4915A"/>
+  
+  <!-- 腿 -->
+  <rect x="11" y="18" width="2" height="1" fill="#D4915A"/>
+  <rect x="19" y="18" width="2" height="1" fill="#D4915A"/>
+  
+  <!-- 脚 -->
+  <rect x="11" y="19" width="2" height="1" fill="#FFFFFF"/>
+  <rect x="19" y="19" width="2" height="1" fill="#FFFFFF"/>
+  
+  <!-- 尾巴（下垂更多） -->
+  <rect x="22" y="16" width="1" height="1" fill="#D4915A"/>
+  <rect x="23" y="17" width="1" height="1" fill="#E4A16A"/>
+  <rect x="24" y="18" width="1" height="1" fill="#D4915A"/>
+  <rect x="25" y="19" width="1" height="1" fill="#FFFFFF"/>
+</svg>
