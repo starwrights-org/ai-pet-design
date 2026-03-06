@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="128" height="128" style="image-rendering: pixelated;">
+  <!-- Cat Run Frame 3 - 右脚前伸 -->
+  
+  <!-- 左耳 -->
+  <rect x="7" y="2" width="1" height="1" fill="#E08040"/>
+  <rect x="6" y="3" width="1" height="1" fill="#D07030"/>
+  <rect x="7" y="3" width="1" height="1" fill="#F09050"/>
+  <rect x="8" y="3" width="1" height="1" fill="#E08040"/>
+  <rect x="6" y="4" width="1" height="1" fill="#D07030"/>
+  <rect x="7" y="4" width="1" height="1" fill="#FFCC99"/>
+  <rect x="8" y="4" width="1" height="1" fill="#F09050"/>
+  
+  <!-- 右耳 -->
+  <rect x="24" y="2" width="1" height="1" fill="#E08040"/>
+  <rect x="23" y="3" width="1" height="1" fill="#E08040"/>
+  <rect x="24" y="3" width="1" height="1" fill="#F09050"/>
+  <rect x="25" y="3" width="1" height="1" fill="#D07030"/>
+  <rect x="23" y="4" width="1" height="1" fill="#F09050"/>
+  <rect x="24" y="4" width="1" height="1" fill="#FFCC99"/>
+  <rect x="25" y="4" width="1" height="1" fill="#D07030"/>
+  
+  <!-- 头顶 -->
+  <rect x="10" y="3" width="12" height="1" fill="#E08040"/>
+  
+  <!-- 头部 -->
+  <rect x="9" y="4" width="14" height="1" fill="#F09050"/>
+  <rect x="8" y="5" width="16" height="1" fill="#F09050"/>
+  <rect x="8" y="6" width="16" height="1" fill="#F09050"/>
+  
+  <!-- 眼睛 -->
+  <rect x="11" y="6" width="1" height="1" fill="#2A2A2A"/>
+  <rect x="20" y="6" width="1" height="1" fill="#2A2A2A"/>
+  <rect x="11" y="7" width="1" height="1" fill="#2A2A2A"/>
+  <rect x="20" y="7" width="1" height="1" fill="#2A2A2A"/>
+  
+  <!-- 腮红 -->
+  <rect x="9" y="7" width="1" height="1" fill="#FFB0C0"/>
+  <rect x="22" y="7" width="1" height="1" fill="#FFB0C0"/>
+  
+  <rect x="8" y="7" width="16" height="1" fill="#F09050"/>
+  <rect x="9" y="8" width="14" height="1" fill="#F09050"/>
+  
+  <!-- 鼻子 -->
+  <rect x="15" y="8" width="2" height="1" fill="#2A2A2A"/>
+  
+  <rect x="10" y="9" width="12" height="1" fill="#F09050"/>
+  
+  <!-- 项圈 -->
+  <rect x="11" y="10" width="10" height="1" fill="#FFD700"/>
+  <rect x="15" y="10" width="2" height="1" fill="#FF3030"/>
+  
+  <!-- 身体 -->
+  <rect x="10" y="11" width="12" height="1" fill="#F09050"/>
+  <rect x="11" y="12" width="10" height="1" fill="#E08040"/>
+  <rect x="12" y="13" width="8" height="1" fill="#D07030"/>
+  
+  <!-- 腿 - 右脚前伸，左脚后蹬 -->
+  <rect x="22" y="14" width="1" height="1" fill="#D07030"/>
+  <rect x="23" y="14" width="1" height="1" fill="#E08040"/>
+  <rect x="24" y="14" width="1" height="1" fill="#F09050"/>
+  <rect x="10" y="14" width="1" height="1" fill="#D07030"/>
+  <rect x="11" y="14" width="1" height="1" fill="#E08040"/>
+  
+  <!-- 前腿 -->
+  <rect x="24" y="15" width="1" height="1" fill="#F09050"/>
+  <rect x="25" y="15" width="1" height="1" fill="#E08040"/>
+  <rect x="26" y="15" width="1" height="1" fill="#D07030"/>
+  <!-- 后腿 -->
+  <rect x="5" y="15" width="1" height="1" fill="#D07030"/>
+  <rect x="6" y="15" width="1" height="1" fill="#E08040"/>
+  <rect x="7" y="15" width="1" height="1" fill="#F09050"/>
+  
+  <!-- 脚 -->
+  <rect x="26" y="16" width="1" height="1" fill="#FFFFFF"/>
+  <rect x="27" y="16" width="1" height="1" fill="#FFFFFF"/>
+  <rect x="4" y="16" width="1" height="1" fill="#FFFFFF"/>
+  <rect x="5" y="16" width="1" height="1" fill="#FFFFFF"/>
+  
+  <!-- 尾巴 -->
+  <rect x="8" y="12" width="1" height="1" fill="#E08040"/>
+  <rect x="7" y="11" width="1" height="1" fill="#F09050"/>
+  <rect x="6" y="11" width="1" height="1" fill="#E08040"/>
+  <rect x="5" y="12" width="1" height="1" fill="#F09050"/>
+  <rect x="4" y="12" width="1" height="1" fill="#D07030"/>
+</svg>

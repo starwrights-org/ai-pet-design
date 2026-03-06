@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="128" height="128" style="image-rendering: pixelated;">
+  <!-- Cat Jump Frame 3 - 上升阶段 -->
+  
+  <!-- 耳朵 -->
+  <rect x="7" y="1" width="1" height="1" fill="#E08040"/>
+  <rect x="6" y="2" width="1" height="1" fill="#D07030"/>
+  <rect x="7" y="2" width="1" height="1" fill="#F09050"/>
+  <rect x="8" y="2" width="1" height="1" fill="#E08040"/>
+  <rect x="24" y="1" width="1" height="1" fill="#E08040"/>
+  <rect x="23" y="2" width="1" height="1" fill="#E08040"/>
+  <rect x="24" y="2" width="1" height="1" fill="#F09050"/>
+  <rect x="25" y="2" width="1" height="1" fill="#D07030"/>
+  
+  <!-- 头部（最高点附近） -->
+  <rect x="10" y="2" width="12" height="1" fill="#E08040"/>
+  <rect x="9" y="3" width="14" height="1" fill="#F09050"/>
+  <rect x="8" y="4" width="16" height="1" fill="#F09050"/>
+  
+  <!-- 眼睛 -->
+  <rect x="11" y="4" width="1" height="1" fill="#2A2A2A"/>
+  <rect x="20" y="4" width="1" height="1" fill="#2A2A2A"/>
+  <rect x="11" y="5" width="1" height="1" fill="#2A2A2A"/>
+  <rect x="20" y="5" width="1" height="1" fill="#2A2A2A"/>
+  
+  <rect x="8" y="5" width="16" height="1" fill="#F09050"/>
+  <rect x="9" y="6" width="14" height="1" fill="#F09050"/>
+  
+  <!-- 鼻子 -->
+  <rect x="15" y="6" width="2" height="1" fill="#2A2A2A"/>
+  
+  <rect x="10" y="7" width="12" height="1" fill="#F09050"/>
+  
+  <!-- 项圈 -->
+  <rect x="11" y="8" width="10" height="1" fill="#FFD700"/>
+  <rect x="15" y="8" width="2" height="1" fill="#FF3030"/>
+  
+  <!-- 身体 -->
+  <rect x="10" y="9" width="12" height="1" fill="#F09050"/>
+  <rect x="11" y="10" width="10" height="1" fill="#E08040"/>
+  
+  <!-- 腿（收缩，空中姿态） -->
+  <rect x="10" y="11" width="3" height="1" fill="#F09050"/>
+  <rect x="19" y="11" width="3" height="1" fill="#F09050"/>
+  <rect x="9" y="12" width="3" height="1" fill="#E08040"/>
+  <rect x="20" y="12" width="3" height="1" fill="#E08040"/>
+  
+  <!-- 脚 -->
+  <rect x="8" y="13" width="3" height="1" fill="#FFFFFF"/>
+  <rect x="21" y="13" width="3" height="1" fill="#FFFFFF"/>
+  
+  <!-- 尾巴（向上翘起） -->
+  <rect x="23" y="8" width="1" height="1" fill="#E08040"/>
+  <rect x="24" y="7" width="1" height="1" fill="#F09050"/>
+  <rect x="25" y="6" width="1" height="1" fill="#E08040"/>
+  <rect x="26" y="5" width="1" height="1" fill="#F09050"/>
+  <rect x="27" y="4" width="1" height="1" fill="#D07030"/>
+</svg>

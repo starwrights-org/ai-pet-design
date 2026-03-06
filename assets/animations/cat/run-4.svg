@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="128" height="128" style="image-rendering: pixelated;">
+  <!-- Cat Run Frame 4 - 腾空阶段2 -->
+  
+  <!-- 耳朵 -->
+  <rect x="7" y="1" width="1" height="1" fill="#E08040"/>
+  <rect x="6" y="2" width="1" height="1" fill="#D07030"/>
+  <rect x="7" y="2" width="1" height="1" fill="#F09050"/>
+  <rect x="8" y="2" width="1" height="1" fill="#E08040"/>
+  <rect x="24" y="1" width="1" height="1" fill="#E08040"/>
+  <rect x="23" y="2" width="1" height="1" fill="#E08040"/>
+  <rect x="24" y="2" width="1" height="1" fill="#F09050"/>
+  <rect x="25" y="2" width="1" height="1" fill="#D07030"/>
+  
+  <!-- 头部 -->
+  <rect x="10" y="2" width="12" height="1" fill="#E08040"/>
+  <rect x="9" y="3" width="14" height="1" fill="#F09050"/>
+  <rect x="8" y="4" width="16" height="1" fill="#F09050"/>
+  <rect x="8" y="5" width="16" height="1" fill="#F09050"/>
+  
+  <!-- 眼睛 -->
+  <rect x="11" y="5" width="1" height="1" fill="#2A2A2A"/>
+  <rect x="20" y="5" width="1" height="1" fill="#2A2A2A"/>
+  <rect x="11" y="6" width="1" height="1" fill="#2A2A2A"/>
+  <rect x="20" y="6" width="1" height="1" fill="#2A2A2A"/>
+  
+  <!-- 腮红 -->
+  <rect x="9" y="6" width="1" height="1" fill="#FFB0C0"/>
+  <rect x="22" y="6" width="1" height="1" fill="#FFB0C0"/>
+  
+  <rect x="8" y="6" width="16" height="1" fill="#F09050"/>
+  <rect x="9" y="7" width="14" height="1" fill="#F09050"/>
+  
+  <!-- 鼻子 -->
+  <rect x="15" y="7" width="2" height="1" fill="#2A2A2A"/>
+  
+  <rect x="10" y="8" width="12" height="1" fill="#F09050"/>
+  
+  <!-- 项圈 -->
+  <rect x="11" y="9" width="10" height="1" fill="#FFD700"/>
+  <rect x="15" y="9" width="2" height="1" fill="#FF3030"/>
+  
+  <!-- 身体 -->
+  <rect x="10" y="10" width="12" height="1" fill="#F09050"/>
+  <rect x="11" y="11" width="10" height="1" fill="#E08040"/>
+  <rect x="12" y="12" width="8" height="1" fill="#D07030"/>
+  
+  <!-- 四腿收缩（另一个腾空姿势） -->
+  <rect x="20" y="13" width="3" height="1" fill="#F09050"/>
+  <rect x="9" y="13" width="3" height="1" fill="#F09050"/>
+  
+  <rect x="21" y="14" width="2" height="1" fill="#E08040"/>
+  <rect x="8" y="14" width="2" height="1" fill="#E08040"/>
+  
+  <!-- 脚 -->
+  <rect x="22" y="15" width="2" height="1" fill="#FFFFFF"/>
+  <rect x="7" y="15" width="2" height="1" fill="#FFFFFF"/>
+  
+  <!-- 尾巴 -->
+  <rect x="7" y="10" width="1" height="1" fill="#E08040"/>
+  <rect x="6" y="9" width="1" height="1" fill="#F09050"/>
+  <rect x="5" y="9" width="1" height="1" fill="#E08040"/>
+  <rect x="4" y="10" width="1" height="1" fill="#F09050"/>
+  <rect x="3" y="10" width="1" height="1" fill="#D07030"/>
+</svg>

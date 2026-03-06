@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="128" height="128" style="image-rendering: pixelated;">
+  <!-- Cat Jump Frame 2 - 起跳瞬间 -->
+  
+  <!-- 耳朵 -->
+  <rect x="7" y="4" width="1" height="1" fill="#E08040"/>
+  <rect x="6" y="5" width="1" height="1" fill="#D07030"/>
+  <rect x="7" y="5" width="1" height="1" fill="#F09050"/>
+  <rect x="8" y="5" width="1" height="1" fill="#E08040"/>
+  <rect x="24" y="4" width="1" height="1" fill="#E08040"/>
+  <rect x="23" y="5" width="1" height="1" fill="#E08040"/>
+  <rect x="24" y="5" width="1" height="1" fill="#F09050"/>
+  <rect x="25" y="5" width="1" height="1" fill="#D07030"/>
+  
+  <!-- 头部 -->
+  <rect x="10" y="5" width="12" height="1" fill="#E08040"/>
+  <rect x="9" y="6" width="14" height="1" fill="#F09050"/>
+  <rect x="8" y="7" width="16" height="1" fill="#F09050"/>
+  
+  <!-- 眼睛 -->
+  <rect x="11" y="7" width="1" height="1" fill="#2A2A2A"/>
+  <rect x="20" y="7" width="1" height="1" fill="#2A2A2A"/>
+  <rect x="11" y="8" width="1" height="1" fill="#2A2A2A"/>
+  <rect x="20" y="8" width="1" height="1" fill="#2A2A2A"/>
+  
+  <rect x="8" y="8" width="16" height="1" fill="#F09050"/>
+  <rect x="9" y="9" width="14" height="1" fill="#F09050"/>
+  
+  <!-- 鼻子 -->
+  <rect x="15" y="9" width="2" height="1" fill="#2A2A2A"/>
+  
+  <rect x="10" y="10" width="12" height="1" fill="#F09050"/>
+  
+  <!-- 项圈 -->
+  <rect x="11" y="11" width="10" height="1" fill="#FFD700"/>
+  <rect x="15" y="11" width="2" height="1" fill="#FF3030"/>
+  
+  <!-- 身体 -->
+  <rect x="10" y="12" width="12" height="1" fill="#F09050"/>
+  <rect x="11" y="13" width="10" height="1" fill="#E08040"/>
+  
+  <!-- 腿（伸展向下蹬） -->
+  <rect x="11" y="14" width="2" height="1" fill="#F09050"/>
+  <rect x="19" y="14" width="2" height="1" fill="#F09050"/>
+  <rect x="11" y="15" width="2" height="1" fill="#E08040"/>
+  <rect x="19" y="15" width="2" height="1" fill="#E08040"/>
+  <rect x="11" y="16" width="2" height="1" fill="#D07030"/>
+  <rect x="19" y="16" width="2" height="1" fill="#D07030"/>
+  
+  <!-- 脚（脚尖着地） -->
+  <rect x="11" y="17" width="2" height="1" fill="#FFFFFF"/>
+  <rect x="19" y="17" width="2" height="1" fill="#FFFFFF"/>
+  
+  <!-- 尾巴 -->
+  <rect x="23" y="11" width="1" height="1" fill="#E08040"/>
+  <rect x="24" y="12" width="1" height="1" fill="#F09050"/>
+  <rect x="25" y="13" width="1" height="1" fill="#E08040"/>
+  <rect x="26" y="14" width="1" height="1" fill="#D07030"/>
+</svg>
