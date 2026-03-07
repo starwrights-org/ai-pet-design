@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 80" width="320" height="160" style="image-rendering: pixelated;">
+  <!-- Cafe Counter - 吧台 160x80px -->
+  
+  <!-- 吧台主体 -->
+  <rect x="0" y="20" width="160" height="60" fill="#654321"/>
+  <rect x="4" y="24" width="152" height="52" fill="#8B4513"/>
+  
+  <!-- 台面 -->
+  <rect x="0" y="12" width="160" height="12" fill="#A0522D"/>
+  <rect x="4" y="16" width="152" height="4" fill="#CD853F"/>
+  
+  <!-- 装饰面板 -->
+  <rect x="8" y="32" width="40" height="36" fill="#5C4033"/>
+  <rect x="56" y="32" width="48" height="36" fill="#5C4033"/>
+  <rect x="112" y="32" width="40" height="36" fill="#5C4033"/>
+  
+  <!-- 咖啡机 -->
+  <rect x="60" y="0" width="40" height="16" fill="#4A4A4A"/>
+  <rect x="64" y="2" width="32" height="10" fill="#2A2A2A"/>
+  <rect x="68" y="4" width="8" height="6" fill="#6A6A6A"/>
+  <rect x="84" y="4" width="8" height="6" fill="#6A6A6A"/>
+  <!-- 咖啡机指示灯 -->
+  <rect x="70" y="6" width="2" height="2" fill="#00FF00"/>
+  <rect x="86" y="6" width="2" height="2" fill="#FF0000"/>
+  
+  <!-- 杯子展示 -->
+  <rect x="12" y="4" width="8" height="10" fill="#FFFFFF"/>
+  <rect x="14" y="6" width="4" height="6" fill="#8B4513"/>
+  <rect x="24" y="4" width="8" height="10" fill="#FFFFFF"/>
+  <rect x="26" y="6" width="4" height="6" fill="#A0522D"/>
+  
+  <!-- 收银机 -->
+  <rect x="120" y="0" width="28" height="16" fill="#4A4A4A"/>
+  <rect x="124" y="4" width="20" height="8" fill="#228B22"/>
+  <rect x="126" y="6" width="16" height="4" fill="#00FF00"/>
+</svg>

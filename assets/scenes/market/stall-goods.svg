@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 80" width="192" height="160" style="image-rendering: pixelated;">
+  <!-- Market Goods Stall - 杂货摊 96x80px -->
+  
+  <!-- 摊位阴影 -->
+  <rect x="8" y="72" width="80" height="8" fill="#4A3020"/>
+  
+  <!-- 摊位柜台 -->
+  <rect x="4" y="48" width="88" height="28" fill="#8B4513"/>
+  <rect x="8" y="52" width="80" height="20" fill="#A0522D"/>
+  
+  <!-- 柜台顶板 -->
+  <rect x="0" y="44" width="96" height="8" fill="#654321"/>
+  
+  <!-- 货物展示 -->
+  <!-- 布料卷 -->
+  <rect x="8" y="30" width="12" height="18" fill="#9370DB"/>
+  <rect x="10" y="32" width="8" height="14" fill="#8A2BE2"/>
+  <rect x="22" y="30" width="12" height="18" fill="#4169E1"/>
+  <rect x="24" y="32" width="8" height="14" fill="#0000CD"/>
+  
+  <!-- 陶罐 -->
+  <rect x="40" y="32" width="12" height="16" fill="#CD853F"/>
+  <rect x="42" y="28" width="8" height="4" fill="#DEB887"/>
+  <rect x="44" y="34" width="4" height="8" fill="#D2691E"/>
+  
+  <rect x="56" y="34" width="10" height="14" fill="#A0522D"/>
+  <rect x="58" y="30" width="6" height="4" fill="#CD853F"/>
+  
+  <!-- 箱子 -->
+  <rect x="72" y="32" width="16" height="16" fill="#8B4513"/>
+  <rect x="74" y="34" width="12" height="12" fill="#A0522D"/>
+  <rect x="72" y="38" width="16" height="2" fill="#654321"/>
+  
+  <!-- 价格牌 -->
+  <rect x="12" y="24" width="8" height="6" fill="#FFFFFF"/>
+  <rect x="44" y="24" width="8" height="6" fill="#FFFFFF"/>
+  <rect x="76" y="26" width="8" height="6" fill="#FFFFFF"/>
+  
+  <!-- 遮阳棚 -->
+  <rect x="0" y="0" width="96" height="20" fill="#3498DB"/>
+  <rect x="24" y="0" width="24" height="20" fill="#FFFFFF"/>
+  <rect x="72" y="0" width="24" height="20" fill="#FFFFFF"/>
+</svg>

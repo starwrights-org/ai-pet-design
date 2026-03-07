@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 96" width="128" height="192" style="image-rendering: pixelated;">
+  <!-- Library Bookshelf - 书架 64x96px -->
+  
+  <!-- 书架框架 -->
+  <rect x="0" y="0" width="64" height="96" fill="#5C4033"/>
+  <rect x="4" y="4" width="56" height="88" fill="#4A3728"/>
+  
+  <!-- 隔板 -->
+  <rect x="4" y="28" width="56" height="4" fill="#5C4033"/>
+  <rect x="4" y="56" width="56" height="4" fill="#5C4033"/>
+  
+  <!-- 第一层书籍 -->
+  <rect x="8" y="8" width="6" height="18" fill="#C04040"/>
+  <rect x="15" y="6" width="5" height="20" fill="#4060A0"/>
+  <rect x="21" y="8" width="6" height="18" fill="#40A060"/>
+  <rect x="28" y="10" width="4" height="16" fill="#D0A040"/>
+  <rect x="33" y="6" width="7" height="20" fill="#8060A0"/>
+  <rect x="41" y="8" width="5" height="18" fill="#D07040"/>
+  <rect x="47" y="10" width="6" height="16" fill="#40A0A0"/>
+  <rect x="54" y="6" width="4" height="20" fill="#D080A0"/>
+  
+  <!-- 第二层书籍 -->
+  <rect x="8" y="34" width="5" height="20" fill="#40A060"/>
+  <rect x="14" y="36" width="6" height="18" fill="#C04040"/>
+  <rect x="21" y="34" width="4" height="20" fill="#D0A040"/>
+  <rect x="26" y="38" width="7" height="16" fill="#4060A0"/>
+  <rect x="34" y="34" width="6" height="20" fill="#D080A0"/>
+  <rect x="41" y="36" width="5" height="18" fill="#8060A0"/>
+  <rect x="47" y="34" width="6" height="20" fill="#D07040"/>
+  <rect x="54" y="38" width="4" height="16" fill="#40A0A0"/>
+  
+  <!-- 第三层书籍 -->
+  <rect x="8" y="62" width="6" height="18" fill="#8060A0"/>
+  <rect x="15" y="64" width="5" height="16" fill="#D07040"/>
+  <rect x="21" y="60" width="7" height="20" fill="#4060A0"/>
+  <rect x="29" y="62" width="4" height="18" fill="#C04040"/>
+  <rect x="34" y="64" width="6" height="16" fill="#40A060"/>
+  <rect x="41" y="60" width="5" height="20" fill="#D0A040"/>
+  <rect x="47" y="62" width="6" height="18" fill="#40A0A0"/>
+  <rect x="54" y="64" width="4" height="16" fill="#D080A0"/>
+  
+  <!-- 书架装饰顶部 -->
+  <rect x="0" y="0" width="64" height="4" fill="#3A2718"/>
+</svg>

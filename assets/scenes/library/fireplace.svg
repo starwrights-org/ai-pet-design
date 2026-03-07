@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 72" width="160" height="144" style="image-rendering: pixelated;">
+  <!-- Library Fireplace - 壁炉 80x72px -->
+  
+  <!-- 壁炉框架 -->
+  <rect x="0" y="0" width="80" height="72" fill="#5C4033"/>
+  <rect x="4" y="4" width="72" height="64" fill="#4A3728"/>
+  
+  <!-- 壁炉内部 -->
+  <rect x="12" y="24" width="56" height="44" fill="#2A2A2A"/>
+  <rect x="16" y="28" width="48" height="36" fill="#1A1A1A"/>
+  
+  <!-- 火焰 -->
+  <rect x="28" y="40" width="8" height="20" fill="#FF4500"/>
+  <rect x="32" y="36" width="8" height="24" fill="#FF6347"/>
+  <rect x="38" y="42" width="10" height="18" fill="#FF4500"/>
+  <rect x="34" y="32" width="6" height="12" fill="#FFD700"/>
+  <rect x="42" y="38" width="4" height="10" fill="#FFD700"/>
+  <rect x="30" y="44" width="4" height="8" fill="#FFFF00"/>
+  
+  <!-- 木柴 -->
+  <rect x="20" y="56" width="16" height="6" fill="#8B4513"/>
+  <rect x="44" y="58" width="14" height="4" fill="#654321"/>
+  <rect x="26" y="52" width="12" height="4" fill="#A0522D"/>
+  
+  <!-- 壁炉架 -->
+  <rect x="0" y="16" width="80" height="8" fill="#3A2718"/>
+  <rect x="4" y="18" width="72" height="4" fill="#4A3728"/>
+  
+  <!-- 装饰顶部 -->
+  <rect x="0" y="0" width="80" height="4" fill="#3A2718"/>
+  <rect x="8" y="4" width="64" height="12" fill="#5C4033"/>
+  
+  <!-- 壁炉架上装饰 -->
+  <rect x="16" y="8" width="8" height="8" fill="#D4AF37"/>
+  <rect x="56" y="8" width="8" height="8" fill="#D4AF37"/>
+</svg>

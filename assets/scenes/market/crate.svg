@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 28" width="64" height="56" style="image-rendering: pixelated;">
+  <!-- Market Crate - 木箱 32x28px -->
+  
+  <!-- 箱子阴影 -->
+  <rect x="4" y="24" width="24" height="4" fill="#4A3020"/>
+  
+  <!-- 箱子主体 -->
+  <rect x="0" y="4" width="32" height="24" fill="#8B4513"/>
+  <rect x="2" y="6" width="28" height="20" fill="#A0522D"/>
+  
+  <!-- 木板纹理 -->
+  <rect x="0" y="10" width="32" height="2" fill="#654321"/>
+  <rect x="0" y="18" width="32" height="2" fill="#654321"/>
+  
+  <!-- 金属加固 -->
+  <rect x="4" y="4" width="4" height="24" fill="#4A4A4A"/>
+  <rect x="24" y="4" width="4" height="24" fill="#4A4A4A"/>
+  <rect x="0" y="0" width="32" height="4" fill="#6A6A6A"/>
+</svg>

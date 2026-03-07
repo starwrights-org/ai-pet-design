@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 40" width="64" height="80" style="image-rendering: pixelated;">
+  <!-- Cafe Ceiling Lamp - 吊灯 32x40px -->
+  
+  <!-- 吊线 -->
+  <rect x="14" y="0" width="4" height="12" fill="#4A4A4A"/>
+  
+  <!-- 灯座 -->
+  <rect x="10" y="12" width="12" height="4" fill="#8B4513"/>
+  
+  <!-- 灯罩 -->
+  <rect x="4" y="16" width="24" height="16" fill="#DEB887"/>
+  <rect x="8" y="18" width="16" height="12" fill="#F5DEB3"/>
+  <rect x="2" y="32" width="28" height="4" fill="#CD853F"/>
+  
+  <!-- 光晕效果 -->
+  <rect x="8" y="36" width="16" height="4" fill="#FFFACD"/>
+  
+  <!-- 灯泡（内部） -->
+  <rect x="12" y="20" width="8" height="8" fill="#FFFFE0"/>
+  <rect x="14" y="22" width="4" height="4" fill="#FFFACD"/>
+</svg>

@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320" width="960" height="640" style="image-rendering: pixelated;">
+  <!-- Market Scene Background 480x320px -->
+  
+  <!-- 地面 - 石板路 -->
+  <rect x="0" y="200" width="480" height="120" fill="#808080"/>
+  <!-- 石板纹理 -->
+  <rect x="0" y="200" width="60" height="60" fill="#909090"/>
+  <rect x="64" y="200" width="56" height="56" fill="#787878"/>
+  <rect x="124" y="200" width="56" height="60" fill="#909090"/>
+  <rect x="184" y="200" width="56" height="56" fill="#787878"/>
+  <rect x="244" y="200" width="56" height="60" fill="#909090"/>
+  <rect x="304" y="200" width="56" height="56" fill="#787878"/>
+  <rect x="364" y="200" width="56" height="60" fill="#909090"/>
+  <rect x="424" y="200" width="56" height="56" fill="#787878"/>
+  
+  <rect x="0" y="264" width="56" height="56" fill="#787878"/>
+  <rect x="60" y="260" width="60" height="60" fill="#909090"/>
+  <rect x="124" y="264" width="56" height="56" fill="#787878"/>
+  <rect x="184" y="260" width="60" height="60" fill="#909090"/>
+  <rect x="248" y="264" width="56" height="56" fill="#787878"/>
+  <rect x="308" y="260" width="56" height="60" fill="#909090"/>
+  <rect x="368" y="264" width="56" height="56" fill="#787878"/>
+  <rect x="428" y="260" width="52" height="60" fill="#909090"/>
+  
+  <!-- 天空背景 -->
+  <rect x="0" y="0" width="480" height="200" fill="#87CEEB"/>
+  <rect x="0" y="0" width="480" height="60" fill="#ADD8E6"/>
+  
+  <!-- 云朵 -->
+  <rect x="40" y="20" width="40" height="16" fill="#FFFFFF"/>
+  <rect x="32" y="28" width="56" height="12" fill="#FFFFFF"/>
+  
+  <rect x="200" y="40" width="48" height="12" fill="#FFFFFF"/>
+  <rect x="192" y="44" width="64" height="16" fill="#FFFFFF"/>
+  
+  <rect x="380" y="24" width="36" height="12" fill="#FFFFFF"/>
+  <rect x="372" y="32" width="52" height="12" fill="#FFFFFF"/>
+  
+  <!-- 遮阳棚顶部 -->
+  <rect x="0" y="80" width="480" height="40" fill="#E74C3C"/>
+  <rect x="0" y="80" width="60" height="40" fill="#FFFFFF"/>
+  <rect x="120" y="80" width="60" height="40" fill="#FFFFFF"/>
+  <rect x="240" y="80" width="60" height="40" fill="#FFFFFF"/>
+  <rect x="360" y="80" width="60" height="40" fill="#FFFFFF"/>
+  
+  <!-- 遮阳棚波浪边缘 -->
+  <rect x="20" y="120" width="20" height="8" fill="#E74C3C"/>
+  <rect x="80" y="120" width="20" height="8" fill="#E74C3C"/>
+  <rect x="140" y="120" width="20" height="8" fill="#E74C3C"/>
+  <rect x="200" y="120" width="20" height="8" fill="#E74C3C"/>
+  <rect x="260" y="120" width="20" height="8" fill="#E74C3C"/>
+  <rect x="320" y="120" width="20" height="8" fill="#E74C3C"/>
+  <rect x="380" y="120" width="20" height="8" fill="#E74C3C"/>
+  <rect x="440" y="120" width="20" height="8" fill="#E74C3C"/>
+</svg>
