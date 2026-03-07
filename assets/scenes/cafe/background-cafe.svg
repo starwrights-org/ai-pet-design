@@ -1,33 +1,41 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320" width="960" height="640" style="image-rendering: pixelated;">
-  <!-- Cafe Scene Background 480x320px -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 640" width="960" height="640" style="image-rendering: pixelated;">
+  <!-- Cafe Scene Background 960x640px (扩大版) -->
   
   <!-- 地板 - 木质 -->
-  <rect x="0" y="200" width="480" height="120" fill="#8B4513"/>
-  <rect x="0" y="200" width="480" height="4" fill="#A0522D"/>
-  <rect x="0" y="220" width="480" height="4" fill="#654321"/>
-  <rect x="0" y="240" width="480" height="4" fill="#A0522D"/>
-  <rect x="0" y="260" width="480" height="4" fill="#654321"/>
-  <rect x="0" y="280" width="480" height="4" fill="#A0522D"/>
-  <rect x="0" y="300" width="480" height="4" fill="#654321"/>
+  <rect x="0" y="400" width="960" height="240" fill="#8B4513"/>
+  <rect x="0" y="400" width="960" height="4" fill="#A0522D"/>
+  <rect x="0" y="440" width="960" height="4" fill="#654321"/>
+  <rect x="0" y="480" width="960" height="4" fill="#A0522D"/>
+  <rect x="0" y="520" width="960" height="4" fill="#654321"/>
+  <rect x="0" y="560" width="960" height="4" fill="#A0522D"/>
+  <rect x="0" y="600" width="960" height="4" fill="#654321"/>
   
   <!-- 垂直木纹 -->
-  <rect x="60" y="200" width="4" height="120" fill="#654321"/>
-  <rect x="120" y="200" width="4" height="120" fill="#654321"/>
-  <rect x="180" y="200" width="4" height="120" fill="#654321"/>
-  <rect x="240" y="200" width="4" height="120" fill="#654321"/>
-  <rect x="300" y="200" width="4" height="120" fill="#654321"/>
-  <rect x="360" y="200" width="4" height="120" fill="#654321"/>
-  <rect x="420" y="200" width="4" height="120" fill="#654321"/>
+  <rect x="60" y="400" width="4" height="240" fill="#654321"/>
+  <rect x="120" y="400" width="4" height="240" fill="#654321"/>
+  <rect x="180" y="400" width="4" height="240" fill="#654321"/>
+  <rect x="240" y="400" width="4" height="240" fill="#654321"/>
+  <rect x="300" y="400" width="4" height="240" fill="#654321"/>
+  <rect x="360" y="400" width="4" height="240" fill="#654321"/>
+  <rect x="420" y="400" width="4" height="240" fill="#654321"/>
+  <rect x="480" y="400" width="4" height="240" fill="#654321"/>
+  <rect x="540" y="400" width="4" height="240" fill="#654321"/>
+  <rect x="600" y="400" width="4" height="240" fill="#654321"/>
+  <rect x="660" y="400" width="4" height="240" fill="#654321"/>
+  <rect x="720" y="400" width="4" height="240" fill="#654321"/>
+  <rect x="780" y="400" width="4" height="240" fill="#654321"/>
+  <rect x="840" y="400" width="4" height="240" fill="#654321"/>
+  <rect x="900" y="400" width="4" height="240" fill="#654321"/>
   
   <!-- 墙壁 - 暖色 -->
-  <rect x="0" y="0" width="480" height="200" fill="#FFE4C4"/>
-  <rect x="0" y="0" width="480" height="40" fill="#DEB887"/>
+  <rect x="0" y="0" width="960" height="400" fill="#FFE4C4"/>
+  <rect x="0" y="0" width="960" height="80" fill="#DEB887"/>
   
   <!-- 墙壁装饰条 -->
-  <rect x="0" y="180" width="480" height="20" fill="#CD853F"/>
-  <rect x="0" y="184" width="480" height="4" fill="#A0522D"/>
-  <rect x="0" y="192" width="480" height="4" fill="#8B4513"/>
+  <rect x="0" y="360" width="960" height="40" fill="#CD853F"/>
+  <rect x="0" y="368" width="960" height="8" fill="#A0522D"/>
+  <rect x="0" y="384" width="960" height="8" fill="#8B4513"/>
   
   <!-- 天花板装饰 -->
-  <rect x="0" y="36" width="480" height="4" fill="#D2B48C"/>
+  <rect x="0" y="72" width="960" height="8" fill="#D2B48C"/>
 </svg>
