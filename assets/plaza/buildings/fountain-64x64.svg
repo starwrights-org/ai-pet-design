@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="256" height="256" style="image-rendering: pixelated;">
+  <!-- Fountain - 广场喷泉 64x64px -->
+  
+  <!-- 喷泉池阴影 -->
+  <rect x="4" y="56" width="56" height="8" fill="#2A4050"/>
+  
+  <!-- 喷泉池外圈 -->
+  <rect x="4" y="40" width="56" height="16" fill="#708090"/>
+  <rect x="8" y="44" width="48" height="12" fill="#4682B4"/>
+  
+  <!-- 水面 -->
+  <rect x="10" y="46" width="44" height="8" fill="#00BFFF"/>
+  <rect x="12" y="48" width="40" height="4" fill="#87CEEB"/>
+  
+  <!-- 水波纹 -->
+  <rect x="16" y="48" width="6" height="2" fill="#E0FFFF"/>
+  <rect x="30" y="50" width="8" height="2" fill="#E0FFFF"/>
+  <rect x="44" y="48" width="6" height="2" fill="#E0FFFF"/>
+  
+  <!-- 中央柱子 -->
+  <rect x="28" y="24" width="8" height="24" fill="#A9A9A9"/>
+  <rect x="26" y="40" width="12" height="4" fill="#808080"/>
+  <rect x="30" y="20" width="4" height="4" fill="#C0C0C0"/>
+  
+  <!-- 喷水效果 -->
+  <!-- 主水柱 -->
+  <rect x="30" y="4" width="4" height="16" fill="#00BFFF"/>
+  <rect x="31" y="0" width="2" height="4" fill="#87CEEB"/>
+  
+  <!-- 水花左 -->
+  <rect x="20" y="12" width="2" height="8" fill="#87CEEB"/>
+  <rect x="18" y="16" width="2" height="4" fill="#E0FFFF"/>
+  <rect x="22" y="8" width="2" height="6" fill="#E0FFFF"/>
+  
+  <!-- 水花右 -->
+  <rect x="42" y="12" width="2" height="8" fill="#87CEEB"/>
+  <rect x="44" y="16" width="2" height="4" fill="#E0FFFF"/>
+  <rect x="40" y="8" width="2" height="6" fill="#E0FFFF"/>
+  
+  <!-- 落水水滴 -->
+  <rect x="24" y="24" width="2" height="4" fill="#E0FFFF"/>
+  <rect x="38" y="26" width="2" height="4" fill="#E0FFFF"/>
+  <rect x="16" y="32" width="2" height="4" fill="#87CEEB"/>
+  <rect x="46" y="30" width="2" height="4" fill="#87CEEB"/>
+  
+  <!-- 喷泉装饰底座 -->
+  <rect x="24" y="44" width="16" height="4" fill="#778899"/>
+  <rect x="22" y="48" width="20" height="2" fill="#708090"/>
+  
+  <!-- 池边装饰 -->
+  <rect x="4" y="40" width="4" height="4" fill="#808080"/>
+  <rect x="56" y="40" width="4" height="4" fill="#808080"/>
+  <rect x="28" y="54" width="8" height="4" fill="#708090"/>
+</svg>

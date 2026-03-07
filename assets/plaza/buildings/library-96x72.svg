@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 72" width="384" height="288" style="image-rendering: pixelated;">
+  <!-- Library - 图书馆 96x72px -->
+  
+  <!-- 建筑阴影 -->
+  <rect x="8" y="64" width="80" height="8" fill="#2A2020"/>
+  
+  <!-- 屋顶（尖顶） -->
+  <rect x="44" y="0" width="8" height="4" fill="#4A4A6A"/>
+  <rect x="40" y="4" width="16" height="4" fill="#5A5A7A"/>
+  <rect x="36" y="8" width="24" height="4" fill="#6A6A8A"/>
+  <rect x="32" y="12" width="32" height="4" fill="#7A7A9A"/>
+  <rect x="28" y="16" width="40" height="4" fill="#8A8AAA"/>
+  <rect x="8" y="20" width="80" height="4" fill="#9A9ABA"/>
+  
+  <!-- 墙体（砖石感） -->
+  <rect x="8" y="24" width="80" height="40" fill="#E8DCC8"/>
+  <rect x="12" y="28" width="72" height="32" fill="#F5EEE0"/>
+  
+  <!-- 砖纹装饰 -->
+  <rect x="12" y="32" width="72" height="2" fill="#D4C4B0"/>
+  <rect x="12" y="44" width="72" height="2" fill="#D4C4B0"/>
+  <rect x="12" y="56" width="72" height="2" fill="#D4C4B0"/>
+  
+  <!-- 大门（拱形） -->
+  <rect x="36" y="40" width="24" height="24" fill="#654321"/>
+  <rect x="38" y="36" width="20" height="4" fill="#654321"/>
+  <rect x="40" y="34" width="16" height="2" fill="#654321"/>
+  <rect x="40" y="42" width="16" height="20" fill="#8B4513"/>
+  <rect x="42" y="44" width="12" height="16" fill="#A0522D"/>
+  <!-- 门把手 -->
+  <rect x="42" y="52" width="2" height="4" fill="#FFD700"/>
+  <rect x="52" y="52" width="2" height="4" fill="#FFD700"/>
+  
+  <!-- 左窗户（书架可见） -->
+  <rect x="14" y="32" width="18" height="24" fill="#4A4A6A"/>
+  <rect x="16" y="34" width="14" height="20" fill="#2A2A4A"/>
+  <!-- 书架书籍 -->
+  <rect x="17" y="35" width="3" height="8" fill="#C04040"/>
+  <rect x="20" y="35" width="3" height="8" fill="#4060A0"/>
+  <rect x="23" y="35" width="3" height="8" fill="#40A060"/>
+  <rect x="26" y="35" width="3" height="8" fill="#D0A040"/>
+  <rect x="17" y="45" width="3" height="8" fill="#8060A0"/>
+  <rect x="20" y="45" width="3" height="8" fill="#D07040"/>
+  <rect x="23" y="45" width="3" height="8" fill="#40A0A0"/>
+  <rect x="26" y="45" width="3" height="8" fill="#D080A0"/>
+  
+  <!-- 右窗户（书架可见） -->
+  <rect x="64" y="32" width="18" height="24" fill="#4A4A6A"/>
+  <rect x="66" y="34" width="14" height="20" fill="#2A2A4A"/>
+  <!-- 书架书籍 -->
+  <rect x="67" y="35" width="3" height="8" fill="#40A060"/>
+  <rect x="70" y="35" width="3" height="8" fill="#C04040"/>
+  <rect x="73" y="35" width="3" height="8" fill="#D0A040"/>
+  <rect x="76" y="35" width="3" height="8" fill="#4060A0"/>
+  <rect x="67" y="45" width="3" height="8" fill="#D07040"/>
+  <rect x="70" y="45" width="3" height="8" fill="#8060A0"/>
+  <rect x="73" y="45" width="3" height="8" fill="#D080A0"/>
+  <rect x="76" y="45" width="3" height="8" fill="#40A0A0"/>
+  
+  <!-- 招牌 -->
+  <rect x="28" y="24" width="40" height="8" fill="#4A4A6A"/>
+  <rect x="30" y="26" width="36" height="4" fill="#F5EEE0"/>
+  <!-- Library文字用书图标代替 -->
+  <rect x="36" y="26" width="6" height="4" fill="#C04040"/>
+  <rect x="43" y="26" width="6" height="4" fill="#4060A0"/>
+  <rect x="50" y="26" width="6" height="4" fill="#40A060"/>
+  
+  <!-- 柱子 -->
+  <rect x="10" y="24" width="6" height="40" fill="#D4C4B0"/>
+  <rect x="80" y="24" width="6" height="40" fill="#D4C4B0"/>
+  <rect x="8" y="24" width="10" height="4" fill="#C4B4A0"/>
+  <rect x="78" y="24" width="10" height="4" fill="#C4B4A0"/>
+</svg>

@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 72" width="384" height="288" style="image-rendering: pixelated;">
+  <!-- Pixel Cafe - 咖啡厅 96x72px -->
+  
+  <!-- 建筑阴影 -->
+  <rect x="8" y="64" width="80" height="8" fill="#2A2020"/>
+  
+  <!-- 屋顶 -->
+  <rect x="12" y="8" width="72" height="8" fill="#8B4513"/>
+  <rect x="8" y="12" width="80" height="4" fill="#A0522D"/>
+  <rect x="4" y="16" width="88" height="4" fill="#CD853F"/>
+  
+  <!-- 屋顶装饰瓦片 -->
+  <rect x="16" y="8" width="8" height="4" fill="#A0522D"/>
+  <rect x="32" y="8" width="8" height="4" fill="#A0522D"/>
+  <rect x="48" y="8" width="8" height="4" fill="#A0522D"/>
+  <rect x="64" y="8" width="8" height="4" fill="#A0522D"/>
+  
+  <!-- 墙体 -->
+  <rect x="8" y="20" width="80" height="44" fill="#F5DEB3"/>
+  <rect x="12" y="24" width="72" height="36" fill="#FFE4C4"/>
+  
+  <!-- 招牌 -->
+  <rect x="24" y="4" width="48" height="12" fill="#8B4513"/>
+  <rect x="26" y="6" width="44" height="8" fill="#DEB887"/>
+  <!-- 招牌文字 Cafe -->
+  <rect x="30" y="8" width="4" height="4" fill="#8B4513"/>
+  <rect x="36" y="8" width="4" height="4" fill="#8B4513"/>
+  <rect x="42" y="8" width="4" height="4" fill="#8B4513"/>
+  <rect x="48" y="8" width="4" height="4" fill="#8B4513"/>
+  
+  <!-- 咖啡杯图标 -->
+  <rect x="56" y="7" width="8" height="6" fill="#FFFFFF"/>
+  <rect x="64" y="8" width="3" height="3" fill="#FFFFFF"/>
+  <rect x="58" y="8" width="4" height="2" fill="#8B4513"/>
+  
+  <!-- 门 -->
+  <rect x="40" y="36" width="16" height="28" fill="#8B4513"/>
+  <rect x="42" y="38" width="12" height="24" fill="#654321"/>
+  <rect x="44" y="40" width="8" height="20" fill="#A0522D"/>
+  <!-- 门把手 -->
+  <rect x="50" y="50" width="2" height="4" fill="#FFD700"/>
+  
+  <!-- 左窗户 -->
+  <rect x="16" y="28" width="16" height="20" fill="#8B4513"/>
+  <rect x="18" y="30" width="12" height="16" fill="#87CEEB"/>
+  <rect x="18" y="30" width="5" height="7" fill="#ADD8E6"/>
+  <rect x="24" y="38" width="6" height="8" fill="#5F9EA0"/>
+  <!-- 窗框 -->
+  <rect x="23" y="30" width="2" height="16" fill="#8B4513"/>
+  <rect x="18" y="37" width="12" height="2" fill="#8B4513"/>
+  
+  <!-- 右窗户 -->
+  <rect x="64" y="28" width="16" height="20" fill="#8B4513"/>
+  <rect x="66" y="30" width="12" height="16" fill="#87CEEB"/>
+  <rect x="66" y="30" width="5" height="7" fill="#ADD8E6"/>
+  <rect x="72" y="38" width="6" height="8" fill="#5F9EA0"/>
+  <!-- 窗框 -->
+  <rect x="71" y="30" width="2" height="16" fill="#8B4513"/>
+  <rect x="66" y="37" width="12" height="2" fill="#8B4513"/>
+  
+  <!-- 窗台花盆 -->
+  <rect x="18" y="46" width="4" height="4" fill="#CD853F"/>
+  <rect x="19" y="44" width="2" height="2" fill="#228B22"/>
+  <rect x="26" y="46" width="4" height="4" fill="#CD853F"/>
+  <rect x="27" y="44" width="2" height="2" fill="#228B22"/>
+  
+  <rect x="66" y="46" width="4" height="4" fill="#CD853F"/>
+  <rect x="67" y="44" width="2" height="2" fill="#228B22"/>
+  <rect x="74" y="46" width="4" height="4" fill="#CD853F"/>
+  <rect x="75" y="44" width="2" height="2" fill="#228B22"/>
+  
+  <!-- 屋顶烟囱 -->
+  <rect x="72" y="0" width="8" height="12" fill="#A0522D"/>
+  <rect x="70" y="0" width="12" height="4" fill="#8B4513"/>
+</svg>

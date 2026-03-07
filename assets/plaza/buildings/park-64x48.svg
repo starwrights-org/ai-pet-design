@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 48" width="256" height="192" style="image-rendering: pixelated;">
+  <!-- Park - 公园入口/凉亭 64x48px -->
+  
+  <!-- 阴影 -->
+  <rect x="8" y="44" width="48" height="4" fill="#2A4020"/>
+  
+  <!-- 凉亭屋顶 -->
+  <rect x="28" y="4" width="8" height="4" fill="#8B4513"/>
+  <rect x="24" y="8" width="16" height="4" fill="#A0522D"/>
+  <rect x="16" y="12" width="32" height="4" fill="#CD853F"/>
+  <rect x="8" y="16" width="48" height="4" fill="#DEB887"/>
+  
+  <!-- 凉亭柱子 -->
+  <rect x="12" y="20" width="4" height="24" fill="#8B4513"/>
+  <rect x="48" y="20" width="4" height="24" fill="#8B4513"/>
+  
+  <!-- 凉亭地板 -->
+  <rect x="8" y="40" width="48" height="4" fill="#DEB887"/>
+  <rect x="12" y="44" width="40" height="2" fill="#CD853F"/>
+  
+  <!-- 长椅 -->
+  <rect x="20" y="32" width="24" height="4" fill="#8B4513"/>
+  <rect x="18" y="36" width="4" height="8" fill="#654321"/>
+  <rect x="42" y="36" width="4" height="8" fill="#654321"/>
+  
+  <!-- 花坛左 -->
+  <rect x="0" y="36" width="8" height="8" fill="#8B4513"/>
+  <rect x="1" y="32" width="2" height="4" fill="#FF69B4"/>
+  <rect x="3" y="30" width="2" height="6" fill="#FF1493"/>
+  <rect x="5" y="33" width="2" height="3" fill="#FF69B4"/>
+  <rect x="0" y="34" width="8" height="2" fill="#228B22"/>
+  
+  <!-- 花坛右 -->
+  <rect x="56" y="36" width="8" height="8" fill="#8B4513"/>
+  <rect x="57" y="32" width="2" height="4" fill="#FFD700"/>
+  <rect x="59" y="30" width="2" height="6" fill="#FFA500"/>
+  <rect x="61" y="33" width="2" height="3" fill="#FFD700"/>
+  <rect x="56" y="34" width="8" height="2" fill="#228B22"/>
+  
+  <!-- 招牌 -->
+  <rect x="20" y="0" width="24" height="8" fill="#228B22"/>
+  <rect x="22" y="2" width="20" height="4" fill="#90EE90"/>
+  <!-- Park图标（树） -->
+  <rect x="30" y="2" width="4" height="4" fill="#228B22"/>
+</svg>

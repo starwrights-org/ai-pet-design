@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 72" width="384" height="288" style="image-rendering: pixelated;">
+  <!-- Market - 集市 96x72px -->
+  
+  <!-- 建筑阴影 -->
+  <rect x="4" y="64" width="88" height="8" fill="#2A2020"/>
+  
+  <!-- 遮阳棚（条纹） -->
+  <rect x="0" y="8" width="96" height="20" fill="#E74C3C"/>
+  <rect x="0" y="8" width="12" height="20" fill="#FFFFFF"/>
+  <rect x="24" y="8" width="12" height="20" fill="#FFFFFF"/>
+  <rect x="48" y="8" width="12" height="20" fill="#FFFFFF"/>
+  <rect x="72" y="8" width="12" height="20" fill="#FFFFFF"/>
+  
+  <!-- 遮阳棚边缘波浪 -->
+  <rect x="4" y="28" width="8" height="4" fill="#E74C3C"/>
+  <rect x="20" y="28" width="8" height="4" fill="#E74C3C"/>
+  <rect x="36" y="28" width="8" height="4" fill="#E74C3C"/>
+  <rect x="52" y="28" width="8" height="4" fill="#E74C3C"/>
+  <rect x="68" y="28" width="8" height="4" fill="#E74C3C"/>
+  <rect x="84" y="28" width="8" height="4" fill="#E74C3C"/>
+  
+  <!-- 柜台 -->
+  <rect x="4" y="36" width="88" height="28" fill="#DEB887"/>
+  <rect x="8" y="40" width="80" height="20" fill="#F5DEB3"/>
+  
+  <!-- 货架商品 -->
+  <!-- 左边水果 -->
+  <rect x="12" y="42" width="8" height="8" fill="#FF6347"/>
+  <rect x="12" y="50" width="8" height="8" fill="#FF6347"/>
+  <rect x="22" y="42" width="8" height="8" fill="#FFD700"/>
+  <rect x="22" y="50" width="8" height="8" fill="#FFA500"/>
+  <rect x="32" y="42" width="8" height="8" fill="#32CD32"/>
+  <rect x="32" y="50" width="8" height="8" fill="#228B22"/>
+  
+  <!-- 中间布料/杂货 -->
+  <rect x="44" y="42" width="8" height="16" fill="#9370DB"/>
+  <rect x="54" y="42" width="8" height="16" fill="#4169E1"/>
+  
+  <!-- 右边篮子 -->
+  <rect x="66" y="44" width="10" height="12" fill="#CD853F"/>
+  <rect x="68" y="42" width="6" height="4" fill="#8B4513"/>
+  <rect x="78" y="44" width="10" height="12" fill="#CD853F"/>
+  <rect x="80" y="42" width="6" height="4" fill="#8B4513"/>
+  
+  <!-- 招牌 -->
+  <rect x="28" y="0" width="40" height="12" fill="#8B4513"/>
+  <rect x="30" y="2" width="36" height="8" fill="#F5DEB3"/>
+  <!-- Market图标（货币/购物袋） -->
+  <rect x="40" y="4" width="6" height="4" fill="#FFD700"/>
+  <rect x="48" y="4" width="6" height="4" fill="#FFD700"/>
+  
+  <!-- 价格标签 -->
+  <rect x="14" y="36" width="6" height="4" fill="#FFFFFF"/>
+  <rect x="24" y="36" width="6" height="4" fill="#FFFFFF"/>
+  <rect x="46" y="36" width="6" height="4" fill="#FFFFFF"/>
+  <rect x="68" y="36" width="6" height="4" fill="#FFFFFF"/>
+  
+  <!-- 支撑柱 -->
+  <rect x="4" y="8" width="4" height="56" fill="#8B4513"/>
+  <rect x="88" y="8" width="4" height="56" fill="#8B4513"/>
+</svg>
