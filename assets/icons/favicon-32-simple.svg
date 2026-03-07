@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" style="image-rendering: pixelated;">
+  <!-- Genesis Motes Favicon - 简洁版 32x32 -->
+  
+  <!-- 背景 -->
+  <rect x="0" y="0" width="32" height="32" fill="#2A2A5A"/>
+  
+  <!-- 圆角 -->
+  <rect x="0" y="0" width="3" height="3" fill="#000"/>
+  <rect x="29" y="0" width="3" height="3" fill="#000"/>
+  <rect x="0" y="29" width="3" height="3" fill="#000"/>
+  <rect x="29" y="29" width="3" height="3" fill="#000"/>
+  
+  <!-- Mote身体 -->
+  <rect x="10" y="10" width="12" height="2" fill="#C0F8FF"/>
+  <rect x="8" y="12" width="16" height="2" fill="#C0F8FF"/>
+  <rect x="8" y="14" width="16" height="2" fill="#C0F8FF"/>
+  <rect x="8" y="16" width="16" height="2" fill="#C0F8FF"/>
+  <rect x="10" y="18" width="12" height="2" fill="#C0F8FF"/>
+  
+  <!-- 高光 -->
+  <rect x="10" y="12" width="4" height="2" fill="#FFFFFF"/>
+  
+  <!-- 眼睛 -->
+  <rect x="12" y="14" width="2" height="3" fill="#2A2A5A"/>
+  <rect x="18" y="14" width="2" height="3" fill="#2A2A5A"/>
+</svg>

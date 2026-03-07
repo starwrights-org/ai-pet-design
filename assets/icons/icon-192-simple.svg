@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" width="192" height="192" style="image-rendering: pixelated;">
+  <!-- Genesis Motes Icon - 简洁版 192x192 -->
+  
+  <!-- 纯色背景 -->
+  <rect x="0" y="0" width="192" height="192" fill="#2A2A5A"/>
+  
+  <!-- 圆角 -->
+  <rect x="0" y="0" width="18" height="18" fill="#000"/>
+  <rect x="174" y="0" width="18" height="18" fill="#000"/>
+  <rect x="0" y="174" width="18" height="18" fill="#000"/>
+  <rect x="174" y="174" width="18" height="18" fill="#000"/>
+  
+  <!-- Mote身体 -->
+  <rect x="66" y="60" width="60" height="6" fill="#B0F0FF"/>
+  <rect x="54" y="66" width="84" height="6" fill="#C0F8FF"/>
+  <rect x="48" y="72" width="96" height="6" fill="#C0F8FF"/>
+  <rect x="48" y="78" width="96" height="6" fill="#C0F8FF"/>
+  <rect x="48" y="84" width="96" height="6" fill="#C0F8FF"/>
+  <rect x="48" y="90" width="96" height="6" fill="#C0F8FF"/>
+  <rect x="54" y="96" width="84" height="6" fill="#C0F8FF"/>
+  <rect x="60" y="102" width="72" height="6" fill="#B0F0FF"/>
+  
+  <!-- 高光 -->
+  <rect x="60" y="66" width="18" height="6" fill="#FFFFFF"/>
+  <rect x="54" y="72" width="18" height="6" fill="#FFFFFF"/>
+  
+  <!-- 眼睛 -->
+  <rect x="72" y="81" width="12" height="18" fill="#2A2A5A"/>
+  <rect x="108" y="81" width="12" height="18" fill="#2A2A5A"/>
+  <rect x="75" y="84" width="6" height="6" fill="#FFFFFF"/>
+  <rect x="111" y="84" width="6" height="6" fill="#FFFFFF"/>
+</svg>
