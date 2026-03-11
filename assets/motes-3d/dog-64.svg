@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" style="image-rendering: pixelated;">
+  <!-- Dog Mote - 64x64 像素精灵 for 3D Billboard -->
+  
+  <!-- 耳朵（垂耳） -->
+  <rect x="8" y="16" width="10" height="20" fill="#8B5A2B"/>
+  <rect x="46" y="16" width="10" height="20" fill="#8B5A2B"/>
+  <rect x="10" y="18" width="6" height="16" fill="#A0724F"/>
+  <rect x="48" y="18" width="6" height="16" fill="#A0724F"/>
+  
+  <!-- 头部 -->
+  <rect x="16" y="12" width="32" height="28" fill="#A0724F"/>
+  <rect x="14" y="16" width="4" height="20" fill="#A0724F"/>
+  <rect x="46" y="16" width="4" height="20" fill="#A0724F"/>
+  <rect x="18" y="14" width="28" height="24" fill="#C49A6C"/>
+  
+  <!-- 眼睛 -->
+  <rect x="20" y="22" width="8" height="10" fill="#FFFFFF"/>
+  <rect x="36" y="22" width="8" height="10" fill="#FFFFFF"/>
+  <!-- 瞳孔 -->
+  <rect x="24" y="24" width="4" height="6" fill="#3A2718"/>
+  <rect x="38" y="24" width="4" height="6" fill="#3A2718"/>
+  <!-- 高光 -->
+  <rect x="22" y="24" width="2" height="2" fill="#FFFFFF"/>
+  <rect x="38" y="24" width="2" height="2" fill="#FFFFFF"/>
+  
+  <!-- 鼻子（大黑鼻） -->
+  <rect x="28" y="32" width="8" height="6" fill="#2A2A2A"/>
+  <rect x="30" y="34" width="4" height="2" fill="#4A4A4A"/>
+  
+  <!-- 嘴巴/舌头 -->
+  <rect x="30" y="38" width="4" height="4" fill="#FF6B6B"/>
+  <rect x="28" y="38" width="2" height="2" fill="#C49A6C"/>
+  <rect x="34" y="38" width="2" height="2" fill="#C49A6C"/>
+  
+  <!-- 身体 -->
+  <rect x="16" y="40" width="32" height="18" fill="#A0724F"/>
+  <rect x="18" y="42" width="28" height="14" fill="#C49A6C"/>
+  
+  <!-- 胸部白斑 -->
+  <rect x="26" y="44" width="12" height="10" fill="#F5F5DC"/>
+  
+  <!-- 前爪 -->
+  <rect x="16" y="54" width="10" height="8" fill="#A0724F"/>
+  <rect x="38" y="54" width="10" height="8" fill="#A0724F"/>
+  <rect x="18" y="56" width="6" height="6" fill="#C49A6C"/>
+  <rect x="40" y="56" width="6" height="6" fill="#C49A6C"/>
+</svg>

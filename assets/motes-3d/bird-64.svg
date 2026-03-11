@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" style="image-rendering: pixelated;">
+  <!-- Bird Mote - 64x64 像素精灵 for 3D Billboard -->
+  
+  <!-- 头顶羽毛 -->
+  <rect x="28" y="4" width="4" height="8" fill="#4169E1"/>
+  <rect x="32" y="6" width="4" height="6" fill="#6495ED"/>
+  <rect x="24" y="8" width="4" height="4" fill="#6495ED"/>
+  
+  <!-- 头部 -->
+  <rect x="18" y="12" width="28" height="24" fill="#4169E1"/>
+  <rect x="16" y="16" width="4" height="16" fill="#4169E1"/>
+  <rect x="44" y="16" width="4" height="16" fill="#4169E1"/>
+  <rect x="20" y="14" width="24" height="20" fill="#6495ED"/>
+  
+  <!-- 眼睛（大圆眼） -->
+  <rect x="22" y="20" width="8" height="10" fill="#FFFFFF"/>
+  <rect x="34" y="20" width="8" height="10" fill="#FFFFFF"/>
+  <!-- 瞳孔 -->
+  <rect x="26" y="22" width="4" height="6" fill="#2A2A2A"/>
+  <rect x="36" y="22" width="4" height="6" fill="#2A2A2A"/>
+  <!-- 高光 -->
+  <rect x="24" y="22" width="2" height="2" fill="#FFFFFF"/>
+  <rect x="36" y="22" width="2" height="2" fill="#FFFFFF"/>
+  
+  <!-- 喙 -->
+  <rect x="28" y="30" width="8" height="6" fill="#FFA500"/>
+  <rect x="26" y="32" width="4" height="4" fill="#FFD700"/>
+  <rect x="34" y="32" width="4" height="4" fill="#FFD700"/>
+  
+  <!-- 身体 -->
+  <rect x="18" y="36" width="28" height="20" fill="#4169E1"/>
+  <rect x="20" y="38" width="24" height="16" fill="#6495ED"/>
+  
+  <!-- 肚子 -->
+  <rect x="24" y="40" width="16" height="12" fill="#87CEEB"/>
+  
+  <!-- 翅膀 -->
+  <rect x="8" y="38" width="12" height="14" fill="#4169E1"/>
+  <rect x="10" y="40" width="8" height="10" fill="#6495ED"/>
+  <rect x="44" y="38" width="12" height="14" fill="#4169E1"/>
+  <rect x="46" y="40" width="8" height="10" fill="#6495ED"/>
+  
+  <!-- 脚 -->
+  <rect x="24" y="56" width="4" height="6" fill="#FFA500"/>
+  <rect x="36" y="56" width="4" height="6" fill="#FFA500"/>
+  <rect x="22" y="60" width="8" height="2" fill="#FFA500"/>
+  <rect x="34" y="60" width="8" height="2" fill="#FFA500"/>
+</svg>

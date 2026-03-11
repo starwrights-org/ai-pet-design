@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" style="image-rendering: pixelated;">
+  <!-- Spirit Mote - 64x64 像素精灵 for 3D Billboard -->
+  
+  <!-- 外层光晕 -->
+  <rect x="20" y="4" width="24" height="4" fill="#E6E6FA"/>
+  <rect x="14" y="8" width="36" height="4" fill="#E6E6FA"/>
+  <rect x="10" y="12" width="44" height="40" fill="#E6E6FA"/>
+  <rect x="16" y="52" width="32" height="4" fill="#E6E6FA"/>
+  
+  <!-- 身体主色 -->
+  <rect x="22" y="8" width="20" height="4" fill="#DDA0DD"/>
+  <rect x="16" y="12" width="32" height="4" fill="#DDA0DD"/>
+  <rect x="14" y="16" width="36" height="36" fill="#DDA0DD"/>
+  <rect x="18" y="52" width="28" height="4" fill="#DDA0DD"/>
+  
+  <!-- 内层 -->
+  <rect x="18" y="14" width="28" height="4" fill="#E6E6FA"/>
+  <rect x="16" y="18" width="32" height="28" fill="#E6E6FA"/>
+  <rect x="20" y="46" width="24" height="6" fill="#E6E6FA"/>
+  
+  <!-- 眼睛（神秘风格） -->
+  <rect x="20" y="24" width="8" height="10" fill="#FFFFFF"/>
+  <rect x="36" y="24" width="8" height="10" fill="#FFFFFF"/>
+  <!-- 瞳孔（紫色） -->
+  <rect x="22" y="26" width="6" height="6" fill="#9370DB"/>
+  <rect x="38" y="26" width="6" height="6" fill="#9370DB"/>
+  <!-- 核心 -->
+  <rect x="24" y="28" width="2" height="2" fill="#4B0082"/>
+  <rect x="40" y="28" width="2" height="2" fill="#4B0082"/>
+  <!-- 高光 -->
+  <rect x="22" y="26" width="2" height="2" fill="#FFFFFF"/>
+  <rect x="38" y="26" width="2" height="2" fill="#FFFFFF"/>
+  
+  <!-- 嘴巴 -->
+  <rect x="30" y="38" width="4" height="2" fill="#9370DB"/>
+  
+  <!-- 漂浮粒子 -->
+  <rect x="8" y="20" width="4" height="4" fill="#DDA0DD"/>
+  <rect x="52" y="18" width="4" height="4" fill="#DDA0DD"/>
+  <rect x="6" y="36" width="2" height="2" fill="#E6E6FA"/>
+  <rect x="56" y="38" width="2" height="2" fill="#E6E6FA"/>
+  <rect x="26" y="2" width="2" height="2" fill="#DDA0DD"/>
+  <rect x="36" y="2" width="2" height="2" fill="#DDA0DD"/>
+  
+  <!-- 尾部渐隐效果 -->
+  <rect x="24" y="56" width="16" height="4" fill="#E6E6FA"/>
+  <rect x="28" y="60" width="8" height="2" fill="#F0F0FF"/>
+</svg>
